@@ -23,6 +23,9 @@
   <link rel="stylesheet" href="preview/lmpixels-demo-panel.css" type="text/css">
   <!-- /This styles needs for demo -->
 
+  <!-- Google Font -->
+  <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Oxygen:300,400,700" rel="stylesheet"> 
+  
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -794,7 +797,7 @@
               </figure>
               <!-- /Portfolio Item 18-->
 
-               <!-- Portfolio Item 19 -->
+              <!-- Portfolio Item 19 -->
               <figure class="item" data-groups='["all","website"]'>
                 <a class="ajax-page-load" href="#">
                   <img src="images/portfolio/shipm8.jpg" alt="">

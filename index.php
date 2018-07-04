@@ -12,12 +12,12 @@
   <meta name="author" content="lmtheme" />
   <link rel="shortcut icon" href="favicon.ico">
 
-  <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
+  <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
   <link rel="stylesheet" href="css/normalize.css" type="text/css">
   <link rel="stylesheet" href="css/animate.css" type="text/css">
   <link rel="stylesheet" href="css/transition-animations.css" type="text/css">
   <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css" type="text/css">
-  <link rel="stylesheet" href="css/owl.carousel.css" type="text/css">
+  <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
   <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
   <link rel="stylesheet" href="css/main-red.css" type="text/css">
 

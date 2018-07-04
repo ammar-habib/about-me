@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
-
-<!-- Mirrored from lmpixels.com/demo/unique/unique-vcard/index-dark.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 20 Sep 2017 18:22:36 GMT -->
 <head>
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
@@ -708,7 +706,7 @@
               <!-- Portfolio Item 13 -->
               <figure class="item" data-groups='["all","website"]'>
                 <a class="ajax-page-load" href="http://punjabpressclub.com.pk/">
-                  <img src="images/portfolio/Punjab.jpg" alt="">
+                  <img src="images/portfolio/punjab.jpg" alt="">
                   <div>
                     <h5 class="name">Punjab Press Club</h5>
                     <small>website</small>
@@ -758,7 +756,7 @@
               <!-- /Portfolio Item 15 -->
 
               <!-- Portfolio Item 16 -->
-              <figure class="item" data-groups='["all","website"]'>
+             <!--  <figure class="item" data-groups='["all","website"]'>
                 <a class="ajax-page-load" href="#">
                   <img src="images/portfolio/coc-2.jpg" alt="">
                   <div>
@@ -767,7 +765,7 @@
                     <i class="pe-7s-icon pe-7s-display2"></i>
                   </div>
                 </a>
-              </figure>
+              </figure> -->
               <!-- /Portfolio Item 16 -->
 
               <!-- Portfolio Item 17 -->

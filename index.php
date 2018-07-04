@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-  <title>Unique - Responsive vCard Template</title>
+  <title>Ammar Habib</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <meta name="description" content="Unique - Responsive vCard Template" />
   <meta name="keywords" content="vcard, resposnive, retina, resume, jquery, css3, bootstrap, Unique, portfolio" />
@@ -113,10 +113,13 @@
                 <h2>Ammar Habib</h2>
                 <div class="owl-carousel text-rotation">                                    
                   <div class="item">
-                    <p class="home-page-description">Web Developer</p>
+                    <p class="home-page-description">Web Designer & Developer</p>
                   </div>
                   <div class="item">
-                    <p class="home-page-description">Frontend Developer</p>
+                    <p class="home-page-description">UI / UX Developer</p>
+                  </div>
+                  <div class="item">
+                    <p class="home-page-description">Web Front End Developer</p>
                   </div>
                 </div>
               </div>
@@ -143,9 +146,9 @@
                 </div>
 
                 <div class="col-sm-6 col-md-6 col-lg-4">
-                  <h3>I am Web Developer @ BugdevStudios.com</h3>
-                  <p>Web Developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. And experience to make a user friendly and responsive web project using HTML, CSS, Bootstrap, JavaScript, JQuery</p>
-                  <p>And also experience to develop the mobile apps and ios apps UI/ UX useing framework7 </p>
+                  <h3 class="text-uppercase">I am Web Developer @ Keplor.com</h3>
+                  <p class="text-capitalize">Web Developer specializing in Front End Development. Experienced with all stages of the development cycle for dynamic web projects. And experience to make a user friendly and responsive web project using HTML, CSS, Bootstrap, JavaScript, JQuery</p>
+                  <p class="text-capitalize">And also experience to develop the mobile apps and ios apps UI/ UX using framework7 </p>
                 </div>
 
                 <div class="col-sm-6 col-md-6 col-lg-4 subpage-block">
@@ -172,11 +175,11 @@
               </div>
 
               <!-- Services block -->
-                <!-- <div class="block-title">
+              <!--   <div class="block-title">
                   <h3>Services</h3>
-                </div> -->
+                </div>
 
-              <!--   <div class="row">
+                <div class="row">
                   <div class="col-sm-6 col-md-3 subpage-block">
                     <div class="service-block"> 
                       <div class="service-info">
@@ -220,11 +223,11 @@
                 <!-- End of Services block -->
 
                 <!-- Clients block -->
-             <!--    <div class="block-title">
+               <!--  <div class="block-title">
                   <h3>Clients</h3>
-                </div> -->
+                </div>
 
-               <!--  <div class="row">
+                <div class="row">
                   <div class="col-sm-4 col-md-2 subpage-block">
                     <div class="client-block">
                       <a href="#" target="_blank"><img src="images/clients/client_1.png" alt="image"></a>
@@ -263,7 +266,7 @@
                 </div> -->
                 <!-- End of Clients block -->
 
-               <!--  <div class="row">
+                <!-- <div class="row">
                   <div class="col-sm-12 col-md-12 subpage-block">
                     <div class="block-title">
                       <h3>Testimonials</h3>
@@ -382,7 +385,7 @@
                     <div class="block-title">
                       <h3>Education</h3>
                     </div>
-                    <div class="timeline">
+                    <div class="timeline text-capitalize">
                       <!-- Single event -->
                       <div class="timeline-event te-primary">
                         <h5 class="event-date">2015</h5>
@@ -412,10 +415,16 @@
                     <div class="block-title">
                       <h3>Experience</h3>
                     </div>
-                    <div class="timeline">
+                    <div class="timeline text-capitalize">
                       <!-- Single event -->
-                      <div class="timeline-event te-primary">
-                        <h5 class="event-date">Aug 2016 - Current</h5>
+                      
+                      <div class="timeline-event te-primary ">
+                        <h5 class="event-date">May 2018 - Current</h5>
+                        <h4 class="event-name">Web Design &amp; developer</h4>
+                        <span class="event-description">keplor pvt ltd</span>
+                        <p>Responsible for working closely with the product management team to organize the web presence of clients, and to develop rich user interfaces for them.</p>
+                      </div><div class="timeline-event te-primary">
+                        <h5 class="event-date">Aug 2016 - April 2018</h5>
                         <h4 class="event-name">Web developer</h4>
                         <span class="event-description">BugdevStudios</span>
                         <p>Responsible for working closely with the product management team to organize the web presence of clients, and to develop rich user interfaces for them.</p>
@@ -465,66 +474,29 @@
                     <h3>Coding Skills</h3>
                   </div>
                   <div class="skills-info">
-                    <h4>HML5</h4>                               
+                    <h4>HML5, CSS3, Bootstrap</h4>                               
                     <div class="skill-container">
                       <div class="skill-percentage skill-4"></div>
                     </div>
 
-                    <h4>CSS3</h4>
+                    <h4>JavaScript, jQuery, Ajax</h4>
                     <div class="skill-container">
-                      <div class="skill-percentage skill-4"></div>
+                      <div class="skill-percentage skill-3"></div>
                     </div>
 
-                    <h4>Twitter Bootstrap</h4>
-                    <div class="skill-container">
-                      <div class="skill-percentage skill-5"></div>
-                    </div>
-
-                    <h4>jQuery</h4>
-                    <div class="skill-container">
-                      <div class="skill-percentage skill-6"></div>
-                    </div>
-
-                    <h4>JavaScript</h4>
+                    <h4>Wordpress</h4>
                     <div class="skill-container">
                       <div class="skill-percentage skill-3"></div>
                     </div>
 
                     <h4>Framework 7</h4>
                     <div class="skill-container">
-                      <div class="skill-percentage skill-6"></div>
+                      <div class="skill-percentage skill-3"></div>
                     </div>
 
-                    <h4>Wordpress</h4>
+                    <h4>PHP, Codeigniter, MVC, OPP, MySQL</h4>
                     <div class="skill-container">
-                      <div class="skill-percentage skill-6"></div>
-                    </div>
-
-                    <h4>PHP</h4>
-                    <div class="skill-container">
-                      <div class="skill-percentage skill-7"></div>
-                    </div>
-
-                    <div class="skills-info">
-                      <h4>Codeigniter</h4>                               
-                      <div class="skill-container">
-                        <div class="skill-percentage skill-7"></div>
-                      </div>
-
-                      <h4>MySQL</h4>
-                      <div class="skill-container">
-                        <div class="skill-percentage skill-7"></div>
-                      </div>
-
-                      <h4>OOP</h4>
-                      <div class="skill-container">
-                        <div class="skill-percentage skill-7"></div>
-                      </div> 
-
-                      <h4>MVC</h4>
-                      <div class="skill-container">
-                        <div class="skill-percentage skill-7"></div>
-                      </div> 
+                      <div class="skill-percentage skill-3"></div>
                     </div>
                   </div>
                 </div>
@@ -537,6 +509,8 @@
                 </div>
               </div>
             </div>
+
+            
           </section>
           <!-- End Resume Subpage -->
 
@@ -577,10 +551,10 @@
 
                   <!-- Portfolio Item 1 -->
                   <figure class="item" data-groups='["all", "website"]'>
-                    <a class="ajax-page-load" href="portfolio-1.html">
-                      <img src="images/portfolio/1.jpg" alt="">
+                    <a class="ajax-page-load" href="https://crucialappconcepts.com" target="_blank">
+                      <img src="images/portfolio/cac.jpg" alt="">
                       <div>
-                        <h5 class="name">Shipm8</h5>
+                        <h5 class="name">Crucial App Concepts</h5>
                         <small>Website</small>
                         <i class="pe-7s-icon pe-7s-display2"></i>
                       </div>
@@ -590,253 +564,356 @@
 
                   <!-- Portfolio Item 2 -->
                   <figure class="item" data-groups='["all", "wordpress"]'>
-                    <a href="https://player.vimeo.com/video/97102654?autoplay=1" title="Praesent Dolor Ex" class="lightbox mfp-iframe">
-                      <img src="images/portfolio/2.jpg" alt="">
-                      <div>
-                        <h5 class="name">Project Name</h5>
-                        <small>Video</small>
-                        <i class="pe-7s-icon pe-7s-video"></i>
-                      </div>
-                    </a>
-                  </figure>
-                  <!-- /Portfolio Item 2 -->
+                   <a class="ajax-page-load" href="https://alfanarrestaurant.com/en/" target="_blank">
+                    <img src="images/portfolio/alfanar.jpg" alt="">
+                    <div>
+                      <h5 class="name">Al Fanar Restaurant</h5>
+                      <small>Website</small>
+                      <i class="pe-7s-icon pe-7s-display2"></i>
+                    </div>
+                  </a>
+                </figure>
+                <!-- /Portfolio Item 2 -->
 
-                  <!-- Portfolio Item 3 -->
-                  <figure class="item" data-groups='["all","mobile-apps"]'>
-                    <a href="images/portfolio/full/3.jpg" class="lightbox" title="Duis Eu Eros Viverra">
-                      <img src="images/portfolio/3.jpg" alt="">
-                      <div>
-                        <h5 class="name">Project Name</h5>
-                        <small>Illustration</small>
-                        <i class="pe-7s-icon pe-7s-photo"></i>
-                      </div>
-                    </a>
-                  </figure>
-                  <!-- /Portfolio Item 3 -->
+                <!-- Portfolio Item 3 -->
+                <figure class="item" data-groups='["all","mobile-apps"]'>
+                  <a href="images/portfolio/app/ayestudy.jpg" class="lightbox" title="Aye Study">
+                    <img src="images/portfolio/app/ayestudy.jpg" alt="">
+                    <div>
+                      <h5 class="name">Aye Study</h5>
+                      <small>Mobile-apps</small>
+                      <i class="pe-7s-icon pe-7s-photo"></i>
+                    </div>
+                  </a>
+                </figure>
+                <!-- /Portfolio Item 3 -->
 
-                  <!-- Portfolio Item 4 -->
-                  <figure class="item" data-groups='["all", "website"]'>
-                    <a class="ajax-page-load" href="portfolio-2.html">
-                      <img src="images/portfolio/4.jpg" alt="">
-                      <div>
-                        <h5 class="name">Project Name</h5>
-                        <small>website</small>
-                        <i class="pe-7s-icon pe-7s-display2"></i>
-                      </div>
-                    </a>
-                  </figure>
-                  <!-- /Portfolio Item 4 -->
+                <!-- Portfolio Item 4 -->
+                <figure class="item" data-groups='["all", "website"]'>
+                  <a class="ajax-page-load" href="https://engineeringsupplies.co/">
+                    <img src="images/portfolio/engineeringsupplies.jpg" alt="">
+                    <div>
+                      <h5 class="name">Engineering Supplies</h5>
+                      <small>Website</small>
+                      <i class="pe-7s-icon pe-7s-display2"></i>
+                    </div>
+                  </a>
+                </figure>
+                <!-- /Portfolio Item 4 -->
 
-                  <!-- Portfolio Item 5 -->
-                  <figure class="item" data-groups='["all", "mobile-apps"]'>
-                    <a href="images/portfolio/full/5.jpg" class="lightbox" title="Aliquam Condimentum Magna Rhoncus">
-                      <img src="images/portfolio/5.jpg" alt="">
-                      <div>
-                        <h5 class="name">Project Name</h5>
-                        <small>Illustration</small>
-                        <i class="pe-7s-icon pe-7s-photo"></i>
-                      </div>
-                    </a>
-                  </figure>
-                  <!-- /Portfolio Item 5 -->
+                <!-- Portfolio Item 5 -->
+                <figure class="item" data-groups='["all", "mobile-apps"]'>
+                  <a href="images/portfolio/app/2.jpg" class="lightbox" title="eshipsol">
+                    <img src="images/portfolio/app/2.jpg" alt="">
+                    <div>
+                      <h5 class="name">eshipsol</h5>
+                      <small>Eshipsol</small>
+                      <i class="pe-7s-icon pe-7s-photo"></i>
+                    </div>
+                  </a>
+                </figure>
+                <!-- /Portfolio Item 5 -->
 
-                  <!-- Portfolio Item 6 -->
-                  <figure class="item" data-groups='["all", "website"]'>
-                    <a class="ajax-page-load" href="portfolio-3.html">
-                      <img src="images/portfolio/6.jpg" alt="">
-                      <div>
-                        <h5 class="name">Project Name</h5>
-                        <small>website</small>
-                        <i class="pe-7s-icon pe-7s-display2"></i>
-                      </div>
-                    </a>
-                  </figure>
-                  <!-- /Portfolio Item 6 -->
+                <!-- Portfolio Item 6 -->
+                <figure class="item" data-groups='["all", "website"]'>
+                  <a class="ajax-page-load" href="http://keplor.com/barber/">
+                    <img src="images/portfolio/barber.jpg" alt="">
+                    <div>
+                      <h5 class="name">BarBer Portal</h5>
+                      <small>website</small>
+                      <i class="pe-7s-icon pe-7s-display2"></i>
+                    </div>
+                  </a>
+                </figure>
+                <!-- /Portfolio Item 6 -->
 
-                  <!-- Portfolio Item 7 -->
-                  <figure class="item" data-groups='["all", "wordpress"]'>
-                    <a href="https://player.vimeo.com/video/97102654?autoplay=1" title="Nulla Facilisi" class="lightbox mfp-iframe">
-                      <img src="images/portfolio/7.jpg" alt="">
-                      <div>
-                        <h5 class="name">Project Name</h5>
-                        <small>Video</small>
-                        <i class="pe-7s-icon pe-7s-video"></i>
-                      </div>
-                    </a>
-                  </figure>
-                  <!-- /Portfolio Item 7 -->
+                <!-- Portfolio Item 7 -->
+                <figure class="item" data-groups='["all", "wordpress"]'>
+                  <a class="ajax-page-load" href="http://keplor.com/barber/">
+                    <img src="images/portfolio/eshipsol.com.jpg" alt="">
+                    <div>
+                      <h5 class="name">Eshipsol</h5>
+                      <small>Website</small>
+                      <i class="pe-7s-icon pe-7s-display2"></i>
+                    </div>
+                  </a>
+                </figure>
+                <!-- /Portfolio Item 7 -->
 
-                  <!-- Portfolio Item 8 -->
-                  <figure class="item" data-groups='["all",  "website"]'>
-                    <a class="ajax-page-load" href="portfolio-4.html">
-                      <img src="images/portfolio/8.jpg" alt="">
-                      <div>
-                        <h5 class="name">Project Name</h5>
-                        <small>website</small>
-                        <i class="pe-7s-icon pe-7s-display2"></i>
-                      </div>
-                    </a>
-                  </figure>
-                  <!-- /Portfolio Item 8 -->
+                <!-- Portfolio Item 8 -->
+                <figure class="item" data-groups='["all",  "website"]'>
+                 <a class="ajax-page-load" href="http://leonpublicis.com/barber/">
+                  <img src="images/portfolio/leonpublicis.jpg" alt="">
+                  <div>
+                    <h5 class="name">Leon publicis</h5>
+                    <small>Website</small>
+                    <i class="pe-7s-icon pe-7s-display2"></i>
+                  </div>
+                </a>
+              </figure>
+              <!-- /Portfolio Item 8 -->
 
-                  <!-- Portfolio Item 9 -->
-                  <figure class="item" data-groups='["all","mobile-apps"]'>
-                    <a href="images/portfolio/full/9.jpg" class="lightbox" title="Mauris Neque Dolor">
-                      <img src="images/portfolio/9.jpg" alt="">
-                      <div>
-                        <h5 class="name">Project Name</h5>
-                        <small>Illustration</small>
-                        <i class="pe-7s-icon pe-7s-photo"></i>
-                      </div>
-                    </a>
-                  </figure>
-                  <!-- /Portfolio Item 9 -->
+              <!-- Portfolio Item 9 -->
+              <figure class="item" data-groups='["all","mobile-apps"]'>
+                <a href="images/portfolio/app/ParkingApp.jpg" class="lightbox" title="ParkingApp">
+                  <img src="images/portfolio/app/ParkingApp.jpg" alt="">
+                  <div>
+                    <h5 class="name">ParkingApp</h5>
+                    <small>Mobile Apps</small>
+                    <i class="pe-7s-icon pe-7s-photo"></i>
+                  </div>
+                </a>
+              </figure>
+              <!-- /Portfolio Item 9 -->
 
-                  <!-- Portfolio Item 10 -->
-                  <figure class="item" data-groups='["all", "wordpress"]'>
-                    <a href="https://player.vimeo.com/video/97102654?autoplay=1" title="Donec Lectus Arcu" class="lightbox mfp-iframe">
-                      <img src="images/portfolio/10.jpg" alt="">
-                      <div>
-                        <h5 class="name">Project Name</h5>
-                        <small>Video</small>
-                        <i class="pe-7s-icon pe-7s-video"></i>
-                      </div>
-                    </a>
-                  </figure>
-                  <!-- /Portfolio Item 10 -->
+              <!-- Portfolio Item 10 -->
+              <figure class="item" data-groups='["all", "wordpress"]'>
+                <a class="ajax-page-load" href="http://www.sharpbrains.co.uk/">
+                  <img src="images/portfolio/Sharp-Brains-min.jpg" alt="">
+                  <div>
+                    <h5 class="name">Sharp Brains</h5>
+                    <small>Website</small>
+                    <i class="pe-7s-icon pe-7s-display2"></i>
+                  </div>
+                </a>
+              </figure>
+              <!-- /Portfolio Item 10 -->
 
-                  <!-- Portfolio Item 11 -->
-                  <figure class="item" data-groups='["all","mobile-apps"]'>
-                    <a href="images/portfolio/full/11.jpg" class="lightbox" title="Duis Eu Eros Viverra">
-                      <img src="images/portfolio/11.jpg" alt="">
-                      <div>
-                        <h5 class="name">Project Name</h5>
-                        <small>Illustration</small>
-                        <i class="pe-7s-icon pe-7s-photo"></i>
-                      </div>
-                    </a>
-                  </figure>
-                  <!-- /Portfolio Item 11 -->
+              <!-- Portfolio Item 11 -->
+              <figure class="item" data-groups='["all","mobile-apps"]'>
+                <a href="images/portfolio/app/wheel.jpg" class="lightbox" title="Reward Pup">
+                  <img src="images/portfolio/app/wheel.jpg" alt="">
+                  <div>
+                    <h5 class="name">Reward Pup</h5>
+                    <small>Mobile app</small>
+                    <i class="pe-7s-icon pe-7s-photo"></i>
+                  </div>
+                </a>
+              </figure>
+              <!-- /Portfolio Item 11 -->
 
-                  <!-- Portfolio Item 12 -->
-                  <figure class="item" data-groups='["all","website"]'>
-                    <a class="ajax-page-load" href="portfolio-5.html">
-                      <img src="images/portfolio/12.jpg" alt="">
-                      <div>
-                        <h5 class="name">Project Name</h5>
-                        <small>website</small>
-                        <i class="pe-7s-icon pe-7s-display2"></i>
-                      </div>
-                    </a>
-                  </figure>
-                  <!-- /Portfolio Item 12 -->
-                </div>
-                <!-- /Portfolio Grid -->
+              <!-- Portfolio Item 12 -->
+              <figure class="item" data-groups='["all","website"]'>
+                <a class="ajax-page-load" href="http://www.mygreenglobe.co">
+                  <img src="images/portfolio/green.jpg" alt="">
+                  <div>
+                    <h5 class="name">My Green Gobal</h5>
+                    <small>website</small>
+                    <i class="pe-7s-icon pe-7s-display2"></i>
+                  </div>
+                </a>
+              </figure>
+              <!-- /Portfolio Item 12 -->
 
-              </div>
-              <!-- /Portfolio Content -->
+              <!-- Portfolio Item 13 -->
+              <figure class="item" data-groups='["all","website"]'>
+                <a class="ajax-page-load" href="http://punjabpressclub.com.pk/">
+                  <img src="images/portfolio/Punjab.jpg" alt="">
+                  <div>
+                    <h5 class="name">Punjab Press Club</h5>
+                    <small>website</small>
+                    <i class="pe-7s-icon pe-7s-display2"></i>
+                  </div>
+                </a>
+              </figure>
+              <!-- /Portfolio Item 13 -->
+
+              <!-- Portfolio Item 14 -->
+              <figure class="item" data-groups='["all","website"]'>
+                <a class="ajax-page-load" href="#">
+                  <img src="images/portfolio/mysafe.jpg" alt="">
+                  <div>
+                    <h5 class="name">My Safe</h5>
+                    <small>Website</small>
+                    <i class="pe-7s-icon pe-7s-display2"></i>
+                  </div>
+                </a>
+              </figure>
+              <!-- /Portfolio Item 14 -->
+
+              <!-- Portfolio Item 14 -->
+              <figure class="item" data-groups='["all","website"]'>
+                <a class="ajax-page-load" href="http://keplor.com/keplor-print/">
+                  <img src="images/portfolio/leonprint.jpg" alt="">
+                  <div>
+                    <h5 class="name">Leon Prints</h5>
+                    <small>Website</small>
+                    <i class="pe-7s-icon pe-7s-display2"></i>
+                  </div>
+                </a>
+              </figure>
+              <!-- /Portfolio Item 14 -->
+
+              <!-- Portfolio Item 15 -->
+              <figure class="item" data-groups='["all","website"]'>
+                <a class="ajax-page-load" href="#">
+                  <img src="images/portfolio/b2b.jpg" alt="">
+                  <div>
+                    <h5 class="name">B2B Leading Page</h5>
+                    <small>Website</small>
+                    <i class="pe-7s-icon pe-7s-display2"></i>
+                  </div>
+                </a>
+              </figure>
+              <!-- /Portfolio Item 15 -->
+
+              <!-- Portfolio Item 16 -->
+              <figure class="item" data-groups='["all","website"]'>
+                <a class="ajax-page-load" href="#">
+                  <img src="images/portfolio/coc-2.jpg" alt="">
+                  <div>
+                    <h5 class="name">B2B Leading Page</h5>
+                    <small>Website</small>
+                    <i class="pe-7s-icon pe-7s-display2"></i>
+                  </div>
+                </a>
+              </figure>
+              <!-- /Portfolio Item 16 -->
+
+              <!-- Portfolio Item 17 -->
+              <figure class="item" data-groups='["all","website"]'>
+                <a class="ajax-page-load" href="#">
+                  <img src="images/portfolio/h2u.jpg" alt="">
+                  <div>
+                    <h5 class="name">Happy2you</h5>
+                    <small>Website</small>
+                    <i class="pe-7s-icon pe-7s-display2"></i>
+                  </div>
+                </a>
+              </figure>
+              <!-- /Portfolio Item 17-->
+
+              <!-- Portfolio Item 18 -->
+              <figure class="item" data-groups='["all","website"]'>
+                <a class="ajax-page-load" href="http://www.shs-groups.com">
+                  <img src="images/portfolio/shs.jpg" alt="">
+                  <div>
+                    <h5 class="name">Sadat Hamdani Sarkar</h5>
+                    <small>Website</small>
+                    <i class="pe-7s-icon pe-7s-display2"></i>
+                  </div>
+                </a>
+              </figure>
+              <!-- /Portfolio Item 18-->
+
+               <!-- Portfolio Item 19 -->
+              <figure class="item" data-groups='["all","website"]'>
+                <a class="ajax-page-load" href="#">
+                  <img src="images/portfolio/shipm8.jpg" alt="">
+                  <div>
+                    <h5 class="name">Shipm8</h5>
+                    <small>Website</small>
+                    <i class="pe-7s-icon pe-7s-display2"></i>
+                  </div>
+                </a>
+              </figure>
+              <!-- /Portfolio Item 19-->
             </div>
-          </section>
-          <!-- /Portfolio Subpage -->
-
-          <!-- Contact Subpage -->
-          <section class="pt-page pt-page-5" data-id="contact">
-            <div class="border-block-top-110"></div>
-            <div class="section-inner">
-              <div class="section-title-block">
-                <div class="section-title-wrapper">
-                  <h2 class="section-title">Contact</h2>
-                  <h5 class="section-description">Get in Touch</h5>
-                </div>
-              </div>
-
-              <div class="row">
-                <div class="col-sm-6 col-md-6 subpage-block">
-                  <div class="block-title">
-                    <h3>Get in Touch</h3>
-                  </div>
-                  <p>If you need any help regarding front end developing and WordPress or framework 7 UI/ UX  feel free to contact me</p>
-                  <div class="contact-info-block">
-                    <div class="ci-icon">
-                      <i class="pe-7s-icon pe-7s-map-marker"></i>
-                    </div>
-                    <div class="ci-text">
-                      <h5>Johar Town Lahore Pakistan</h5>
-                    </div>
-                  </div>
-                  <div class="contact-info-block">
-                    <div class="ci-icon">
-                      <i class="pe-7s-icon pe-7s-mail"></i>
-                    </div>
-                    <div class="ci-text">
-                      <h5>ammr.habib.mughal@gmail.com</h5>
-                    </div>
-                  </div>
-                  <div class="contact-info-block">
-                    <div class="ci-icon">
-                      <i class="pe-7s-icon pe-7s-call"></i>
-                    </div>
-                    <div class="ci-text">
-                      <h5>+92 335 6164660</h5>
-                    </div>
-                  </div>
-                  <div class="contact-info-block">
-                    <div class="ci-icon">
-                      <i class="pe-7s-icon pe-7s-check"></i>
-                    </div>
-                    <div class="ci-text">
-                      <h5>Freelance Available</h5>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-sm-6 col-md-6 subpage-block">
-                  <div class="block-title">
-                    <h3>Contact Form</h3>
-                  </div>
-                  <form id="contact-form" method="post" action="http://lmpixels.com/demo/unique/unique-vcard/contact_form/contact_form.php">
-
-                    <div class="messages"></div>
-
-                    <div class="controls">
-                      <div class="form-group">
-                        <input id="form_name" type="text" name="name" class="form-control" placeholder="Full Name" required="required" data-error="Name is required.">
-                        <div class="form-control-border"></div>
-                        <i class="form-control-icon pe-7s-user"></i>
-                        <div class="help-block with-errors"></div>
-                      </div>
-
-                      <div class="form-group">
-                        <input id="form_email" type="email" name="email" class="form-control" placeholder="Email Address" required="required" data-error="Valid email is required.">
-                        <div class="form-control-border"></div>
-                        <i class="form-control-icon pe-7s-mail"></i>
-                        <div class="help-block with-errors"></div>
-                      </div>
-
-                      <div class="form-group">
-                        <textarea id="form_message" name="message" class="form-control" placeholder="Message for Me" rows="4" required="required" data-error="Please, leave me a message."></textarea>
-                        <div class="form-control-border"></div>
-                        <i class="form-control-icon pe-7s-comment"></i>
-                        <div class="help-block with-errors"></div>
-                      </div>
-
-                      <input type="submit" class="button btn-send" value="Send message">
-                    </div>
-                  </form>
-                </div>
-              </div>
-            </div>
-          </section>
-          <!-- End Contact Subpage -->
-
+            <!-- /Portfolio Grid -->
+          </div>
+          <!-- /Portfolio Content -->
         </div>
-      </div>
-      <!-- /Page changer wrapper -->
-    </div>
-    <!-- /Main Content -->
-  </div>
+      </section>
+      <!-- /Portfolio Subpage -->
 
-  <!-- Demo Color changer -->
+      <!-- Contact Subpage -->
+      <section class="pt-page pt-page-5" data-id="contact">
+        <div class="border-block-top-110"></div>
+        <div class="section-inner">
+          <div class="section-title-block">
+            <div class="section-title-wrapper">
+              <h2 class="section-title">Contact</h2>
+              <h5 class="section-description">Get in Touch</h5>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-6 col-md-6 subpage-block">
+              <div class="block-title">
+                <h3>Get in Touch</h3>
+              </div>
+              <p>If you need any help regarding front end developing and WordPress or framework 7 UI/ UX  feel free to contact me</p>
+              <div class="contact-info-block">
+                <div class="ci-icon">
+                  <i class="pe-7s-icon pe-7s-map-marker"></i>
+                </div>
+                <div class="ci-text">
+                  <h5>Johar Town Lahore Pakistan</h5>
+                </div>
+              </div>
+              <div class="contact-info-block">
+                <div class="ci-icon">
+                  <i class="pe-7s-icon pe-7s-mail"></i>
+                </div>
+                <div class="ci-text">
+                  <h5>ammr.habib.mughal@gmail.com</h5>
+                </div>
+              </div>
+              <div class="contact-info-block">
+                <div class="ci-icon">
+                  <i class="pe-7s-icon pe-7s-call"></i>
+                </div>
+                <div class="ci-text">
+                  <h5>+92 335 6164660</h5>
+                </div>
+              </div>
+              <div class="contact-info-block">
+                <div class="ci-icon">
+                  <i class="pe-7s-icon pe-7s-check"></i>
+                </div>
+                <div class="ci-text">
+                  <h5>Freelance Available</h5>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-sm-6 col-md-6 subpage-block">
+              <div class="block-title">
+                <h3>Contact Form</h3>
+              </div>
+              <form id="contact-form" method="post" action="http://lmpixels.com/demo/unique/unique-vcard/contact_form/contact_form.php">
+
+                <div class="messages"></div>
+
+                <div class="controls">
+                  <div class="form-group">
+                    <input id="form_name" type="text" name="name" class="form-control" placeholder="Full Name" required="required" data-error="Name is required.">
+                    <div class="form-control-border"></div>
+                    <i class="form-control-icon pe-7s-user"></i>
+                    <div class="help-block with-errors"></div>
+                  </div>
+
+                  <div class="form-group">
+                    <input id="form_email" type="email" name="email" class="form-control" placeholder="Email Address" required="required" data-error="Valid email is required.">
+                    <div class="form-control-border"></div>
+                    <i class="form-control-icon pe-7s-mail"></i>
+                    <div class="help-block with-errors"></div>
+                  </div>
+
+                  <div class="form-group">
+                    <textarea id="form_message" name="message" class="form-control" placeholder="Message for Me" rows="4" required="required" data-error="Please, leave me a message."></textarea>
+                    <div class="form-control-border"></div>
+                    <i class="form-control-icon pe-7s-comment"></i>
+                    <div class="help-block with-errors"></div>
+                  </div>
+
+                  <input type="submit" class="button btn-send" value="Send message">
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Contact Subpage -->
+
+    </div>
+  </div>
+  <!-- /Page changer wrapper -->
+</div>
+<!-- /Main Content -->
+</div>
+
+<!-- Demo Color changer -->
   <!-- <a id="lm_demo_panel_switcher" class="lm-demo-panel-switcher right"><i class="fa fa-gear"></i></a>
   <div id="lm_demo_panel" class="lm-demo-panel right panel-color-red active">
     <div class="demo-panel-title">Template Style</div>

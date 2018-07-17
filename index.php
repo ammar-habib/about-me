@@ -142,7 +142,7 @@
               <div class="row">
                 <div class="col-sm-6 col-md-6 col-lg-4 subpage-block">
                   <div class="my-photo-block tilt-effect">
-                    <img src="images/photo.jpg" alt="">
+                    <img src="images/03-new.png" alt="">
                   </div>
                 </div>
 

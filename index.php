@@ -11,6 +11,7 @@
   <link rel="shortcut icon" href="favicon.ico">
 
   <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+  <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
   <link rel="stylesheet" href="css/normalize.css" type="text/css">
   <link rel="stylesheet" href="css/animate.css" type="text/css">
   <link rel="stylesheet" href="css/transition-animations.css" type="text/css">
@@ -26,17 +27,6 @@
   <!-- Google Font -->
   <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Oxygen:300,400,700" rel="stylesheet"> 
   
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','../../../../www.google-analytics.com/analytics.js','ga');
-    
-    ga('create', 'UA-96534204-1', 'auto');
-    ga('send', 'pageview');
-    
-  </script>
-
   <script src="js/jquery-2.1.3.min.js"></script>
   <script src="js/modernizr.custom.js"></script>
 </head>
@@ -55,7 +45,7 @@
     <!-- Header -->
     <header id="site_header" class="header mobile-menu-hide header-color-dark">
       <div class="my-photo tilt-effect">
-        <img src="images/photo.jpg" alt="image">
+        <img src="images/03-new.png" alt="image">
       </div>
 
       <div class="site-title-block">
@@ -147,9 +137,9 @@
                 </div>
 
                 <div class="col-sm-6 col-md-6 col-lg-4">
-                  <h3 class="text-uppercase">I am Web Developer @ Keplor.com</h3>
-                  <p class="text-capitalize">Web Developer specializing in Front End Development. Experienced with all stages of the development cycle for dynamic web projects. And experience to make a user friendly and responsive web project using HTML, CSS, Bootstrap, JavaScript, JQuery</p>
-                  <p class="text-capitalize">And also experience to develop the mobile apps and ios apps UI/ UX using framework7 </p>
+                  <h3 class="text-uppercase">I am Front End Developer @ Keplor.com</h3>
+                  <p class="text-capitalize">Front-end developer with a track record in transforming web designers' static prototypes into hand-coded HTML, emphasizing web standards; utilizing responsive design and mobile-first principles; maintaining cross-browser/cross-platform compatibility; and ensuring accessibility.</p>
+                  <p class="text-capitalize">Specialties: Front-End Development, Web Design, User Interface Design</p>
                 </div>
 
                 <div class="col-sm-6 col-md-6 col-lg-4 subpage-block">
@@ -442,45 +432,47 @@
 
                   <div class="col-sm-6 col-md-4 subpage-block">
                    <div class="block-title">
-                    <h3>Technical Skills</h3>
+                    <h3>Area of Expertise</h3>
                   </div>
                   <div class="skills-info">
-                    <h4>PSD to HTML</h4>                               
+                    <h4>UI / UX Development & Designing</h4>                               
                     <div class="skill-container">
                       <div class="skill-percentage skill-4"></div>
                     </div>
-
-                    <h4>Responsive Web Template</h4>
+                    <h4>Front End Development & Designing</h4>
                     <div class="skill-container">
                       <div class="skill-percentage skill-4"></div>
                     </div>
-
-                    <h4>UI / UX Developing</h4>
+                    <h4>Responsive Web Layout, Cross Browser Compatibility</h4>
                     <div class="skill-container">
                       <div class="skill-percentage skill-4"></div>
                     </div>
-
-                    <h4>Cross Browser Compatibility</h4>
-                    <div class="skill-container">
-                      <div class="skill-percentage skill-4"></div>
-                    </div>
-
-                    <h4>WC3 Validation</h4>
+                    <h4>WC3 Validation, Code Quality, Technical Capability</h4>
                     <div class="skill-container">
                       <div class="skill-percentage skill-4"></div>
                     </div>
                   </div>
 
                   <div class="block-title">
-                    <h3>Coding Skills</h3>
+                    <h3>Web Development Skills</h3>
                   </div>
                   <div class="skills-info">
-                    <h4>HML5, CSS3, Bootstrap</h4>                               
+                    <h4>PSD to HTML , Sketch to HTML</h4>                               
                     <div class="skill-container">
                       <div class="skill-percentage skill-4"></div>
                     </div>
 
-                    <h4>JavaScript, jQuery, Ajax</h4>
+                    <h4>HTML 5, CSS 3, Bootstrap, SASS</h4>                               
+                    <div class="skill-container">
+                      <div class="skill-percentage skill-4"></div>
+                    </div>
+
+                    <h4>JavaScript, JQuery, Ajax, Json</h4>
+                    <div class="skill-container">
+                      <div class="skill-percentage skill-3"></div>
+                    </div>
+
+                    <h4>HTML to React.js & Vue.js Component</h4>
                     <div class="skill-container">
                       <div class="skill-percentage skill-3"></div>
                     </div>

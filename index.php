@@ -25,8 +25,8 @@
   <!-- /This styles needs for demo -->
 
   <!-- Google Font -->
-  <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Oxygen:300,400,700" rel="stylesheet"> 
-  
+<!--   <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Oxygen:300,400,700" rel="stylesheet"> 
+ -->  
   <script src="js/jquery-2.1.3.min.js"></script>
   <script src="js/modernizr.custom.js"></script>
 </head>
@@ -137,7 +137,7 @@
                 </div>
 
                 <div class="col-sm-6 col-md-6 col-lg-4">
-                  <h3 class="text-uppercase">I am Front End Developer @ Keplor.com</h3>
+                  <h3 class="text-capitalize">I am Front End Developer <br/> @ Keplor.com</h3>
                   <p class="text-capitalize">Front-end developer with a track record in transforming web designers' static prototypes into hand-coded HTML, emphasizing web standards; utilizing responsive design and mobile-first principles; maintaining cross-browser/cross-platform compatibility; and ensuring accessibility.</p>
                   <p class="text-capitalize">Specialties: Front-End Development, Web Design, User Interface Design</p>
                 </div>

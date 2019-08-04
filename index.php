@@ -45,7 +45,7 @@
     <!-- Header -->
     <header id="site_header" class="header mobile-menu-hide header-color-dark">
         <div class="my-photo tilt-effect">
-            <img src="images/03-new.png" alt="image">
+            <img src="images/profile-half.png" alt="image">
         </div>
 
         <div class="site-title-block">
@@ -138,7 +138,7 @@
                         <div class="row">
                             <div class="col-sm-6 col-md-6 col-lg-4 subpage-block">
                                 <div class="my-photo-block tilt-effect">
-                                    <img src="images/03-new.png" alt="">
+                                    <img src="images/profile-half.png" alt="">
                                 </div>
                             </div>
 
@@ -477,10 +477,6 @@
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-4"></div>
                                     </div>
-                                    <h4>Front End Development & Designing</h4>
-                                    <div class="skill-container">
-                                        <div class="skill-percentage skill-4"></div>
-                                    </div>
                                     <h4>Responsive Web Layout, Cross Browser Compatibility, pixel perfection</h4>
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-4"></div>
@@ -488,6 +484,10 @@
                                     <h4>WC3 Validation, Code Quality, Technical Capability</h4>
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-4"></div>
+                                    </div>
+                                    <h4>Testing and Debugging</h4>
+                                    <div class="skill-container">
+                                        <div class="skill-percentage skill-5"></div>
                                     </div>
                                 </div>
 
@@ -515,7 +515,7 @@
                                         <div class="skill-percentage skill-3"></div>
                                     </div>
 
-                                    <h4>React.js, Vue.js</h4>
+                                    <h4>React.JS, Vue.JS, Angular JS</h4>
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-3"></div>
                                     </div>
@@ -539,16 +539,12 @@
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-4"></div>
                                     </div>
-                                    <h4>Testing and Debugging</h4>
-                                    <div class="skill-container">
-                                        <div class="skill-percentage skill-5"></div>
-                                    </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-sm-12 col-md-12">
                                     <div class="download-cv-block">
-                                        <a class="button" target="_blank" href="#">Download CV</a>
+                                        <a class="button" target="_blank" href="https://www.visualcv.com/ammarhabib">Download CV</a>
                                     </div>
                                 </div>
                             </div>

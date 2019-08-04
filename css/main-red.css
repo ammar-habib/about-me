@@ -37,11 +37,6 @@
 /* Google fonts */
 /*@import url("http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Oxygen:300,400,700");
 */
-
-@font-face {
-    font-family: ;
-    src: url('../fonts/Oxygen-Regular.ttf');  
-}
 @font-face {
     font-family: PT Sans;
     src: url('../fonts/PT_Sans-Web-Regular.ttf');
@@ -1284,7 +1279,7 @@ ul.social-links li:last-child a {
 
 .skills-info h4 { 
   font-size: 0.8em;
-  line-height: 1.1em;
+  line-height: normal;
   position: relative; 
   margin: 0 0 5px;
 }

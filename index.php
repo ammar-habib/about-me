@@ -143,7 +143,7 @@
                             </div>
 
                             <div class="col-sm-6 col-md-6 col-lg-4">
-                                <h3 class="text-capitalize">I am Front end developer <br/> @ TechMatTech.com</h3>
+                                <h3 class="text-capitalize">I am Front end developer <br/> @ TechMateTech.com</h3>
                                 <p class="text-capitalize">Front-end developer with a track record in transforming web
                                     designers' static prototypes into hand-coded HTML, emphasizing web standards;
                                     utilizing responsive design and mobile-first principles; maintaining
@@ -500,7 +500,7 @@
                                         <div class="skill-percentage skill-4"></div>
                                     </div>
 
-                                    <h4>HTML 5, CSS 3, SASS, LESS</h4>
+                                    <h4>HTML 5, CSS 3, SASS, LESS, BEM</h4>
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-4"></div>
                                     </div>
@@ -520,7 +520,8 @@
                                         <div class="skill-percentage skill-3"></div>
                                     </div>
 
-                                    <h4>WordPress, Framework 7</h4>
+
+                                    <h4>Hybrid apps usign Ionic, Framework 7</h4>
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-3"></div>
                                     </div>
@@ -530,7 +531,7 @@
                                         <div class="skill-percentage skill-3"></div>
                                     </div>
 
-                                    <h4>Sketch, Zeplin, Figma, Invision ,Adobe photoshop</h4>
+                                    <h4>Sketch, Zeplin, Figma, Invision ,Adobe Photoshop</h4>
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-4"></div>
                                     </div>
@@ -605,7 +606,7 @@
                                 <!-- Portfolio Item 2 -->
                                 <figure class="item" data-groups='["all", "wordpress"]'>
                                     <a class="ajax-page-load" href="https://alfanarrestaurant.com/en/" target="_blank">
-                                        <img src="images/portfolio/alfanar.jpg" alt="">
+                                        <img src="images/portfolio/alfanar-new.jpg" alt="">
                                         <div>
                                             <h5 class="name">Al Fanar Restaurant</h5>
                                             <small>Website</small>

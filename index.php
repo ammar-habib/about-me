@@ -507,7 +507,7 @@
                                         <div class="skill-percentage skill-4"></div>
                                     </div>
 
-                                    <h4>HTML 5, CSS 3, SASS, LESS</h4>
+                                    <h4>HTML 5, CSS 3, SASS, LESS, BEM</h4>
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-4"></div>
                                     </div>
@@ -527,7 +527,8 @@
                                         <div class="skill-percentage skill-3"></div>
                                     </div>
 
-                                    <h4>WordPress, Framework 7</h4>
+
+                                    <h4>Hybrid apps usign Ionic, Framework 7</h4>
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-3"></div>
                                     </div>
@@ -537,7 +538,7 @@
                                         <div class="skill-percentage skill-3"></div>
                                     </div>
 
-                                    <h4>Sketch, Zeplin, Figma, Invision ,Adobe photoshop</h4>
+                                    <h4>Sketch, Zeplin, Figma, Invision ,Adobe Photoshop</h4>
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-4"></div>
                                     </div>

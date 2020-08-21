@@ -158,7 +158,7 @@
 
                             <div class="col-sm-6 col-md-6 col-lg-4 subpage-block">
                                 <ul class="info-list">
-                                    <li><span class="title">e-mail</span><span class="value"><a
+                                    <li><span class="title">E-mail</span><span class="value"><a
                                                     href="mailto:email@example.com">ammr.habib.mughal@gmail.com</a></span>
                                     </li>
                                     <li><span class="title">Phone</span><span class="value">+92 335 616 4660</span></li>

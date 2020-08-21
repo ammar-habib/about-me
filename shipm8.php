@@ -18,14 +18,14 @@
             <div class="col-sm-7 col-md-7 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="images/portfolio/shipm8.jpg" alt="">
+                        <img src="images/portfolio/shipm8/ship1.png" alt="">
                     </div>
-                    <!--                    <div class="item">-->
-                    <!--                        <img src="images/portfolio/exosecure/exosecure1.png" alt="">-->
-                    <!--                    </div>-->
-                    <!--                    <div class="item">-->
-                    <!--                        <img src="images/portfolio/exosecure/exosecure1.png" alt="">-->
-                    <!--                    </div>-->
+                    <div class="item">
+                        <img src="images/portfolio/shipm8/ship2.png" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="images/portfolio/shipm8/ship3.png" alt="">
+                    </div>
                 </div>
                 <!--
                 <div class="portfolio-page-image">

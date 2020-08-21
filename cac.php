@@ -18,14 +18,14 @@
             <div class="col-sm-7 col-md-7 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="images/portfolio/cac.jpg" alt="">
+                        <img src="images/portfolio/cac/caa1.png" alt="">
                     </div>
-<!--                    <div class="item">-->
-<!--                        <img src="images/portfolio/exosecure/exosecure1.png" alt="">-->
-<!--                    </div>-->
-<!--                    <div class="item">-->
-<!--                        <img src="images/portfolio/exosecure/exosecure1.png" alt="">-->
-<!--                    </div>-->
+                    <div class="item">
+                        <img src="images/portfolio/cac/cac2.png" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="images/portfolio/cac/cac3.png" alt="">
+                    </div>
                 </div>
                 <!--
                 <div class="portfolio-page-image">

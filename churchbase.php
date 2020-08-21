@@ -18,21 +18,15 @@
             <div class="col-sm-7 col-md-7 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="images/portfolio/chbase.jpg" alt="">
+                        <img src="images/portfolio/churchbase/chbase1.png" alt="">
                     </div>
-<!--                    <div class="item">-->
-<!--                        <img src="images/portfolio/exosecure/exosecure1.png" alt="">-->
-<!--                    </div>-->
-<!--                    <div class="item">-->
-<!--                        <img src="images/portfolio/exosecure/exosecure1.png" alt="">-->
-<!--                    </div>-->
+                    <div class="item">
+                        <img src="images/portfolio/churchbase/chbase2.png" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="images/portfolio/churchbase/chbase3.png" alt="">
+                    </div>
                 </div>
-                <!--
-                <div class="portfolio-page-image">
-                    <img src="images/portfolio/1.jpg" alt="">
-                </div>
-                -->
-
                 <script type="text/javascript">
                     function customAjaxScroll() {
                         var windowWidth = $(window).width();

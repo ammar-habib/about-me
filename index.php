@@ -12,7 +12,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
-<!--    <link rel="shortcut icon" href="favicon.ico">-->
+    <!--    <link rel="shortcut icon" href="favicon.ico">-->
 
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
@@ -158,33 +158,33 @@
 
                             <div class="col-sm-6 col-md-6 col-lg-4 subpage-block">
                                 <ul class="info-list">
-                                    <li><span class="title">Age</span><span class="value">26</span></li>
-                                    <li><span class="title">Residence</span><span class="value">Pakistan</span></li>
-                                    <li><span class="title">Address</span><span
-                                                class="value">H3 Block Johar Town Lahore</span></li>
                                     <li><span class="title">e-mail</span><span class="value"><a
                                                     href="mailto:email@example.com">ammr.habib.mughal@gmail.com</a></span>
                                     </li>
                                     <li><span class="title">Phone</span><span class="value">+92 335 616 4660</span></li>
                                     <li><span class="title">Skype</span><span class="value">ammar4660</span></li>
+                                    <!--                                    <li><span class="title">Age</span><span class="value">26</span></li>-->
+                                    <li><span class="title">Residence</span><span class="value">Pakistan</span></li>
+                                    <li><span class="title">Address</span><span
+                                                class="value">H3 Block Johar Town Lahore</span></li>
                                     <li><span class="title">Freelance</span><span
                                                 class="value available">Available</span></li>
                                 </ul>
 
                                 <ul class="social-links">
-
+                                    <li><a target="_blank" lass="tip social-button"
+                                           href="https://bitbucket.org/Ammar-Habib/" title="BitBucket"><i
+                                                    class="fa fa-bitbucket"></i></a></li>
                                     <li><a class="tip social-button" target="_blank"
                                            href="https://www.linkedin.com/in/ammar-habib-947bb8105/" title="Linkend"><i
                                                     class="fa fa-linkedin"></i></a></li>
-                                    <li><a target="_blank" lass="tip social-button" href="https://bitbucket.org/Ammar-Habib/" title="BitBucket"><i
-                                                    class="fa fa-bitbucket"></i></a></li>
                                     <li><a class="tip social-button" target="_blank"
                                            href="https://www.facebook.com/ammarhabibmughal/" title="Facebook"><i
                                                     class="fa fa-facebook"></i></a></li>
-<!--                                    <li><a class="tip social-button" href="#" title="Youtube"><i-->
-<!--                                                    class="fa fa-youtube"></i></a></li>-->
-<!--                                    <li><a class="tip social-button" href="#" title="Instagram"><i-->
-<!--                                                    class="fa fa-instagram"></i></a></li>-->
+                                    <!--                                    <li><a class="tip social-button" href="#" title="Youtube"><i-->
+                                    <!--                                                    class="fa fa-youtube"></i></a></li>-->
+                                    <!--                                    <li><a class="tip social-button" href="#" title="Instagram"><i-->
+                                    <!--                                                    class="fa fa-instagram"></i></a></li>-->
                                     <!--<li><a class="tip social-button" href="#" title="last.fm"><i class="fa fa-lastfm"></i></a></li>-->
                                     <!--<li><a class="tip social-button" href="#" title="Dribbble"><i class="fa fa-dribbble"></i></a></li>-->
                                 </ul>
@@ -192,198 +192,196 @@
                         </div>
 
                         <!-- Services block -->
-                         <div class="block-title">
+                        <div class="block-title">
                             <h3>Services</h3>
-                          </div>
+                        </div>
 
-                          <div class="row">
+                        <div class="row">
                             <div class="col-sm-6 col-md-3 subpage-block">
-                              <div class="service-block">
-                                <div class="service-info">
-                                  <img src="images/service/web_design_icon.png" alt="Responsive Design">
-                                  <h4>Front End Web Development</h4>
-<!--                                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>-->
+                                <div class="service-block">
+                                    <div class="service-info">
+                                        <img src="images/service/programmer-computer.svg" alt="Responsive Design">
+                                        <h4>Front End Development</h4>
+                                    </div>
                                 </div>
-                              </div>
                             </div>
 
                             <div class="col-sm-6 col-md-3 subpage-block">
-                              <div class="service-block">
-                                <div class="service-info">
-                                    <img src="images/service/web_design_icon.png" alt="Responsive Design">
-<!--                                  <img src="images/service/photography_icon.png" alt="Photography">-->
-                                  <h4>Web Development</h4>
-<!--                                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>-->
+                                <div class="service-block">
+                                    <div class="service-info">
+                                        <img src="images/service/website-ui-ux.svg" alt="Responsive Design">
+                                        <h4>UX / UI Development</h4>
+                                    </div>
                                 </div>
-                              </div>
                             </div>
 
                             <div class="col-sm-6 col-md-3 subpage-block">
-                              <div class="service-block">
-                                <div class="service-info">
-                                    <img src="images/service/web_design_icon.png" alt="Responsive Design">
-<!--                                  <img src="images/service/creativity_icon.png" alt="Creativity">-->
-                                  <h4>Mobile Apps Development</h4>
-<!--                                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>-->
+                                <div class="service-block">
+                                    <div class="service-info">
+                                        <img src="images/service/mobile-app-design.svg" alt="Responsive Design">
+                                        <h4>Mobile Apps Development</h4>
+                                    </div>
                                 </div>
-                              </div>
                             </div>
 
                             <div class="col-sm-6 col-md-3 subpage-block">
-                              <div class="service-block">
-                                <div class="service-info">
-                                    <img src="images/service/web_design_icon.png" alt="Responsive Design">
-<!--                                  <img src="iages/service/advetising_icon.png" alt="Advetising">-->
-                                  <h4>Email & News Letters Development</h4>
-<!--                                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>-->
+                                <div class="service-block">
+                                    <div class="service-info">
+                                        <img src="images/service/envelope-line.svg" alt="Responsive Design">
+                                        <h4>Email & News Letters Development</h4>
+                                    </div>
                                 </div>
-                              </div>
                             </div>
-                          </div>
+                        </div>
                         <!-- End of Services block -->
 
                         <!-- Clients block -->
-<!--                        <div class="block-title">-->
-<!--                           <h3>Clients</h3>-->
-<!--                         </div>-->
-<!---->
-<!--                         <div class="row">-->
-<!--                           <div class="col-sm-4 col-md-2 subpage-block">-->
-<!--                             <div class="client-block">-->
-<!--                               <a href="#" target="_blank"><img src="images/clients/client_1.png" alt="image"></a>-->
-<!--                             </div>-->
-<!--                           </div>-->
-<!---->
-<!--                           <div class="col-sm-4 col-md-2 subpage-block">-->
-<!--                             <div class="client-block">-->
-<!--                               <a href="#" target="_blank"><img src="images/clients/client_2.png" alt="image"></a>-->
-<!--                             </div>-->
-<!--                           </div>-->
-<!---->
-<!--                           <div class="col-sm-4 col-md-2 subpage-block">-->
-<!--                             <div class="client-block">-->
-<!--                               <a href="#" target="_blank"><img src="images/clients/client_3.png" alt="image"></a>-->
-<!--                             </div>-->
-<!--                           </div>-->
-<!---->
-<!--                           <div class="col-sm-4 col-md-2 subpage-block">-->
-<!--                             <div class="client-block">-->
-<!--                               <a href="#" target="_blank"><img src="images/clients/client_4.png" alt="image"></a>-->
-<!--                             </div>-->
-<!--                           </div>-->
-<!---->
-<!--                           <div class="col-sm-4 col-md-2 subpage-block">-->
-<!--                             <div class="client-block">-->
-<!--                               <a href="#" target="_blank"><img src="images/clients/client_5.png" alt="image"></a>-->
-<!--                             </div>-->
-<!--                           </div>-->
-<!---->
-<!--                           <div class="col-sm-4 col-md-2 subpage-block">-->
-<!--                             <div class="client-block">-->
-<!--                               <a href="#" target="_blank"><img src="images/clients/client_6.png" alt="image"></a>-->
-<!--                             </div>-->
-<!--                           </div>-->
-<!--                         </div>-->
+                        <!--                        <div class="block-title">-->
+                        <!--                            <h3>Clients</h3>-->
+                        <!--                        </div>-->
+                        <!--                        <div class="row">-->
+                        <!--                            <div class="col-sm-4 col-md-2 subpage-block">-->
+                        <!--                                <div class="client-block">-->
+                        <!--                                    <a href="#" target="_blank"><img src="images/clients/client_1.png" alt="image"></a>-->
+                        <!--                                </div>-->
+                        <!--                            </div>-->
+                        <!---->
+                        <!--                            <div class="col-sm-4 col-md-2 subpage-block">-->
+                        <!--                                <div class="client-block">-->
+                        <!--                                    <a href="#" target="_blank"><img src="images/clients/client_2.png" alt="image"></a>-->
+                        <!--                                </div>-->
+                        <!--                            </div>-->
+                        <!---->
+                        <!--                            <div class="col-sm-4 col-md-2 subpage-block">-->
+                        <!--                                <div class="client-block">-->
+                        <!--                                    <a href="#" target="_blank"><img src="images/clients/client_3.png" alt="image"></a>-->
+                        <!--                                </div>-->
+                        <!--                            </div>-->
+                        <!---->
+                        <!--                            <div class="col-sm-4 col-md-2 subpage-block">-->
+                        <!--                                <div class="client-block">-->
+                        <!--                                    <a href="#" target="_blank"><img src="images/clients/client_4.png" alt="image"></a>-->
+                        <!--                                </div>-->
+                        <!--                            </div>-->
+                        <!---->
+                        <!--                            <div class="col-sm-4 col-md-2 subpage-block">-->
+                        <!--                                <div class="client-block">-->
+                        <!--                                    <a href="#" target="_blank"><img src="images/clients/client_5.png" alt="image"></a>-->
+                        <!--                                </div>-->
+                        <!--                            </div>-->
+                        <!---->
+                        <!--                            <div class="col-sm-4 col-md-2 subpage-block">-->
+                        <!--                                <div class="client-block">-->
+                        <!--                                    <a href="#" target="_blank"><img src="images/clients/client_6.png" alt="image"></a>-->
+                        <!--                                </div>-->
+                        <!--                            </div>-->
+                        <!--                        </div>-->
                         <!-- End of Clients block -->
 
-<!--                        <div class="row">-->
-<!--                          <div class="col-sm-12 col-md-12 subpage-block">-->
-<!--                            <div class="block-title">-->
-<!--                              <h3>Testimonials</h3>-->
-<!--                            </div>-->
-<!--                            <div class="testimonials owl-carousel">-->
-<!--                              <div class="testimonial-item">-->
-<!--                                <div class="testimonial-content">-->
-<!--                                  <div class="testimonial-text">-->
-<!--                                    <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed sed ipsum sed massa."</p>-->
-<!--                                  </div>-->
-<!--                                </div>-->
-<!--                                <div class="testimonial-credits">-->
-<!--                                  <div class="testimonial-picture">-->
-<!--                                    <img src="images/testimonials/testimonial_photo_1.jpg" alt="">-->
-<!--                                  </div>-->
-<!--                                  <div class="testimonial-author-info">-->
-<!--                                    <p class="testimonial-author">Maria Richardson</p>-->
-<!--                                    <p class="testimonial-firm">Lindsley's Lumber</p>-->
-<!--                                  </div>-->
-<!--                                </div>-->
-<!--                              </div>-->
-<!---->
-<!--                              <div class="testimonial-item">-->
-<!--                                <div class="testimonial-content">-->
-<!--                                  <div class="testimonial-text">-->
-<!--                                    <p>"Vivamus porta dapibus tristique. Suspendisse et arcu eget nisi convallis eleifend nec ac lorem."</p>-->
-<!--                                  </div>-->
-<!--                                </div>-->
-<!--                                <div class="testimonial-credits">-->
-<!--                                  <div class="testimonial-picture">-->
-<!--                                    <img src="images/testimonials/testimonial_photo_2.jpg" alt="">-->
-<!--                                  </div>-->
-<!--                                  <div class="testimonial-author-info">-->
-<!--                                    <p class="testimonial-author">John Doe</p>-->
-<!--                                    <p class="testimonial-firm">Apple Inc.</p>-->
-<!--                                  </div>-->
-<!--                                </div>-->
-<!--                              </div>-->
-<!---->
-<!--                              <div class="testimonial-item">-->
-<!--                                <div class="testimonial-content">-->
-<!--                                  <div class="testimonial-text">-->
-<!--                                    <p>"Aliquam congue auctor lectus sed fermentum. Nulla ultricies tellus quis sapien lacinia egestas."</p>-->
-<!--                                  </div>-->
-<!--                                </div>-->
-<!--                                <div class="testimonial-credits">-->
-<!--                                  <div class="testimonial-picture">-->
-<!--                                    <img src="images/testimonials/testimonial_photo_3.jpg" alt="">-->
-<!--                                  </div>-->
-<!--                                  <div class="testimonial-author-info">-->
-<!--                                    <p class="testimonial-author">George McQueen</p>-->
-<!--                                    <p class="testimonial-firm">Harmony House</p>-->
-<!--                                  </div>-->
-<!--                                </div>-->
-<!--                              </div>-->
-<!--                            </div>-->
-<!--                          </div>-->
-<!--                        </div>-->
+                        <div class="row">
+                            <div class="col-sm-12 col-md-12 subpage-block">
+                                <div class="block-title">
+                                    <h3>Testimonials</h3>
+                                </div>
+                                <div class="testimonials owl-carousel">
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-content">
+                                            <div class="testimonial-text">
+                                                <p>"It was a pleasure working with Ammar.He helped me with the coding on
+                                                    my website!.I would highly recommend."</p>
+                                            </div>
+                                        </div>
+                                        <div class="testimonial-credits">
+                                            <div class="testimonial-picture">
+                                                <img src="images/testimonials/clarie.jpg" alt="">
+                                            </div>
+                                            <div class="testimonial-author-info">
+                                                <p class="testimonial-author">Claire Johnson</p>
+                                                <p class="testimonial-firm"><a
+                                                            href="http://coastalrealtyofthefloridakeys.com/"
+                                                            target="_blank">Coastal Real Of The Florida keys</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-content">
+                                            <div class="testimonial-text">
+                                                <p>"His knowledge of coding and creating exactly what I had requested -
+                                                    he will be a success. I would definitely work with him on any future
+                                                    projects that I have."</p>
+                                            </div>
+                                        </div>
+                                        <div class="testimonial-credits">
+                                            <div class="testimonial-picture">
+                                                <img src="images/testimonials/kriss.jpeg" alt="">
+                                            </div>
+                                            <div class="testimonial-author-info">
+                                                <p class="testimonial-author">Christopher Kimmes</p>
+                                                <p class="testimonial-firm"><a href="https://dev.greenectus.com/"
+                                                                               target="_blank">Greenectus</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-content">
+                                            <div class="testimonial-text">
+                                                <p>"Absolutely amazing service and exceptional talent! His response time
+                                                    was amazing . I would highly recommend Ammar!"</p>
+                                            </div>
+                                        </div>
+                                        <div class="testimonial-credits">
+                                            <div class="testimonial-picture">
+                                                <img src="images/testimonials/dgonor.jpeg" alt="">
+                                            </div>
+                                            <div class="testimonial-author-info">
+                                                <p class="testimonial-author">Dgonor</p>
+                                                <p class="testimonial-firm"><a href="#" target="_blank">USA</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
                         <!-- Fun facts block -->
-                        <!--   <div class="block-title">
-                            <h3>Fun Facts</h3>
-                          </div> -->
-
-                        <!--   <div class="row">
-                            <div class="col-sm-6 col-md-3 subpage-block">
-                              <div class="fun-fact-block gray-bg tilt-effect">
-                                <i class="pe-7s-icon pe-7s-smile"></i>
-                                <h4>Happy Clients</h4>
-                                <span class="fun-value">1,024</span>
-                              </div>
-                            </div>
-
-                            <div class="col-sm-6 col-md-3 subpage-block tilt-effect">
-                              <div class="fun-fact-block">
-                                <i class="pe-7s-icon pe-7s-alarm"></i>
-                                <h4>Working Hours</h4>
-                                <span class="fun-value">6,256</span>
-                              </div>
-                            </div>
-
-                            <div class="col-sm-6 col-md-3 subpage-block tilt-effect">
-                              <div class="fun-fact-block gray-bg">
-                                <i class="pe-7s-icon pe-7s-medal"></i>
-                                <h4>Awards Won</h4>
-                                <span class="fun-value">21</span>
-                              </div>
-                            </div>
-
-                            <div class="col-sm-6 col-md-3 subpage-block tilt-effect">
-                              <div class="fun-fact-block">
-                                <i class="pe-7s-icon pe-7s-coffee"></i>
-                                <h4>Coffee Consumed</h4>
-                                <span class="fun-value">20,000</span>
-                              </div>
-                            </div>
-                          </div> -->
+                        <!--                        <div class="block-title">-->
+                        <!--                            <h3>Fun Facts</h3>-->
+                        <!--                        </div>-->
+                        <!--                        <div class="row">-->
+                        <!--                            <div class="col-sm-6 col-md-3 subpage-block">-->
+                        <!--                                <div class="fun-fact-block gray-bg tilt-effect">-->
+                        <!--                                    <i class="pe-7s-icon pe-7s-smile"></i>-->
+                        <!--                                    <h4>Happy Clients</h4>-->
+                        <!--                                    <span class="fun-value">1,024</span>-->
+                        <!--                                </div>-->
+                        <!--                            </div>-->
+                        <!---->
+                        <!--                            <div class="col-sm-6 col-md-3 subpage-block tilt-effect">-->
+                        <!--                                <div class="fun-fact-block">-->
+                        <!--                                    <i class="pe-7s-icon pe-7s-alarm"></i>-->
+                        <!--                                    <h4>Working Hours</h4>-->
+                        <!--                                    <span class="fun-value">6,256</span>-->
+                        <!--                                </div>-->
+                        <!--                            </div>-->
+                        <!---->
+                        <!--                            <div class="col-sm-6 col-md-3 subpage-block tilt-effect">-->
+                        <!--                                <div class="fun-fact-block gray-bg">-->
+                        <!--                                    <i class="pe-7s-icon pe-7s-medal"></i>-->
+                        <!--                                    <h4>Awards Won</h4>-->
+                        <!--                                    <span class="fun-value">21</span>-->
+                        <!--                                </div>-->
+                        <!--                            </div>-->
+                        <!---->
+                        <!--                            <div class="col-sm-6 col-md-3 subpage-block tilt-effect">-->
+                        <!--                                <div class="fun-fact-block">-->
+                        <!--                                    <i class="pe-7s-icon pe-7s-coffee"></i>-->
+                        <!--                                    <h4>Coffee Consumed</h4>-->
+                        <!--                                    <span class="fun-value">20,000</span>-->
+                        <!--                                </div>-->
+                        <!--                            </div>-->
+                        <!--                        </div>-->
                         <!-- End of Fun fucts block -->
                     </div>
                 </section>
@@ -444,7 +442,7 @@
 
                                     <div class="timeline-event te-primary ">
                                         <h5 class="event-date">May 2018 - Current</h5>
-                                        <h4 class="event-name">Web Design &amp; developer</h4>
+                                        <h4 class="event-name">Front end developer</h4>
                                         <a href="http://techmatetech.com" target="_blank">
                                             <span class="event-description">TechMateTech</span>
                                         </a>
@@ -527,7 +525,6 @@
                                         <div class="skill-percentage skill-3"></div>
                                     </div>
 
-
                                     <h4>Hybrid apps usign Ionic, Framework 7</h4>
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-3"></div>
@@ -552,7 +549,8 @@
                             <div class="row">
                                 <div class="col-sm-12 col-md-12">
                                     <div class="download-cv-block">
-                                        <a class="button" target="_blank" href="https://www.visualcv.com/ammarhabib">Download CV</a>
+                                        <a download class="button" target="_blank" href="Ammar_Habib_Resume.pdf">Download
+                                            Resume</a>
                                     </div>
                                 </div>
                             </div>
@@ -604,7 +602,7 @@
                                         <div>
                                             <h5 class="name">Dicta</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                            <i class="pe-7s-icon pe-7s-display2"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -617,7 +615,7 @@
                                         <div>
                                             <h5 class="name">ExoSecure</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                            <i class="pe-7s-icon pe-7s-display2"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -630,7 +628,7 @@
                                         <div>
                                             <h5 class="name">Church Base</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                            <i class="pe-7s-icon pe-7s-display2"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -643,7 +641,7 @@
                                         <div>
                                             <h5 class="name">SoleLinks</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                            <i class="pe-7s-icon pe-7s-display2"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -656,7 +654,7 @@
                                         <div>
                                             <h5 class="name">FanTazTech</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                            <i class="pe-7s-icon pe-7s-display2"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -669,7 +667,7 @@
                                         <div>
                                             <h5 class="name">Crucial App Concepts</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                            <i class="pe-7s-icon pe-7s-display2"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -682,7 +680,7 @@
                                         <div>
                                             <h5 class="name">Termmate</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                            <i class="pe-7s-icon pe-7s-display2"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -695,7 +693,7 @@
                                         <div>
                                             <h5 class="name">Shipm8</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                            <i class="pe-7s-icon pe-7s-display2"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -708,7 +706,7 @@
                                         <div>
                                             <h5 class="name">Greenectus</h5>
                                             <small>website</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                            <i class="pe-7s-icon pe-7s-display2"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -716,12 +714,12 @@
 
                                 <!-- Portfolio Item 18 -->
                                 <figure class="item" data-groups='["all","website"]'>
-                                    <a class="ajax-page-load" href="techmatetech.php">
+                                    <a class="lightbox" href="images/portfolio/techmatetech.jpg">
                                         <img src="images/portfolio/techmatetech.jpg" alt="">
                                         <div>
                                             <h5 class="name">TechMaTetech LLC</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-di"></i>
+                                            <i class="pe-7s-icon pe-7s-photo"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -795,7 +793,6 @@
                                 <!-- /Portfolio Item 11-->
 
 
-
                                 <!-- Portfolio Item 13 -->
                                 <figure class="item" data-groups='["all", "website"]'>
                                     <a class="lightbox" href="images/portfolio/barber.jpg">
@@ -808,9 +805,6 @@
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 13 -->
-
-
-
 
 
                                 <!-- Portfolio Item 14 -->
@@ -852,7 +846,6 @@
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 18-->
-
 
 
                                 <!-- Portfolio Item 18 -->
@@ -934,7 +927,6 @@
                                 <!-- /Portfolio Item 3 -->
 
 
-
                                 <!-- Portfolio Item 5 -->
                                 <figure class="item" data-groups='["all", "mobile-apps"]'>
                                     <a href="images/portfolio/app/2.jpg" class="lightbox" title="eshipsol">
@@ -963,7 +955,6 @@
                                 <!-- /Portfolio Item 9 -->
 
 
-
                                 <!-- Portfolio Item 11 -->
                                 <figure class="item" data-groups='["all","mobile-apps"]'>
                                     <a href="images/portfolio/app/wheel.jpg" class="lightbox" title="Reward Pup">
@@ -978,9 +969,6 @@
                                 <!-- /Portfolio Item 11 -->
 
 
-
-
-
                                 <!-- Portfolio Item 16 -->
                                 <!--  <figure class="item" data-groups='["all","website"]'>
                                    <a class="ajax-page-load" href="#">
@@ -993,10 +981,6 @@
                                    </a>
                                  </figure> -->
                                 <!-- /Portfolio Item 16 -->
-
-
-
-
 
 
                             </div>
@@ -1113,38 +1097,66 @@
 </div>
 
 <!-- Demo Color changer -->
-<!-- <a id="lm_demo_panel_switcher" class="lm-demo-panel-switcher right"><i class="fa fa-gear"></i></a>
+<a id="lm_demo_panel_switcher" class="lm-demo-panel-switcher right"><i class="fa fa-gear"></i></a>
 <div id="lm_demo_panel" class="lm-demo-panel right panel-color-red active">
-  <div class="demo-panel-title">Template Style</div>
-  <div id="t_style" class="demo-panel-options">
-    <a class="t-style-switcher" data-id="template-style-light"><div class="preview w-border t-style t-style-light">Light</div></a>
-    <a class="current-t-style t-style-switcher" data-id="template-style-dark"><div class="preview t-style t-style-dark">Dark</div></a>
-  </div>
+    <div class="demo-panel-title">Template Style</div>
+    <div id="t_style" class="demo-panel-options">
+        <a class="t-style-switcher" data-id="template-style-light">
+            <div class="preview w-border t-style t-style-light">Light</div>
+        </a>
+        <a class="current-t-style t-style-switcher" data-id="template-style-dark">
+            <div class="preview t-style t-style-dark">Dark</div>
+        </a>
+    </div>
 
-  <div class="demo-panel-title">Main Color</div>
-  <div id="main_color" class="demo-panel-options">
-    <a data-id="red" class="current-main-color"><div class="preview color-1">&nbsp;</div></a>
-    <a data-id="blue"><div class="preview color-2">&nbsp;</div></a>
-    <a data-id="green"><div class="preview color-3">&nbsp;</div></a>
-    <a data-id="orange"><div class="preview color-4">&nbsp;</div></a>
-    <a data-id="yellow"><div class="preview color-5">&nbsp;</div></a>
-    <a data-id="violet"><div class="preview color-6">&nbsp;</div></a>
-  </div>
+    <div class="demo-panel-title">Main Color</div>
+    <div id="main_color" class="demo-panel-options">
+        <a data-id="red" class="current-main-color">
+            <div class="preview color-1">&nbsp;</div>
+        </a>
+        <a data-id="blue">
+            <div class="preview color-2">&nbsp;</div>
+        </a>
+        <a data-id="green">
+            <div class="preview color-3">&nbsp;</div>
+        </a>
+        <a data-id="orange">
+            <div class="preview color-4">&nbsp;</div>
+        </a>
+        <a data-id="yellow">
+            <div class="preview color-5">&nbsp;</div>
+        </a>
+        <a data-id="violet">
+            <div class="preview color-6">&nbsp;</div>
+        </a>
+    </div>
 
-  <div class="demo-panel-title">Nav Color</div>
-  <div id="header_color" class="demo-panel-options">
-    <a class="inverse h-color-switcher" data-id="header-color-light"><div class="preview h-color h-color-1 w-border">&nbsp;</div></a>
-    <a class="h-color-switcher" data-id="header-color-main"><div class="preview h-color h-color-2">&nbsp;</div></a>
-    <a class="current-h-color h-color-switcher" data-id="header-color-dark"><div class="preview h-color h-color-3">&nbsp;</div></a>
-  </div>
+    <div class="demo-panel-title">Nav Color</div>
+    <div id="header_color" class="demo-panel-options">
+        <a class="inverse h-color-switcher" data-id="header-color-light">
+            <div class="preview h-color h-color-1 w-border">&nbsp;</div>
+        </a>
+        <a class="h-color-switcher" data-id="header-color-main">
+            <div class="preview h-color h-color-2">&nbsp;</div>
+        </a>
+        <a class="current-h-color h-color-switcher" data-id="header-color-dark">
+            <div class="preview h-color h-color-3">&nbsp;</div>
+        </a>
+    </div>
 
-  <div class="demo-panel-title mobile-hidden">Nav Position</div>
-  <div id="header_position" class="demo-panel-options mobile-hidden">
-    <a class="current-layout layout-switcher" data-id="layout-menu-left"><div class="preview layout left">Left</div></a>
-    <a class="layout-switcher" data-id="layout-menu-top"><div class="preview layout top">Top</div></a>
-    <a class="layout-switcher" data-id="layout-menu-bottom"><div class="preview layout bottom">Bottom</div></a>
-  </div>
-</div> -->
+    <div class="demo-panel-title mobile-hidden">Nav Position</div>
+    <div id="header_position" class="demo-panel-options mobile-hidden">
+        <a class="current-layout layout-switcher" data-id="layout-menu-left">
+            <div class="preview layout left">Left</div>
+        </a>
+        <a class="layout-switcher" data-id="layout-menu-top">
+            <div class="preview layout top">Top</div>
+        </a>
+        <a class="layout-switcher" data-id="layout-menu-bottom">
+            <div class="preview layout bottom">Bottom</div>
+        </a>
+    </div>
+</div>
 <!-- /Demo Color changer -->
 
 <script src="js/bootstrap.min.js"></script>

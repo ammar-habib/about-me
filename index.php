@@ -173,8 +173,8 @@
 
                                 <ul class="social-links">
                                     <li><a target="_blank" lass="tip social-button"
-                                           href="https://bitbucket.org/Ammar-Habib/" title="BitBucket"><i
-                                                    class="fa fa-bitbucket"></i></a></li>
+                                           href="https://gitlab.com/ammar-habib" title="GitHub"><i
+                                                    class="fa fa-github"></i></a></li>
                                     <li><a class="tip social-button" target="_blank"
                                            href="https://www.linkedin.com/in/ammar-habib-947bb8105/" title="Linkend"><i
                                                     class="fa fa-linkedin"></i></a></li>

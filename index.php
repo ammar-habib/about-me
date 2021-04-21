@@ -29,8 +29,7 @@
     <!-- /This styles needs for demo -->
 
     <!-- Google Font -->
-       <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Oxygen:300,400,700" rel="stylesheet">
-     -->
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Oxygen:300,400,700" rel="stylesheet">
     <script src="js/jquery-2.1.3.min.js"></script>
     <script src="js/modernizr.custom.js"></script>
 </head>
@@ -176,7 +175,7 @@
                                            href="https://gitlab.com/ammar-habib" title="GitHub"><i
                                                     class="fa fa-github"></i></a></li>
                                     <li><a class="tip social-button" target="_blank"
-                                           href="https://www.linkedin.com/in/ammar-habib-947bb8105/" title="Linkend"><i
+                                           href="https://www.linkedin.com/in/ammar-habib111/" title="Linkend"><i
                                                     class="fa fa-linkedin"></i></a></li>
                                     <li><a class="tip social-button" target="_blank"
                                            href="https://www.facebook.com/ammarhabibmughal/" title="Facebook"><i

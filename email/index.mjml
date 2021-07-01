@@ -1,0 +1,54 @@
+<mjml>
+  <mj-head>
+    <mj-title>Ammar Habib</mj-title>
+    <mj-attributes>
+      <mj-all font-family="markpro, sans-serif" font-size="12px" font-weight="400" line-height="12px" color="#223147" />
+    </mj-attributes>
+    <mj-style> @font-face { font-family: "markpro"; font-style: normal; font-weight: 400; font-display: swap; src: url("http://show-demo.herokuapp.com/found-factorty/fonts/MarkPro.ttf") format("truetype"); } @font-face { font-family: "markpro"; font-style: normal; font-weight: 500; font-display: swap; src: url("http://show-demo.herokuapp.com/found-factorty/fonts/MarkMedium.ttf") format("truetype"); } @font-face { font-family: "markpro"; font-style: normal; font-weight: 700; font-display: swap; src: url("http://show-demo.herokuapp.com/found-factorty/fonts/MarkBold.ttf") format("truetype"); } .bgSide{ background:#ffffff url("http://show-demo.herokuapp.com/found-factorty/img/bg2.png") no-repeat; height: 200px; background-size: cover; } .contentSide{border-right: 2px solid #d1d1d1; margin: 37px 0 0;} .mobileView { display: none; } .desktopView { display: block; } .social{display: inline-block; float: right; } @media only screen and (max-width:480px){.mobileView { display: block; } .desktopView { display: none !important; } .contentSide{border-right: none;} .xs-center{text-align:center !important;} .social{display: block; float: none; margin-top: 10px; }.bgSide{  height: 150px;} .logo{padding:50px 25px 20px !important } } </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper full-width padding="0" background-color="#fcfcfc">
+      <mj-section>
+        <mj-column width="40%"  vertical-align="middle" css-class="bgSide">
+           <mj-image  css-class="desktopView" padding="75px 0 0"  width="35px" align="right" src="img/line-small.png" alt="line"></mj-image>
+          <mj-image css-class="logo" padding="0px 25px 30px" href="https://techmatetech.com/"  target="_blank" width="140px" src="img/logo.png" alt="logo"></mj-image>
+          <mj-text font-size="10px" align="center" line-height="12px">
+            <a href="https://techmatetech.com/" target="_blank" style="
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+">www.techmatetech.com</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="58%" css-class="contentSide">
+          <mj-text font-size="14px" font-weight="700" line-height="16.4px" padding="0 25px 0">Ammar Habib</mj-text>
+          <mj-text font-size="12px" font-weight="400" line-height="14.3px" padding="0 25px 8px">Lead Front End Developer</mj-text>
+           <mj-image padding="0"  width="143px" align="left" src="img/line-big.png" alt="line"></mj-image>
+          <mj-text font-size="12px" font-weight="500" line-height="14.3px" padding="15px 25px 10px">145 CCA Sector C Phase 5 <br/> D.H.A, Lahore</mj-text>
+          <mj-text font-size="12px" font-weight="500" line-height="14.3px" padding-top="0">+92 (335) 616 - 4660
+          <span style="padding:0 10px;">|</span><a href="https://ammarhabib.herokuapp.com/" target="_blank" style="
+    text-decoration: none;
+    color: #223147;
+    font-weight: 500;
+">www.ammarhabib.me</a>
+          </mj-text>
+          <mj-text font-size="12px" font-weight="500" line-height="14.3px" padding="0 25px">
+            <span>ammar@techmatetech.com</span> 
+            <span>ammar.habib.mughal@gmail.com</span> 
+            <span class="social">
+              <a href="https://www.linkedin.com/in/ammar-habib111/" target="_blank" style="text-decoration: none;margin: 0 2px;">
+                <img src="img/link.png" alt="link-icon" />
+              </a>
+              <a href="https://www.facebook.com/ammarhabibmughal/" target="_blank" style="text-decoration: none;margin: 0 2px;">
+                <img src="img/fb.png" alt="fb-icon" />
+              </a>
+              <a href="https://gitlab.com/ammar-habib" target="_blank" style="text-decoration: none;margin: 0 2px;">
+                <img src="img/gitlab.png" alt="tw-icon" />
+              </a>
+            </span>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

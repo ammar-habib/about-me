@@ -16,59 +16,62 @@
 
         <div class="row">
             <div class="col-sm-7 col-md-7 portfolio-block">
-                <div class="owl-carousel portfolio-page-carousel">
-                    <div class="item">
-                        <img src="images/portfolio/shipm8/ship1.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="images/portfolio/shipm8/ship2.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="images/portfolio/shipm8/ship3.png" alt="">
-                    </div>
+                <div class="portfolio-page-image">
+                    <img src="images/portfolio/shipm8/shipm8All.png" alt="shipm8All">
                 </div>
+<!--                <div class="owl-carousel portfolio-page-carousel">-->
+<!--                    <div class="item">-->
+<!--                        <img src="images/portfolio/shipm8/ship1.png" alt="">-->
+<!--                    </div>-->
+<!--                    <div class="item">-->
+<!--                        <img src="images/portfolio/shipm8/ship2.png" alt="">-->
+<!--                    </div>-->
+<!--                    <div class="item">-->
+<!--                        <img src="images/portfolio/shipm8/ship3.png" alt="">-->
+<!--                    </div>-->
+<!--                </div>-->
                 <!--
                 <div class="portfolio-page-image">
                     <img src="images/portfolio/1.jpg" alt="">
                 </div>
                 -->
 
-                <script type="text/javascript">
-                    function customAjaxScroll() {
-                        var windowWidth = $(window).width();
-                        if (windowWidth > 991) {
-                            // Custom Ajax Page Scroll
-                            $("#ajax-page").mCustomScrollbar({
-                                scrollInertia: 8,
-                                documentTouchScroll: false
-                            });
-                        } else {
-                            $("#ajax-page").mCustomScrollbar('destroy');
-                        }
-                    }
-
-                    jQuery(document).ready(function ($) {
-
-                        // Ajax Loaded Page Scroll
-                        customAjaxScroll();
-
-
-                        $('.portfolio-page-carousel').owlCarousel({
-                            smartSpeed: 1200,
-                            items: 1,
-                            loop: true,
-                            dots: true,
-                            nav: true,
-                            navText: false,
-                            margin: 10
-                        });
-
-                    });
-
-                    jQuery(window).on('resize', function () {
-                        customAjaxScroll();
-                    });
-                </script>
+<!--                <script type="text/javascript">-->
+<!--                    function customAjaxScroll() {-->
+<!--                        var windowWidth = $(window).width();-->
+<!--                        if (windowWidth > 991) {-->
+<!--                            // Custom Ajax Page Scroll-->
+<!--                            $("#ajax-page").mCustomScrollbar({-->
+<!--                                scrollInertia: 8,-->
+<!--                                documentTouchScroll: false-->
+<!--                            });-->
+<!--                        } else {-->
+<!--                            $("#ajax-page").mCustomScrollbar('destroy');-->
+<!--                        }-->
+<!--                    }-->
+<!---->
+<!--                    jQuery(document).ready(function ($) {-->
+<!---->
+<!--                        // Ajax Loaded Page Scroll-->
+<!--                        customAjaxScroll();-->
+<!---->
+<!---->
+<!--                        $('.portfolio-page-carousel').owlCarousel({-->
+<!--                            smartSpeed: 1200,-->
+<!--                            items: 1,-->
+<!--                            loop: true,-->
+<!--                            dots: true,-->
+<!--                            nav: true,-->
+<!--                            navText: false,-->
+<!--                            margin: 10-->
+<!--                        });-->
+<!---->
+<!--                    });-->
+<!---->
+<!--                    jQuery(window).on('resize', function () {-->
+<!--                        customAjaxScroll();-->
+<!--                    });-->
+<!--                </script>-->
             </div>
 
             <div class="col-sm-5 col-md-5 portfolio-block">

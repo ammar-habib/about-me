@@ -6,7 +6,7 @@
     <title>Ammar Habib</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
     <meta name="description" content="Unique - Responsive vCard Template"/>
-    <meta name="keywords" content="vcard, resposnive, retina, resume, jquery, css3, bootstrap, Unique, portfolio"/>
+    <meta name="keywords" content="ammarhabib, vcard, resposnive, retina, resume, jquery, css3, bootstrap, Unique, portfolio"/>
     <meta name="author" content="lmtheme"/>
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
@@ -48,7 +48,7 @@
     <!-- Header -->
     <header id="site_header" class="header mobile-menu-hide header-color-dark">
         <div class="my-photo tilt-effect">
-            <img src="images/profile-half.png" alt="image">
+            <img src="images/profile-transBig.png" alt="image">
         </div>
 
         <div class="site-title-block">
@@ -119,7 +119,10 @@
                                     <p class="home-page-description">UI / UX Developer</p>
                                 </div>
                                 <div class="item">
-                                    <p class="home-page-description">Web Front End Developer</p>
+                                    <p class="home-page-description">Web Frontend Developer</p>
+                                </div>
+                                <div class="item">
+                                    <p class="home-page-description">HTML Email templates & Newsletters Developer</p>
                                 </div>
                             </div>
                         </div>
@@ -141,18 +144,22 @@
                         <div class="row">
                             <div class="col-sm-6 col-md-6 col-lg-4 subpage-block">
                                 <div class="my-photo-block tilt-effect">
-                                    <img src="images/profile-edit.png" alt="">
+                                    <img src="images/profile-transBig.png" alt="profile-image">
                                 </div>
                             </div>
 
                             <div class="col-sm-6 col-md-6 col-lg-4">
-                                <h3 class="text-capitalize">I am Front end developer <br/> @ TechMatTech.com</h3>
-                                <p class="text-capitalize">Front-end developer with a track record in transforming web
-                                    designers' static prototypes into hand-coded HTML, emphasizing web standards;
-                                    utilizing responsive design and mobile-first principles; maintaining
-                                    cross-browser/cross-platform compatibility; and ensuring accessibility.</p>
-                                <p class="text-capitalize">Specialties: Front-End Development, Web Design, User
-                                    Interface Design</p>
+                                <h3 class="text-capitalize">I am Frontend developer <br/> @ TechMatTech.com</h3>
+                                <p class="text-capitalize">
+                                    Front-end developer with more than 3.5 years of
+                                    experience and a track record in transforming web
+                                    designer's static prototypes into hand-coded
+                                    HTML, emphasizing web standards, utilizing
+                                    responsive design and mobile-first principles, maintaining cross-browser/cross-platform
+                                    compatibility & ensuring accessibility.
+                                </p>
+                                <p class="text-capitalize">Specialties: Frontend Development, Web Design, User
+                                    Interface Design, HTML Email templates & Newsletters Development</p>
                             </div>
 
                             <div class="col-sm-6 col-md-6 col-lg-4 subpage-block">
@@ -172,8 +179,8 @@
 
                                 <ul class="social-links">
                                     <li><a target="_blank" lass="tip social-button"
-                                           href="https://gitlab.com/ammar-habib" title="GitHub"><i
-                                                    class="fa fa-github"></i></a></li>
+                                           href="https://gitlab.com/ammar-habib" title="GitLab"><i
+                                                    class="fa fa-gitlab"></i></a></li>
                                     <li><a class="tip social-button" target="_blank"
                                            href="https://www.linkedin.com/in/ammar-habib111/" title="Linkend"><i
                                                     class="fa fa-linkedin"></i></a></li>
@@ -393,7 +400,7 @@
                         <div class="section-title-block">
                             <div class="section-title-wrapper">
                                 <h2 class="section-title">Resume</h2>
-                                <h5 class="section-description">3 Years of Experience</h5>
+                                <h5 class="section-description">3+ Years of Experience</h5>
                             </div>
                         </div>
 
@@ -441,9 +448,9 @@
 
                                     <div class="timeline-event te-primary ">
                                         <h5 class="event-date">May 2018 - Current</h5>
-                                        <h4 class="event-name">Front end developer</h4>
+                                        <h4 class="event-name">Sr.Frontend developer</h4>
                                         <a href="http://techmatetech.com" target="_blank">
-                                            <span class="event-description">TechMateTech</span>
+                                            <span class="event-description">TechMateTech LLC</span>
                                         </a>
                                         <p>Responsible for working closely with the product management team to organize
                                             the web presence of clients, and to develop rich user interfaces for
@@ -499,17 +506,17 @@
                                     <h3>Web Development Skills</h3>
                                 </div>
                                 <div class="skills-info">
-                                    <h4>PSD, Sketch, Figma, Wireframe, Mockup to HTML</h4>
+                                    <h4>PSD, Sketch, Figma, Wireframe, Mockup to HTML/CSS</h4>
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-4"></div>
                                     </div>
 
-                                    <h4>HTML 5, CSS 3, SASS, LESS, BEM</h4>
+                                    <h4>HTML 5, CSS 3, SASS, LESS, BEM, CSS in JS (Styled-Components)</h4>
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-4"></div>
                                     </div>
 
-                                    <h4>Bootstrap 3 & 4, React Bootstrap, Bootstrap Vue, Foundation, Material-UI</h4>
+                                    <h4>Bootstrap 4 & 5, React Bootstrap, Bootstrap Vue, Material-UI, Tailwind CSS </h4>
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-4"></div>
                                     </div>
@@ -524,7 +531,12 @@
                                         <div class="skill-percentage skill-3"></div>
                                     </div>
 
-                                    <h4>Hybrid apps usign Ionic, Framework 7</h4>
+                                    <h4>HTML / MJML Email Templates & Newsletters Development</h4>
+                                    <div class="skill-container">
+                                        <div class="skill-percentage skill-4"></div>
+                                    </div>
+
+                                    <h4>Hybrid apps using Ionic </h4>
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-3"></div>
                                     </div>
@@ -534,7 +546,7 @@
                                         <div class="skill-percentage skill-3"></div>
                                     </div>
 
-                                    <h4>Sketch, Zeplin, Figma, Invision ,Adobe Photoshop</h4>
+                                    <h4>Sketch, Zeplin, Figma, Invision ,Adobe Photoshop, XD</h4>
                                     <div class="skill-container">
                                         <div class="skill-percentage skill-4"></div>
                                     </div>
@@ -588,6 +600,9 @@
                                 <li>
                                     <a class="filter btn btn-sm btn-link" data-group="mobile-apps">Mobile Apps</a>
                                 </li>
+                                <li>
+                                    <a class="filter btn btn-sm btn-link" data-group="email-templates">Email Templates</a>
+                                </li>
                             </ul>
                             <!-- End of Portfolio filter -->
 
@@ -597,7 +612,7 @@
                                 <!-- Portfolio Item 1 -->
                                 <figure class="item" data-groups='["all", "website"]'>
                                     <a class="ajax-page-load" href="dicta.php" target="_blank" title="Dicta">
-                                        <img src="images/portfolio/dita.jpg" alt="">
+                                        <img src="images/portfolio/dicta/Dicta_All-min.png" alt="">
                                         <div>
                                             <h5 class="name">Dicta</h5>
                                             <small>Website</small>
@@ -610,7 +625,7 @@
                                 <!-- Portfolio Item 2 -->
                                 <figure class="item" data-groups='["all", "website"]'>
                                     <a class="ajax-page-load" href="exosecure.php" target="_blank">
-                                        <img src="images/portfolio/exos.jpg" alt="">
+                                        <img src="images/portfolio/exosecure/exoAll.png" alt="exosecure-img">
                                         <div>
                                             <h5 class="name">ExoSecure</h5>
                                             <small>Website</small>
@@ -623,7 +638,7 @@
                                 <!-- Portfolio Item 3 -->
                                 <figure class="item" data-groups='["all", "website"]'>
                                     <a class="ajax-page-load" href="churchbase.php" target="_blank">
-                                        <img src="images/portfolio/chbase.jpg" alt="">
+                                        <img src="images/portfolio/churchbase/ChurchBase_All-min.png" alt="">
                                         <div>
                                             <h5 class="name">Church Base</h5>
                                             <small>Website</small>
@@ -636,7 +651,7 @@
                                 <!-- Portfolio Item 4 -->
                                 <figure class="item" data-groups='["all", "website"]'>
                                     <a class="ajax-page-load" href="solelinks.php" target="_blank">
-                                        <img src="images/portfolio/sole.jpg" alt="">
+                                        <img src="images/portfolio/solelinks/Solelink_All-min.png" alt="Solelink_All">
                                         <div>
                                             <h5 class="name">SoleLinks</h5>
                                             <small>Website</small>
@@ -649,7 +664,7 @@
                                 <!-- Portfolio Item 5 -->
                                 <figure class="item" data-groups='["all", "website"]'>
                                     <a class="ajax-page-load" href="fantaztech.php" target="_blank">
-                                        <img src="images/portfolio/fan.jpg" alt="">
+                                        <img src="images/portfolio/fantaztech/Fantaztech_All-min.png" alt="Fantaztech_All">
                                         <div>
                                             <h5 class="name">FanTazTech</h5>
                                             <small>Website</small>
@@ -660,22 +675,22 @@
                                 <!-- /Portfolio Item 5 -->
 
                                 <!-- Portfolio Item 6 -->
-                                <figure class="item" data-groups='["all", "website"]'>
-                                    <a class="ajax-page-load" href="cac.php" target="_blank">
-                                        <img src="images/portfolio/cac2.jpg" alt="">
-                                        <div>
-                                            <h5 class="name">Crucial App Concepts</h5>
-                                            <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-display2"></i>
-                                        </div>
-                                    </a>
-                                </figure>
+<!--                                <figure class="item" data-groups='["all", "website"]'>-->
+<!--                                    <a class="ajax-page-load" href="cac.php" target="_blank">-->
+<!--                                        <img src="images/portfolio/cac2.jpg" alt="">-->
+<!--                                        <div>-->
+<!--                                            <h5 class="name">Crucial App Concepts</h5>-->
+<!--                                            <small>Website</small>-->
+<!--                                            <i class="pe-7s-icon pe-7s-display2"></i>-->
+<!--                                        </div>-->
+<!--                                    </a>-->
+<!--                                </figure>-->
                                 <!-- /Portfolio Item 6 -->
 
                                 <!-- Portfolio Item 18 -->
                                 <figure class="item" data-groups='["all","website"]'>
                                     <a class="ajax-page-load" href="termmate.php">
-                                        <img src="images/portfolio/termmate.jpg" alt="">
+                                        <img src="images/portfolio/termmate/termmateAll.png" alt="termmateAll">
                                         <div>
                                             <h5 class="name">Termmate</h5>
                                             <small>Website</small>
@@ -688,7 +703,7 @@
                                 <!-- Portfolio Item 12 -->
                                 <figure class="item" data-groups='["all","website"]'>
                                     <a class="ajax-page-load" href="shipm8.php">
-                                        <img src="images/portfolio/shipm8.jpg" alt="">
+                                        <img src="images/portfolio/shipm8/shipm8All.png" alt="shipm8All">
                                         <div>
                                             <h5 class="name">Shipm8</h5>
                                             <small>Website</small>
@@ -714,7 +729,7 @@
                                 <!-- Portfolio Item 18 -->
                                 <figure class="item" data-groups='["all","website"]'>
                                     <a class="lightbox" href="images/portfolio/techmatetech.jpg">
-                                        <img src="images/portfolio/techmatetech.jpg" alt="">
+                                        <img src="images/portfolio/techmatetech/techmateAll.png" alt="techmatetech">
                                         <div>
                                             <h5 class="name">TechMaTetech LLC</h5>
                                             <small>Website</small>
@@ -725,29 +740,29 @@
                                 <!-- /Portfolio Item 18-->
 
                                 <!-- Portfolio Item 7 -->
-                                <figure class="item" data-groups='["all",  "website"]'>
-                                    <a class="lightbox" href="images/portfolio/leonpublicis.jpg">
-                                        <img src="images/portfolio/leonpublicis.jpg" alt="">
-                                        <div>
-                                            <h5 class="name">Leon publicis</h5>
-                                            <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
-                                        </div>
-                                    </a>
-                                </figure>
+<!--                                <figure class="item" data-groups='["all",  "website"]'>-->
+<!--                                    <a class="lightbox" href="images/portfolio/leonpublicis.jpg">-->
+<!--                                        <img src="images/portfolio/leonpublicis.jpg" alt="">-->
+<!--                                        <div>-->
+<!--                                            <h5 class="name">Leon publicis</h5>-->
+<!--                                            <small>Website</small>-->
+<!--                                            <i class="pe-7s-icon pe-7s-photo"></i>-->
+<!--                                        </div>-->
+<!--                                    </a>-->
+<!--                                </figure>-->
                                 <!-- /Portfolio Item 7 -->
 
                                 <!-- Portfolio Item 8 -->
-                                <figure class="item" data-groups='["all","website"]'>
-                                    <a class="lightbox" href="images/portfolio/b2b.jpg">
-                                        <img src="images/portfolio/b2b.jpg" alt="">
-                                        <div>
-                                            <h5 class="name">B2B Leading Page</h5>
-                                            <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
-                                        </div>
-                                    </a>
-                                </figure>
+<!--                                <figure class="item" data-groups='["all","website"]'>-->
+<!--                                    <a class="lightbox" href="images/portfolio/b2b.jpg">-->
+<!--                                        <img src="images/portfolio/b2b.jpg" alt="">-->
+<!--                                        <div>-->
+<!--                                            <h5 class="name">B2B Leading Page</h5>-->
+<!--                                            <small>Website</small>-->
+<!--                                            <i class="pe-7s-icon pe-7s-photo"></i>-->
+<!--                                        </div>-->
+<!--                                    </a>-->
+<!--                                </figure>-->
                                 <!-- /Portfolio Item 8 -->
 
 
@@ -766,16 +781,16 @@
 
 
                                 <!-- Portfolio Item 10 -->
-                                <figure class="item" data-groups='["all","website"]'>
-                                    <a class="lightbox" href="images/portfolio/punjab.jpg">
-                                        <img src="images/portfolio/punjab.jpg" alt="">
-                                        <div>
-                                            <h5 class="name">Punjab Press Club</h5>
-                                            <small>website</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
-                                        </div>
-                                    </a>
-                                </figure>
+<!--                                <figure class="item" data-groups='["all","website"]'>-->
+<!--                                    <a class="lightbox" href="images/portfolio/punjab.jpg">-->
+<!--                                        <img src="images/portfolio/punjab.jpg" alt="">-->
+<!--                                        <div>-->
+<!--                                            <h5 class="name">Punjab Press Club</h5>-->
+<!--                                            <small>website</small>-->
+<!--                                            <i class="pe-7s-icon pe-7s-photo"></i>-->
+<!--                                        </div>-->
+<!--                                    </a>-->
+<!--                                </figure>-->
                                 <!-- /Portfolio Item 10 -->
 
                                 <!-- Portfolio Item 11 -->
@@ -915,10 +930,10 @@
                                 <!-- Portfolio Item 3 -->
                                 <figure class="item" data-groups='["all","mobile-apps"]'>
                                     <a href="images/portfolio/app/ayestudy.jpg" class="lightbox" title="Aye Study">
-                                        <img src="images/portfolio/app/ayestudy.jpg" alt="">
+                                        <img src="images/portfolio/app/shortout.png" alt="Shortout">
                                         <div>
-                                            <h5 class="name">Aye Study</h5>
-                                            <small>Mobile-apps</small>
+                                            <h5 class="name">Shout out</h5>
+                                            <small>Mobile Apps</small>
                                             <i class="pe-7s-icon pe-7s-photo"></i>
                                         </div>
                                     </a>
@@ -929,10 +944,10 @@
                                 <!-- Portfolio Item 5 -->
                                 <figure class="item" data-groups='["all", "mobile-apps"]'>
                                     <a href="images/portfolio/app/2.jpg" class="lightbox" title="eshipsol">
-                                        <img src="images/portfolio/app/eshipsol.jpg" alt="">
+                                        <img src="images/portfolio/app/husl2.png" alt="">
                                         <div>
-                                            <h5 class="name">Eshipsol</h5>
-                                            <small>Eshipsol</small>
+                                            <h5 class="name">Husl</h5>
+                                            <small>Mobile Apps</small>
                                             <i class="pe-7s-icon pe-7s-photo"></i>
                                         </div>
                                     </a>
@@ -943,9 +958,9 @@
                                 <!-- Portfolio Item 9 -->
                                 <figure class="item" data-groups='["all","mobile-apps"]'>
                                     <a href="images/portfolio/app/ParkingApp.jpg" class="lightbox" title="ParkingApp">
-                                        <img src="images/portfolio/app/ParkingApp.jpg" alt="">
+                                        <img src="images/portfolio/app/stressless2.png" alt="stressless2">
                                         <div>
-                                            <h5 class="name">ParkingApp</h5>
+                                            <h5 class="name">StressLess</h5>
                                             <small>Mobile Apps</small>
                                             <i class="pe-7s-icon pe-7s-photo"></i>
                                         </div>
@@ -957,15 +972,56 @@
                                 <!-- Portfolio Item 11 -->
                                 <figure class="item" data-groups='["all","mobile-apps"]'>
                                     <a href="images/portfolio/app/wheel.jpg" class="lightbox" title="Reward Pup">
-                                        <img src="images/portfolio/app/wheel.jpg" alt="">
+                                        <img src="images/portfolio/app/StarBerry2.png" alt="StarBerry">
                                         <div>
-                                            <h5 class="name">Reward Pup</h5>
+                                            <h5 class="name">StarBerry</h5>
                                             <small>Mobile app</small>
                                             <i class="pe-7s-icon pe-7s-photo"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 11 -->
+
+                                <figure class="item" data-groups='["all","email-templates"]'>
+                                    <a class="ajax-page-load" href="alqen-email.php">
+                                        <img src="images/portfolio/emails/aqel-all.png" alt="Alqen">
+                                        <div>
+                                            <h5 class="name">Alqen</h5>
+                                            <small>Email Templates</small>
+                                            <i class="pe-7s-icon pe-7s-display2"></i>
+                                        </div>
+                                    </a>
+                                </figure>
+                                <figure class="item" data-groups='["all","email-templates"]'>
+                                    <a class="ajax-page-load" href="alqen-email.php">
+                                        <img src="images/portfolio/emails/betten-ritter.png" alt="betten-ritter">
+                                        <div>
+                                            <h5 class="name">Betten Ritter</h5>
+                                            <small>Email Templates</small>
+                                            <i class="pe-7s-icon pe-7s-display2"></i>
+                                        </div>
+                                    </a>
+                                </figure>
+                                <figure class="item" data-groups='["all","email-templates"]'>
+                                    <a class="ajax-page-load" href="alqen-email.php">
+                                        <img src="images/portfolio/emails/noisy-may.png" alt="noisy-may">
+                                        <div>
+                                            <h5 class="name">Noisy May</h5>
+                                            <small>Email Templates</small>
+                                            <i class="pe-7s-icon pe-7s-display2"></i>
+                                        </div>
+                                    </a>
+                                </figure>
+                                <figure class="item" data-groups='["all","email-templates"]'>
+                                    <a class="ajax-page-load" href="alqen-email.php">
+                                        <img src="images/portfolio/emails/mobility-business.png" alt="mobility-business">
+                                        <div>
+                                            <h5 class="name">Mobility Business</h5>
+                                            <small>Email Templates</small>
+                                            <i class="pe-7s-icon pe-7s-display2"></i>
+                                        </div>
+                                    </a>
+                                </figure>
 
 
                                 <!-- Portfolio Item 16 -->

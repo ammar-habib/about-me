@@ -2,8 +2,8 @@
     <div class="ajax-page-wrapper">
         <div class="ajax-page-nav">
             <div class="nav-item ajax-page-prev-next">
-                <a class="ajax-page-load" href="churchbase.php"><i class="pe-7s-icon pe-7s-angle-left"></i></a>
-                <a class="ajax-page-load" href="betten-ritter-email.php"><i class="pe-7s-icon pe-7s-angle-right"></i></a>
+                <a class="ajax-page-load" href="alqen-email.php"><i class="pe-7s-icon pe-7s-angle-left"></i></a>
+                <a class="ajax-page-load" href="noisymay-email.php"><i class="pe-7s-icon pe-7s-angle-right"></i></a>
             </div>
             <div class="nav-item ajax-page-close-button">
                 <a id="ajax-page-close-button" href="#"><i class="pe-7s-icon pe-7s-close"></i></a>
@@ -11,14 +11,14 @@
         </div>
 
         <div class="ajax-page-title">
-            <h1>Alqen</h1>
+            <h1>Betten Ritter</h1>
         </div>
 
         <div class="row">
             <div class="col-sm-7 col-md-7 portfolio-block">
 
               <div class="portfolio-page-image">
-                  <img src="images/portfolio/emails/aqel-all.png" alt="Alqen">
+                  <img src="images/portfolio/emails/betten-ritter.png" alt="Betten Ritter">
               </div>
 
 <!--                <div class="owl-carousel portfolio-page-carousel">-->
@@ -77,12 +77,12 @@
                 </div>
                 <ul class="project-general-info">
                     <!--                    <li><p><i class="fa fa-user"></i>Ammar Habib</p></li>-->
-                    <li><p><i class="fa fa-globe"></i> <a href="https://alqen.io/" target="_blank">https://alqen.io/</a>
+                    <li><p><i class="fa fa-globe"></i> <a href="https://www.bettenritter.com/" target="_blank">https://www.bettenritter.com/</a>
                         </p></li>
                 </ul>
 
                 <p class="text-justify">
-                    Build the Alqen Figma design Email templates in HTML / CSS & MJML for Mailchimp email marketing campaign.
+                    Build the Betten Ritter XD design email templates in HTML / CSS & MJML for email marketing campaign.
                 </p>
                 <!-- /Project Description -->
 
@@ -96,7 +96,6 @@
                         <li><a>HTML</a></li>
                         <li><a>CSS</a></li>
                         <li><a>MJML</a></li>
-                        <li><a>Mailchimp</a></li>
                         <li><a>Responsive</a></li>
                         <li><a>Compatible for Email Clients</a></li>
                     </ul>

@@ -1697,6 +1697,8 @@ ul.social-links li:last-child a {
 
 .ajax-page-nav {
   text-align: center;
+  display:flex;
+  justify-content:end;
 }
 
 .ajax-page-nav > div.nav-item {
@@ -1992,6 +1994,9 @@ ul.social-links li:last-child a {
 @media only screen and (max-width: 769px) {
   .portfolio-grid figure {
     width: 50%;
+  }
+  .my-photo-block{
+    top: 0;
   }
 
   .home-page-block h2 {

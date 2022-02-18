@@ -1,37 +1,41 @@
 <div id="ajax-page" class="ajax-page-content">
     <div class="ajax-page-wrapper">
         <div class="ajax-page-nav">
-<!--            <div class="nav-item ajax-page-prev-next">-->
-<!--                <a class="ajax-page-load" href="betten-ritter-email.php"><i class="pe-7s-icon pe-7s-angle-left"></i></a>-->
-<!--                <a class="ajax-page-load" href="noisymay-email.php"><i class="pe-7s-icon pe-7s-angle-right"></i></a>-->
-<!--            </div>-->
+            <!--            <div class="nav-item ajax-page-prev-next">-->
+            <!--                <a class="ajax-page-load" href="cac.php"><i class="pe-7s-icon pe-7s-angle-left"></i></a>-->
+            <!--                <a class="ajax-page-load" href="greenectus.php"><i class="pe-7s-icon pe-7s-angle-right"></i></a>-->
+            <!--            </div>-->
             <div class="nav-item ajax-page-close-button">
                 <a id="ajax-page-close-button" href="#"><i class="pe-7s-icon pe-7s-close"></i></a>
             </div>
         </div>
 
         <div class="ajax-page-title">
-            <h1>Noisy May</h1>
+            <h1>Engineering supplies</h1>
         </div>
 
         <div class="row">
             <div class="col-sm-7 col-md-7 portfolio-block">
-
                 <div class="portfolio-page-image">
-                    <img src="images/portfolio/emails/noisy-may.png" alt="noisy-may">
+                    <img src="images/portfolio/engineeringsupplies/engineeringsuppliesAll.png" alt="engineeringsupplies">
                 </div>
-
                 <!--                <div class="owl-carousel portfolio-page-carousel">-->
                 <!--                    <div class="item">-->
-                <!--                        <img src="images/portfolio/solelinks/solelink1.png" alt="">-->
+                <!--                        <img src="images/portfolio/shipm8/ship1.png" alt="">-->
                 <!--                    </div>-->
                 <!--                    <div class="item">-->
-                <!--                        <img src="images/portfolio/solelinks/solelink2.png" alt="">-->
+                <!--                        <img src="images/portfolio/shipm8/ship2.png" alt="">-->
                 <!--                    </div>-->
                 <!--                    <div class="item">-->
-                <!--                        <img src="images/portfolio/solelinks/solelink3.png" alt="">-->
+                <!--                        <img src="images/portfolio/shipm8/ship3.png" alt="">-->
                 <!--                    </div>-->
                 <!--                </div>-->
+                <!--
+                <div class="portfolio-page-image">
+                    <img src="images/portfolio/1.jpg" alt="">
+                </div>
+                -->
+
                 <!--                <script type="text/javascript">-->
                 <!--                    function customAjaxScroll() {-->
                 <!--                        var windowWidth = $(window).width();-->
@@ -77,19 +81,15 @@
                 </div>
                 <ul class="project-general-info">
                     <!--                    <li><p><i class="fa fa-user"></i>Ammar Habib</p></li>-->
-                    <li><p><i class="fa fa-globe"></i> <a href="https://www.noisymay.com/" target="_blank">https://www.noisymay.com/</a>
+                    <li><p><i class="fa fa-globe"></i>
+                            <a href="https://www.dropbox.com/sh/h4bcxchnd3jm4n4/AABSRs8XZz-TgIYlU3Ovr6Bqa?dl=0"
+                               target="_blank">Design Reference</a>
                         </p></li>
-                    <li>
-                        <p><i class="fa fa-photo"></i>
-                            <a href="https://www.dropbox.com/s/9wupxj2wleshu9z/noisy-may-email.png?dl=0"
-                               target="_blank">Design Reference
-                            </a>
-                        </p>
-                    </li>
                 </ul>
 
                 <p class="text-justify">
-                    Build the Noisy May Figma base email templates design in HTML / CSS & MJML for email marketing campaign.
+                    I converted Engineering Supplies website XD base designs into HTML5, CSS3 and JS with the help of Bootstrap 4.
+                    All the screens are fully responsive and compatible with all major browser.
                 </p>
                 <!-- /Project Description -->
 
@@ -99,12 +99,11 @@
                         <h3>Technology</h3>
                     </div>
                     <ul class="tags">
-                        <li><a>Figma Design</a></li>
-                        <li><a>HTML</a></li>
-                        <li><a>CSS</a></li>
-                        <li><a>MJML</a></li>
-                        <li><a>Responsive</a></li>
-                        <li><a>Compatible for Email Clients</a></li>
+                        <li><a>XD Design</a></li>
+                        <li><a>HTML 5</a></li>
+                        <li><a>CSS 3</a></li>
+                        <li><a>Bootstrap 4</a></li>
+                        <li><a>JavaScript</a></li>
                     </ul>
                 </div>
                 <!-- /Technology -->

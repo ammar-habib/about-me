@@ -732,7 +732,7 @@
 
 
                                 <figure class="item" data-groups='["all", "website"]'>
-                                    <a class="page-ajax-loaded" href="engineeringsupplies.php">
+                                    <a class="ajax-page-load" href="engineeringsupplies.php" target="_blank">
                                         <img src="images/portfolio/engineeringsupplies/engineeringsuppliesAll.png" alt="engineeringsupplies">
                                         <div>
                                             <h5 class="name">Engineering Supplies</h5>
@@ -743,7 +743,7 @@
                                 </figure>
 
                                 <figure class="item" data-groups='["all", "wordpress"]'>
-                                    <a class="page-ajax-loaded" href="sharp-brains.php">
+                                    <a class="ajax-page-load" href="sharp-brains.php" target="_blank">
                                         <img src="images/portfolio/sharpbrains/sharpbrainsAll.png" alt="sharpbrains">
                                         <div>
                                             <h5 class="name">Sharp Brains</h5>
@@ -754,7 +754,7 @@
                                 </figure>
 
                                 <figure class="item" data-groups='["all","website"]'>
-                                    <a class="page-ajax-loaded" href="roserevenue.php">
+                                    <a class="ajax-page-load" href="roserevenue.php">
                                         <img src="images/portfolio/roserevenue/roserevenueAll.png" alt="roserevenue">
                                         <div>
                                             <h5 class="name">Rose Revenue</h5>
@@ -767,7 +767,7 @@
 
 
                                 <figure class="item" data-groups='["all","website"]'>
-                                    <a class="page-ajax-loaded" href="h2u.php">
+                                    <a class="ajax-page-load" href="h2u.php">
                                         <img src="images/portfolio/h2u/h2uAll.png" alt="h2u">
                                         <div>
                                             <h5 class="name">Happy2you</h5>
@@ -778,7 +778,7 @@
                                 </figure>
 
                                 <figure class="item" data-groups='["all","website"]'>
-                                    <a class="page-ajax-loaded" href="bouwman.php">
+                                    <a class="ajax-page-load" href="bouwman.php">
                                         <img src="images/portfolio/bouwman/bouwmanAll.png" alt="bouwman">
                                         <div>
                                             <h5 class="name">Bouwman</h5>
@@ -789,7 +789,7 @@
                                 </figure>
 
 <!--                                <figure class="item" data-groups='["all","website"]'>-->
-<!--                                    <a class="page-ajax-loaded" href="bugbyte.php">-->
+<!--                                    <a class="ajax-page-load" href="bugbyte.php">-->
 <!--                                        <img src="images/portfolio/bugbyte.jpg" alt="">-->
 <!--                                        <div>-->
 <!--                                            <h5 class="name">BugByte</h5>-->
@@ -802,7 +802,7 @@
 
 
                                 <figure class="item" data-groups='["all", "website"]'>
-                                    <a class="page-ajax-loaded" href="eshipsol.php">
+                                    <a class="ajax-page-load" href="eshipsol.php">
                                         <img src="images/portfolio/eshipsol/eshipsolAll.png" alt="eshipsol">
                                         <div>
                                             <h5 class="name">Eshipsol</h5>
@@ -814,7 +814,7 @@
 
 
                                 <figure class="item" data-groups='["all","mobile-apps"]'>
-                                    <a href="shoutOut.php" class="page-ajax-loaded">
+                                    <a href="shout-out.php" class="ajax-page-load">
                                         <img src="images/portfolio/app/shortout.png" alt="Shortout">
                                         <div>
                                             <h5 class="name">Shout out</h5>
@@ -825,7 +825,7 @@
                                 </figure>
 
                                 <figure class="item" data-groups='["all","mobile-apps"]'>
-                                    <a href="mash-network.php" class="page-ajax-loaded">
+                                    <a href="mash-network.php" class="ajax-page-load">
                                         <img src="images/portfolio/app/mashNetwork.png" alt="mashNetwork">
                                         <div>
                                             <h5 class="name">Mash Network</h5>
@@ -835,16 +835,16 @@
                                     </a>
                                 </figure>
 
-                                <figure class="item" data-groups='["all","mobile-apps"]'>
-                                    <a href="StarBerry.php" class="page-ajax-loaded">
-                                        <img src="images/portfolio/app/StarBerry2.png" alt="StarBerry">
-                                        <div>
-                                            <h5 class="name">StarBerry</h5>
-                                            <small>Mobile app</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
-                                        </div>
-                                    </a>
-                                </figure>
+<!--                                <figure class="item" data-groups='["all","mobile-apps"]'>-->
+<!--                                    <a href="StarBerry.php" class="ajax-page-load">-->
+<!--                                        <img src="images/portfolio/app/StarBerry2.png" alt="StarBerry">-->
+<!--                                        <div>-->
+<!--                                            <h5 class="name">StarBerry</h5>-->
+<!--                                            <small>Mobile app</small>-->
+<!--                                            <i class="pe-7s-icon pe-7s-photo"></i>-->
+<!--                                        </div>-->
+<!--                                    </a>-->
+<!--                                </figure>-->
 
                                 <figure class="item" data-groups='["all","email-templates"]'>
                                     <a class="ajax-page-load" href="alqen-email.php">
@@ -857,7 +857,7 @@
                                     </a>
                                 </figure>
                                 <figure class="item" data-groups='["all","email-templates"]'>
-                                    <a class="ajax-page-load" href="alqen-email.php">
+                                    <a class="ajax-page-load" href="betten-ritter-email.php">
                                         <img src="images/portfolio/emails/betten-ritter.png" alt="betten-ritter">
                                         <div>
                                             <h5 class="name">Betten Ritter</h5>
@@ -867,7 +867,7 @@
                                     </a>
                                 </figure>
                                 <figure class="item" data-groups='["all","email-templates"]'>
-                                    <a class="ajax-page-load" href="alqen-email.php">
+                                    <a class="ajax-page-load" href="noisymay-email.php">
                                         <img src="images/portfolio/emails/noisy-may.png" alt="noisy-may">
                                         <div>
                                             <h5 class="name">Noisy May</h5>
@@ -877,7 +877,7 @@
                                     </a>
                                 </figure>
                                 <figure class="item" data-groups='["all","email-templates"]'>
-                                    <a class="ajax-page-load" href="alqen-email.php">
+                                    <a class="ajax-page-load" href="mobilityBusiness-email.php">
                                         <img src="images/portfolio/emails/mobility-business.png" alt="mobility-business">
                                         <div>
                                             <h5 class="name">Mobility Business</h5>

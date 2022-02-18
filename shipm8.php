@@ -1,10 +1,10 @@
 <div id="ajax-page" class="ajax-page-content">
     <div class="ajax-page-wrapper">
         <div class="ajax-page-nav">
-            <div class="nav-item ajax-page-prev-next">
-                <a class="ajax-page-load" href="cac.php"><i class="pe-7s-icon pe-7s-angle-left"></i></a>
-                <a class="ajax-page-load" href="greenectus.php"><i class="pe-7s-icon pe-7s-angle-right"></i></a>
-            </div>
+<!--            <div class="nav-item ajax-page-prev-next">-->
+<!--                <a class="ajax-page-load" href="cac.php"><i class="pe-7s-icon pe-7s-angle-left"></i></a>-->
+<!--                <a class="ajax-page-load" href="greenectus.php"><i class="pe-7s-icon pe-7s-angle-right"></i></a>-->
+<!--            </div>-->
             <div class="nav-item ajax-page-close-button">
                 <a id="ajax-page-close-button" href="#"><i class="pe-7s-icon pe-7s-close"></i></a>
             </div>
@@ -100,11 +100,11 @@
                         <h3>Technology</h3>
                     </div>
                     <ul class="tags">
-                        <li><a>HTML5</a></li>
-                        <li><a>CSS3</a></li>
-                        <li><a>Bootstrap</a></li>
+                        <li><a>HTML 5</a></li>
+                        <li><a>CSS 3</a></li>
+                        <li><a>Bootstrap 4</a></li>
                         <li><a>JavaScript</a></li>
-                        <li><a>React.js</a></li>
+                        <li><a>React JS</a></li>
                     </ul>
                 </div>
                 <!-- /Technology -->

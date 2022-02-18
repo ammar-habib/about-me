@@ -1,10 +1,10 @@
 <div id="ajax-page" class="ajax-page-content">
     <div class="ajax-page-wrapper">
         <div class="ajax-page-nav">
-            <div class="nav-item ajax-page-prev-next">
-                <a class="ajax-page-load" href="churchbase.php"><i class="pe-7s-icon pe-7s-angle-left"></i></a>
-                <a class="ajax-page-load" href="fantaztech.php"><i class="pe-7s-icon pe-7s-angle-right"></i></a>
-            </div>
+<!--            <div class="nav-item ajax-page-prev-next">-->
+<!--                <a class="ajax-page-load" href="churchbase.php"><i class="pe-7s-icon pe-7s-angle-left"></i></a>-->
+<!--                <a class="ajax-page-load" href="fantaztech.php"><i class="pe-7s-icon pe-7s-angle-right"></i></a>-->
+<!--            </div>-->
             <div class="nav-item ajax-page-close-button">
                 <a id="ajax-page-close-button" href="#"><i class="pe-7s-icon pe-7s-close"></i></a>
             </div>

@@ -1,10 +1,10 @@
 <div id="ajax-page" class="ajax-page-content">
     <div class="ajax-page-wrapper">
         <div class="ajax-page-nav">
-            <div class="nav-item ajax-page-prev-next">
-                <a class="ajax-page-load" href="cac.php"><i class="pe-7s-icon pe-7s-angle-left"></i></a>
-                <a class="ajax-page-load" href="shipm8.php"><i class="pe-7s-icon pe-7s-angle-right"></i></a>
-            </div>
+<!--            <div class="nav-item ajax-page-prev-next">-->
+<!--                <a class="ajax-page-load" href="cac.php"><i class="pe-7s-icon pe-7s-angle-left"></i></a>-->
+<!--                <a class="ajax-page-load" href="shipm8.php"><i class="pe-7s-icon pe-7s-angle-right"></i></a>-->
+<!--            </div>-->
             <div class="nav-item ajax-page-close-button">
                 <a id="ajax-page-close-button" href="#"><i class="pe-7s-icon pe-7s-close"></i></a>
             </div>
@@ -16,53 +16,56 @@
 
         <div class="row">
             <div class="col-sm-7 col-md-7 portfolio-block">
-                <div class="owl-carousel portfolio-page-carousel">
-                    <div class="item">
-                        <img src="images/portfolio/termmate/term1.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="images/portfolio/termmate/term2.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="images/portfolio/termmate/term3.png" alt="">
-                    </div>
+                <div class="portfolio-page-image">
+                    <img src="images/portfolio/termmate/termmateAll.png" alt="termmate">
                 </div>
-                <script type="text/javascript">
-                    function customAjaxScroll() {
-                        var windowWidth = $(window).width();
-                        if (windowWidth > 991) {
-                            // Custom Ajax Page Scroll
-                            $("#ajax-page").mCustomScrollbar({
-                                scrollInertia: 8,
-                                documentTouchScroll: false
-                            });
-                        } else {
-                            $("#ajax-page").mCustomScrollbar('destroy');
-                        }
-                    }
-
-                    jQuery(document).ready(function ($) {
-
-                        // Ajax Loaded Page Scroll
-                        customAjaxScroll();
-
-
-                        $('.portfolio-page-carousel').owlCarousel({
-                            smartSpeed: 1200,
-                            items: 1,
-                            loop: true,
-                            dots: true,
-                            nav: true,
-                            navText: false,
-                            margin: 10
-                        });
-
-                    });
-
-                    jQuery(window).on('resize', function () {
-                        customAjaxScroll();
-                    });
-                </script>
+<!--                <div class="owl-carousel portfolio-page-carousel">-->
+<!--                    <div class="item">-->
+<!--                        <img src="images/portfolio/termmate/term1.png" alt="">-->
+<!--                    </div>-->
+<!--                    <div class="item">-->
+<!--                        <img src="images/portfolio/termmate/term2.png" alt="">-->
+<!--                    </div>-->
+<!--                    <div class="item">-->
+<!--                        <img src="images/portfolio/termmate/term3.png" alt="">-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <script type="text/javascript">-->
+<!--                    function customAjaxScroll() {-->
+<!--                        var windowWidth = $(window).width();-->
+<!--                        if (windowWidth > 991) {-->
+<!--                            // Custom Ajax Page Scroll-->
+<!--                            $("#ajax-page").mCustomScrollbar({-->
+<!--                                scrollInertia: 8,-->
+<!--                                documentTouchScroll: false-->
+<!--                            });-->
+<!--                        } else {-->
+<!--                            $("#ajax-page").mCustomScrollbar('destroy');-->
+<!--                        }-->
+<!--                    }-->
+<!---->
+<!--                    jQuery(document).ready(function ($) {-->
+<!---->
+<!--                        // Ajax Loaded Page Scroll-->
+<!--                        customAjaxScroll();-->
+<!---->
+<!---->
+<!--                        $('.portfolio-page-carousel').owlCarousel({-->
+<!--                            smartSpeed: 1200,-->
+<!--                            items: 1,-->
+<!--                            loop: true,-->
+<!--                            dots: true,-->
+<!--                            nav: true,-->
+<!--                            navText: false,-->
+<!--                            margin: 10-->
+<!--                        });-->
+<!---->
+<!--                    });-->
+<!---->
+<!--                    jQuery(window).on('resize', function () {-->
+<!--                        customAjaxScroll();-->
+<!--                    });-->
+<!--                </script>-->
             </div>
 
             <div class="col-sm-5 col-md-5 portfolio-block">
@@ -77,9 +80,13 @@
                 </ul>
 
                 <p class="text-justify">
-                    Termmate is a unique platform where users can upload, and share their educational content while
-                    learners and can easily access good quality content online. Termmate also rewards content creators
+                    TermMate is a unique platform where users can upload, and share their educational content while
+                    learners and can easily access good quality content online. TermMate also rewards content creators
                     by allowing them to earn money from their work.
+                </p>
+                <p class="text-justify">
+                    Build TermMate PSD base website designs in HTML5, CSS3 and JS with the help of Bootstrap 4.
+                    It is fully responsive and compatible with all major browser. its react base multi page application
                 </p>
                 <!-- /Project Description -->
 
@@ -91,7 +98,7 @@
                     <ul class="tags">
                         <li><a>HTML5</a></li>
                         <li><a>CSS3</a></li>
-                        <li><a>Bootstrap</a></li>
+                        <li><a>Bootstrap 4</a></li>
                         <li><a>JavaScript</a></li>
                         <li><a>React.js</a></li>
                     </ul>

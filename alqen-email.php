@@ -1,10 +1,10 @@
 <div id="ajax-page" class="ajax-page-content">
     <div class="ajax-page-wrapper">
         <div class="ajax-page-nav">
-            <div class="nav-item ajax-page-prev-next">
-                <a class="ajax-page-load" href="churchbase.php"><i class="pe-7s-icon pe-7s-angle-left"></i></a>
-                <a class="ajax-page-load" href="betten-ritter-email.php"><i class="pe-7s-icon pe-7s-angle-right"></i></a>
-            </div>
+<!--            <div class="nav-item ajax-page-prev-next">-->
+<!--                <a class="ajax-page-load" href="churchbase.php"><i class="pe-7s-icon pe-7s-angle-left"></i></a>-->
+<!--                <a class="ajax-page-load" href="betten-ritter-email.php"><i class="pe-7s-icon pe-7s-angle-right"></i></a>-->
+<!--            </div>-->
             <div class="nav-item ajax-page-close-button">
                 <a id="ajax-page-close-button" href="#"><i class="pe-7s-icon pe-7s-close"></i></a>
             </div>
@@ -79,10 +79,17 @@
                     <!--                    <li><p><i class="fa fa-user"></i>Ammar Habib</p></li>-->
                     <li><p><i class="fa fa-globe"></i> <a href="https://alqen.io/" target="_blank">https://alqen.io/</a>
                         </p></li>
+                    <li>
+                        <p><i class="fa fa-photo"></i>
+                            <a href="https://www.dropbox.com/s/0nrgqfu1i7ncupe/alqen_email_templates.png?dl=0"
+                               target="_blank">Design Reference
+                            </a>
+                        </p>
+                    </li>
                 </ul>
 
                 <p class="text-justify">
-                    Build the Alqen Figma design Email templates in HTML / CSS & MJML for Mailchimp email marketing campaign.
+                    Build the Alqen Figma base email templates design in HTML / CSS & MJML for Mailchimp email marketing campaign.
                 </p>
                 <!-- /Project Description -->
 

@@ -1,10 +1,10 @@
 <div id="ajax-page" class="ajax-page-content">
     <div class="ajax-page-wrapper">
         <div class="ajax-page-nav">
-            <div class="nav-item ajax-page-prev-next">
-                <a class="ajax-page-load" href="alqen-email.php"><i class="pe-7s-icon pe-7s-angle-left"></i></a>
-                <a class="ajax-page-load" href="noisymay-email.php"><i class="pe-7s-icon pe-7s-angle-right"></i></a>
-            </div>
+<!--            <div class="nav-item ajax-page-prev-next">-->
+<!--                <a class="ajax-page-load" href="alqen-email.php"><i class="pe-7s-icon pe-7s-angle-left"></i></a>-->
+<!--                <a class="ajax-page-load" href="noisymay-email.php"><i class="pe-7s-icon pe-7s-angle-right"></i></a>-->
+<!--            </div>-->
             <div class="nav-item ajax-page-close-button">
                 <a id="ajax-page-close-button" href="#"><i class="pe-7s-icon pe-7s-close"></i></a>
             </div>
@@ -79,10 +79,17 @@
                     <!--                    <li><p><i class="fa fa-user"></i>Ammar Habib</p></li>-->
                     <li><p><i class="fa fa-globe"></i> <a href="https://www.bettenritter.com/" target="_blank">https://www.bettenritter.com/</a>
                         </p></li>
+                    <li>
+                        <p><i class="fa fa-photo"></i>
+                            <a href="https://www.dropbox.com/s/3xs6k1dtrv3w7wv/betten-ritter.png?dl=0"
+                               target="_blank">Design Reference
+                            </a>
+                        </p>
+                    </li>
                 </ul>
 
                 <p class="text-justify">
-                    Build the Betten Ritter XD design email templates in HTML / CSS & MJML for email marketing campaign.
+                    Build the Betten Ritter XD base email templates design in HTML / CSS & MJML for email marketing campaign.
                 </p>
                 <!-- /Project Description -->
 
@@ -92,7 +99,7 @@
                         <h3>Technology</h3>
                     </div>
                     <ul class="tags">
-                        <li><a>Figma Design</a></li>
+                        <li><a>XD Design</a></li>
                         <li><a>HTML</a></li>
                         <li><a>CSS</a></li>
                         <li><a>MJML</a></li>

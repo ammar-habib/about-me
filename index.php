@@ -687,10 +687,32 @@
                                 </figure>
 
                                 <figure class="item" data-groups='["all","website"]'>
+                                    <a class="ajax-page-load" href="property-360.php">
+                                        <img src="images/portfolio/propetymockup.png" alt="Property">
+                                        <div>
+                                            <h5 class="name">Property 360</h5>
+                                            <small>website</small>
+                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                        </div>
+                                    </a>
+                                </figure>
+
+                                <figure class="item" data-groups='["all","website"]'>
                                     <a class="ajax-page-load" href="pngp.php">
                                         <img src="images/portfolio/pngp/pngpAll.png" alt="PNGP">
                                         <div>
                                             <h5 class="name">PNGP</h5>
+                                            <small>website</small>
+                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                        </div>
+                                    </a>
+                                </figure>
+
+                                <figure class="item" data-groups='["all","website"]'>
+                                    <a class="ajax-page-load" href="relevic.php">
+                                        <img src="images/portfolio/relevicAll.png" alt="relevicA">
+                                        <div>
+                                            <h5 class="name">Relevic</h5>
                                             <small>website</small>
                                             <i class="pe-7s-icon pe-7s-globe"></i>
                                         </div>
@@ -818,6 +840,16 @@
                                         <img src="images/portfolio/app/shortout.png" alt="Shortout">
                                         <div>
                                             <h5 class="name">Shout out</h5>
+                                            <small>Mobile Apps</small>
+                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                        </div>
+                                    </a>
+                                </figure>
+                                <figure class="item" data-groups='["all","mobile-apps"]'>
+                                    <a href="property-360-app.php" class="ajax-page-load">
+                                        <img src="images/portfolio/app/property-360App.png" alt="property-360">
+                                        <div>
+                                            <h5 class="name">Property 360</h5>
                                             <small>Mobile Apps</small>
                                             <i class="pe-7s-icon pe-7s-photo"></i>
                                         </div>

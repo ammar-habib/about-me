@@ -84,8 +84,11 @@
                 <p class="text-justify">
                     FanTazTech is a remote technical support platform based on a remote desktop
                     screen share with controls and VOIP WEBRTC Google. FanTazTech is the
-                    ‘Uber’ of remote IT support. TechMateTech built the complete solution
-                    for our client, Nick Pesit (CEO FanTazTech).
+                    ‘Uber’ of remote IT support.
+                </p>
+                <p class="text-justify">
+                    Build FanTazTech Sketch base design in HTML 5, CSS 3 & JS with the help of bootstrap 4.
+                    All the screens are fully responsive and compatible with all major browser.
                 </p>
                 <!-- /Project Description -->
 

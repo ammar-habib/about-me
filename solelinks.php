@@ -87,6 +87,10 @@
                     (Distributor) and received 18.1K+ likes on Twitter and nearly 8K+ on
                     Facebook.
                 </p>
+                <p class="text-justify">
+                    Build Solelinks Figma base design in HTML 5, CSS 3 & JS with the help of bootstrap 4.
+                    All the screens are fully responsive and compatible with all major browser.
+                </p>
                 <!-- /Project Description -->
 
                 <!-- Technology -->

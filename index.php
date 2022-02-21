@@ -810,6 +810,17 @@
                                     </a>
                                 </figure>
 
+                                <figure class="item" data-groups='["all","website"]'>
+                                    <a class="ajax-page-load" href="bugbyte.php">
+                                        <img src="images/portfolio/bugbyteAll.png" alt="bugbyte">
+                                        <div>
+                                            <h5 class="name">BugByte Studios</h5>
+                                            <small>Website</small>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
+                                        </div>
+                                    </a>
+                                </figure>
+
 <!--                                <figure class="item" data-groups='["all","website"]'>-->
 <!--                                    <a class="ajax-page-load" href="bugbyte.php">-->
 <!--                                        <img src="images/portfolio/bugbyte.jpg" alt="">-->
@@ -861,6 +872,17 @@
                                         <img src="images/portfolio/app/mashNetwork.png" alt="mashNetwork">
                                         <div>
                                             <h5 class="name">Mash Network</h5>
+                                            <small>Mobile Apps</small>
+                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                        </div>
+                                    </a>
+                                </figure>
+
+                                <figure class="item" data-groups='["all","mobile-apps"]'>
+                                    <a href="hoppingin.php" class="ajax-page-load">
+                                        <img src="images/portfolio/app/hoppingin.png" alt="hoppingin">
+                                        <div>
+                                            <h5 class="name">Hoppingin</h5>
                                             <small>Mobile Apps</small>
                                             <i class="pe-7s-icon pe-7s-photo"></i>
                                         </div>

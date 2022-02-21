@@ -83,6 +83,10 @@
                 <p class="text-justify">
                     EXOsecure replaces your consumer grade antivirus, VPN (Virtual Private Network), and firewalls with an Enterprise Grade Managed Cybersecurity Service that is run by cybersecurity experts 24/7/365.
                 </p>
+                <p class="text-justify">
+                    Build EXOsecure Sketch base design in HTML 5, CSS 3 & JS with the help of bootstrap 4.
+                    All the screens are fully responsive and compatible with all major browser.
+                </p>
                 <!-- /Project Description -->
 
                 <!-- Technology -->
@@ -91,7 +95,7 @@
                         <h3>Technology</h3>
                     </div>
                     <ul class="tags">
-                        <li><a>Figma Design</a></li>
+                        <li><a>Sketch Design</a></li>
                         <li><a>HTML 5</a></li>
                         <li><a>CSS 3</a></li>
                         <li><a>Bootstrap 4</a></li>

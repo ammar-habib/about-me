@@ -87,6 +87,10 @@
                     texts to allow researchers to focus on the deeper questions. Dicta is a non-profit organization that
                     provides its products at no charge for the benefit of the public.
                 </p>
+                <p class="text-justify">
+                    Build Dicta Sketch base design in HTML 5, CSS 3 & JS with the help of bootstrap 4.
+                    All the screens are fully responsive pixel perfect and compatible with all major browser
+                </p>
                 <!-- /Project Description -->
 
                 <!-- Technology -->

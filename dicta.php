@@ -79,6 +79,8 @@
                     <!--                    <li><p><i class="fa fa-user"></i>Ammar Habib</p></li>-->
                     <li><p><i class="fa fa-globe"></i> <a href="https://dicta.org.il" target="_blank">https://dicta.org.il</a>
                         </p></li>
+                    <li><p><i class="fa fa-photo"></i> <a href="https://www.dropbox.com/sh/2vaxhxjaxol39ef/AAADOK2K_n-XLFIOwMeH3Mr5a?dl=0" target="_blank">Design Reference</a>
+                        </p></li>
                 </ul>
 
                 <p class="text-justify">

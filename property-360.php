@@ -81,7 +81,7 @@
                 </div>
                 <ul class="project-general-info">
                     <!--                    <li><p><i class="fa fa-user"></i>Ammar Habib</p></li>-->
-                    <li><p><i class="fa fa-globe"></i>
+                    <li><p><i class="fa fa-photo"></i>
                             <a href="https://www.dropbox.com/sh/jeb3juy5rshoz0t/AAAa_D5ni-sjhLXLzzdPeBl6a?dl=0"
                                                           target="_blank">Design Reference</a>
                         </p></li>
@@ -89,7 +89,7 @@
 
                 <p class="text-justify">
                     Build Property 360 Sketch base dashboard designs in HTML5, CSS3 and React JS with the help of React-bootstrap.
-                    All screens are fully responsive and compatible with all major browser. CSS in Js using styled-components.
+                    All screens are fully responsive and compatible with all major browser. CSS in JS using styled-components.
                 </p>
                 <!-- /Project Description -->
 

@@ -100,7 +100,7 @@
                 </p>
                 <p class="text-justify">
                     Build MashNetwork hybrid app Sketch base designs in Ionic 5.
-                    It is for available for Android and IOS.
+                    It's available for Android and IOS.
                 </p>
                 <!-- /Project Description -->
 

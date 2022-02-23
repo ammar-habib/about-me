@@ -87,7 +87,9 @@
                                target="_blank">Live App
                             </a>
                         </p>
-                        <p><i class="fa fa-globe"></i>
+                    </li>
+                    <li>
+                        <p><i class="fa fa-photo"></i>
                             <a href="https://www.dropbox.com/s/irqvzbmont3lut7/Online%20Course.png?dl=0"
                                target="_blank">Design Reference
                             </a>
@@ -100,7 +102,7 @@
                 </p>
                 <p class="text-justify">
                     Build ShoutOut hybrid app Figma base designs in Ionic 5.
-                    It is for available for Android and IOS.
+                    It's available for Android and IOS.
                 </p>
                 <!-- /Project Description -->
 

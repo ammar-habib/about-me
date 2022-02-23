@@ -85,7 +85,7 @@
                             <a href="https://www.relevic.com/"
                                target="_blank">https://www.relevic.com/</a>
                         </p></li>
-                    <li><p><i class="fa fa-globe"></i>
+                    <li><p><i class="fa fa-photo"></i>
                             <a href="https://www.dropbox.com/sh/g51xhdkjrk9hcjj/AAA4OPBnKzSFXKeOuGLSLpesa?dl=0"
                                                           target="_blank">Design Reference</a>
                         </p></li>

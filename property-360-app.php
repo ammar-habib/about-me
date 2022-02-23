@@ -82,7 +82,7 @@
                 <ul class="project-general-info">
                     <!--                    <li><p><i class="fa fa-user"></i>Ammar Habib</p></li>-->
                     <li>
-                        <p><i class="fa fa-globe"></i>
+                        <p><i class="fa fa-photo"></i>
                             <a href="https://www.dropbox.com/sh/zy2wmhdpd8mh0p3/AAAKeblRzGOcrW5dlIGAyykPa?dl=0"
                                target="_blank">Design Reference
                             </a>
@@ -95,7 +95,7 @@
                 </p>
                 <p class="text-justify">
                     Build property-360 (Tenant, vendor) hybrid app Sketch base designs in Ionic 4.
-                    It is for available for Android and IOS.
+                    It's available for Android and IOS.
                 </p>
                 <!-- /Project Description -->
 

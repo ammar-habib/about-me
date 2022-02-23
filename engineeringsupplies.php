@@ -81,14 +81,14 @@
                 </div>
                 <ul class="project-general-info">
                     <!--                    <li><p><i class="fa fa-user"></i>Ammar Habib</p></li>-->
-                    <li><p><i class="fa fa-globe"></i>
+                    <li><p><i class="fa fa-photo"></i>
                             <a href="https://www.dropbox.com/sh/h4bcxchnd3jm4n4/AABSRs8XZz-TgIYlU3Ovr6Bqa?dl=0"
                                target="_blank">Design Reference</a>
                         </p></li>
                 </ul>
 
                 <p class="text-justify">
-                    I converted Engineering Supplies website XD base designs into HTML5, CSS3 and JS with the help of Bootstrap 4.
+                    Build Engineering Supplies website XD base designs into HTML5, CSS3 and JS with the help of Bootstrap 4.
                     All the screens are fully responsive and compatible with all major browser.
                 </p>
                 <!-- /Project Description -->

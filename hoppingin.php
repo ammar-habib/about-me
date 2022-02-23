@@ -99,7 +99,7 @@
                     Hoppingin is a web app that provided children daycare services.
                 </p>
                 <p class="text-justify">
-                    Build Hoppingin PSD base web app design in HTML 5, CSS 3 & JS with the help of bootstrap 3.
+                    Build Hoppingin PSD base web app design in HTML 5, CSS 3 & JS with the help of bootstrap 3.<br>
                     It has two different modules,<br>
                     <span>1- Childcare Owner</span><br>
                     <span>2- For Parents</span><br>

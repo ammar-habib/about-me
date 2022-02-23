@@ -149,7 +149,7 @@
                             </div>
 
                             <div class="col-sm-6 col-md-6 col-lg-4">
-                                <h3 class="text-capitalize">I am Frontend developer <br/> @ TechMatTech.com</h3>
+                                <h3 class="text-capitalize">I am Frontend developer <br/> @ TechMate Technologies LLC</h3>
                                 <p class="text-capitalize">
                                     Front-end developer with more than 3.5 years of
                                     experience and a track record in transforming web
@@ -611,11 +611,11 @@
 
                                 <figure class="item" data-groups='["all", "website"]'>
                                     <a class="ajax-page-load" href="dicta.php" target="_blank" title="Dicta">
-                                        <img src="images/portfolio/dicta/Dicta_All-min.png" alt="">
+                                        <img src="images/portfolio/dicta/Dicta_All-min.png?quality=auto" alt="">
                                         <div>
                                             <h5 class="name">Dicta</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -626,7 +626,7 @@
                                         <div>
                                             <h5 class="name">ExoSecure</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -637,7 +637,7 @@
                                         <div>
                                             <h5 class="name">Church Base</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -648,7 +648,7 @@
                                         <div>
                                             <h5 class="name">SoleLinks</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -659,7 +659,7 @@
                                         <div>
                                             <h5 class="name">FanTazTech</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -670,7 +670,7 @@
                                         <div>
                                             <h5 class="name">Termmate</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -681,7 +681,7 @@
                                         <div>
                                             <h5 class="name">Shipm8</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -692,7 +692,7 @@
                                         <div>
                                             <h5 class="name">Property 360</h5>
                                             <small>website</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -703,7 +703,7 @@
                                         <div>
                                             <h5 class="name">PNGP</h5>
                                             <small>website</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -714,7 +714,7 @@
                                         <div>
                                             <h5 class="name">Relevic</h5>
                                             <small>website</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -725,7 +725,7 @@
                                         <div>
                                             <h5 class="name">Greenectus</h5>
                                             <small>website</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -736,7 +736,7 @@
                                         <div>
                                             <h5 class="name">TechMaTetech LLC</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -747,7 +747,7 @@
                                         <div>
                                             <h5 class="name">Al Fanar Restaurant</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -770,7 +770,7 @@
                                         <div>
                                             <h5 class="name">Sharp Brains</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -840,7 +840,7 @@
                                         <div>
                                             <h5 class="name">Eshipsol</h5>
                                             <small>Website</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -852,7 +852,7 @@
                                         <div>
                                             <h5 class="name">Shout out</h5>
                                             <small>Mobile Apps</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -862,7 +862,7 @@
                                         <div>
                                             <h5 class="name">Property 360</h5>
                                             <small>Mobile Apps</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -873,7 +873,7 @@
                                         <div>
                                             <h5 class="name">Mash Network</h5>
                                             <small>Mobile Apps</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -884,7 +884,7 @@
                                         <div>
                                             <h5 class="name">Hoppingin</h5>
                                             <small>Mobile Apps</small>
-                                            <i class="pe-7s-icon pe-7s-photo"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -895,7 +895,7 @@
 <!--                                        <div>-->
 <!--                                            <h5 class="name">StarBerry</h5>-->
 <!--                                            <small>Mobile app</small>-->
-<!--                                            <i class="pe-7s-icon pe-7s-photo"></i>-->
+<!--                                            <i class="pe-7s-icon pe-7s-global"></i>-->
 <!--                                        </div>-->
 <!--                                    </a>-->
 <!--                                </figure>-->
@@ -906,7 +906,7 @@
                                         <div>
                                             <h5 class="name">Alqen</h5>
                                             <small>Email Templates</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -916,7 +916,7 @@
                                         <div>
                                             <h5 class="name">Betten Ritter</h5>
                                             <small>Email Templates</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -926,7 +926,7 @@
                                         <div>
                                             <h5 class="name">Noisy May</h5>
                                             <small>Email Templates</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -936,7 +936,7 @@
                                         <div>
                                             <h5 class="name">Mobility Business</h5>
                                             <small>Email Templates</small>
-                                            <i class="pe-7s-icon pe-7s-globe"></i>
+                                            <i class="pe-7s-icon pe-7s-global"></i>
                                         </div>
                                     </a>
                                 </figure>
@@ -949,7 +949,7 @@
                                      <div>
                                        <h5 class="name">B2B Leading Page</h5>
                                        <small>Website</small>
-                                       <i class="pe-7s-icon pe-7s-photo"></i>
+                                       <i class="pe-7s-icon pe-7s-global"></i>
                                      </div>
                                    </a>
                                  </figure> -->

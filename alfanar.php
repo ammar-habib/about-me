@@ -87,9 +87,7 @@
                 </ul>
 
                 <p class="text-justify">
-                    TechMate Technologies is not just another IT outsourcing company; we are unique in our approach and
-                    process. Our team offers affordable services with guaranteed quality so that we can meet your budget
-                    while bringing your ideas to life in the most up-to-date technologies.
+                    Al Fanar Restaurant revives Emirati ambiance in the 1960s, and with the taste of Authentic Emirati Cuisine.
                 </p>
                 <!-- /Project Description -->
 

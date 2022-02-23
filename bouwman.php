@@ -82,7 +82,7 @@
                 <ul class="project-general-info">
                     <!--                    <li><p><i class="fa fa-user"></i>Ammar Habib</p></li>-->
                     <li>
-                        <p><i class="fa fa-globe"></i>
+                        <p><i class="fa fa-photo"></i>
                             <a href="https://www.dropbox.com/sh/twfuaw384t9iuwh/AAD9yV9Qd1JXd31Be1p6veVPa?dl=0"
                                                           target="_blank">Design Reference
                             </a>

@@ -81,16 +81,16 @@
                 </div>
                 <ul class="project-general-info">
                     <!--                    <li><p><i class="fa fa-user"></i>Ammar Habib</p></li>-->
-                    <li><p><i class="fa fa-globe"></i>
+                    <li><p><i class="fa fa-photo"></i>
                             <a href="https://www.dropbox.com/s/2afk8qhq1ezxdl9/h2u.jpg?dl=0"  target="_blank">Design Reference</a>
                         </p></li>
                 </ul>
 
                 <p class="text-justify">
-                    H2U is an application where you can create the video to wishes the birth date for your friends relatives etc!                </p>
+                    H2U is an application where you can create the video to wishes the birthday for your friends relatives etc!                </p>
                 <p class="text-justify">
-                    Build H2U Landing page PSD base designs in HTML5, CSS3 and JS with the help of Bootstrap.
-                    It is a parallax scrolling effect landing page  with animation. It is fully responsive and compatible with all major browser.
+                    Build H2U Landing page PSD base design in HTML5,  CSS3 and JS with the help of Bootstrap.
+                    It's a parallax scrolling effect landing page  with animation also fully responsive and compatible with all major browser.
                 </p>
                 <!-- /Project Description -->
 

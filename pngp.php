@@ -81,7 +81,7 @@
                 </div>
                 <ul class="project-general-info">
                     <!--                    <li><p><i class="fa fa-user"></i>Ammar Habib</p></li>-->
-                    <li><p><i class="fa fa-globe"></i>
+                    <li><p><i class="fa fa-photo"></i>
                             <a href="https://www.dropbox.com/sh/ifnqunbovu5per3/AAD0QAKeLHHJxLqyvvd2rPnOa?dl=0"
                                                           target="_blank">Design Reference</a>
                         </p></li>
@@ -89,7 +89,9 @@
 
                 <p class="text-justify">
                     Build PNGP XD base Landing page & dashboard designs in HTML5, CSS3 and React JS with the help of React-bootstrap.
-                    It was more than 100+ screens. I converted all the screens within 2 weeks which was fully responsive and compatible with all major browser.
+                    It has more than 100+ screens. I converted all the screens within 2 weeks which was fully responsive and compatible with all major browser.<br>
+                    It has two different dashboard<br>
+                    1- Seller Dashboard<br>2- Buyer Dashboard
                 </p>
                 <!-- /Project Description -->
 

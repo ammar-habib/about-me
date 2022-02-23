@@ -91,7 +91,7 @@
                 </p>
                 <p class="text-justify">
                     Build Rose Revenue Landing page XD base designs in HTML5, CSS3 and JS with the help of Tailwind CSS.
-                    All the screens are fully responsive and compatible with all major browser.
+                    Its fully responsive and compatible with all major browser.
                 </p>
                 <!-- /Project Description -->
 

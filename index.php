@@ -178,7 +178,7 @@
                                 </ul>
 
                                 <ul class="social-links">
-                                    <li><a target="_blank" lass="tip social-button"
+                                    <li><a target="_blank" class="tip social-button"
                                            href="https://gitlab.com/ammar-habib" title="GitLab"><i
                                                     class="fa fa-gitlab"></i></a></li>
                                     <li><a class="tip social-button" target="_blank"
@@ -427,14 +427,14 @@
                                         <a href="https://www.bzu.edu.pk/" target="_blank">
                                             <span class="event-description">Bahauddin Zakariya University Multan, Pakistan</span>
                                         </a>
-                                        <p>Major subjects are computer, physice, math</p>
+                                        <p>Major subjects are computer, physics, math</p>
                                     </div>
                                     <!-- Single event -->
                                     <div class="timeline-event te-primary">
                                         <h5 class="event-date">2010</h5>
                                         <h4 class="event-name">FSC: Pre Engineering</h4>
                                         <span class="event-description">BISE Dera Ghazi Khan, Pakistan</span>
-                                        <p>Major subjects are math, physice, chemistry </p>
+                                        <p>Major subjects are math, physics, chemistry </p>
                                     </div>
                                 </div>
                             </div>
@@ -460,7 +460,7 @@
                                         <h5 class="event-date">Aug 2016 - April 2018</h5>
                                         <h4 class="event-name">Web developer</h4>
                                         <a href="https://www.bugdevstudios.com/" target="_blank">
-                                            <span class="event-description">BugdevStudios</span>
+                                            <span class="event-description">BugDev Studios</span>
                                         </a>
                                         <p>Responsible for working closely with the product management team to organize
                                             the web presence of clients, and to develop rich user interfaces for
@@ -468,7 +468,7 @@
                                     </div>
                                     <!-- Single event -->
                                     <div class="timeline-event te-primary">
-                                        <h5 class="event-date">janu 2016 - july 2016</h5>
+                                        <h5 class="event-date">jane 2016 - july 2016</h5>
                                         <h4 class="event-name">Data Analyst</h4>
                                         <a href="https://www.technologywisdom.com/" target="_blank">
                                             <span class="event-description">Technology Wisdom</span>

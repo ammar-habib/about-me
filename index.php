@@ -32,6 +32,16 @@
     <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Oxygen:300,400,700" rel="stylesheet">
     <script src="js/jquery-2.1.3.min.js"></script>
     <script src="js/modernizr.custom.js"></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J4D7EZJVDP"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-J4D7EZJVDP');
+    </script>
 </head>
 
 <body>

@@ -6,13 +6,12 @@
     <title>Ammar Habib</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
     <meta name="description" content="Unique - Responsive vCard Template"/>
-    <meta name="keywords" content="ammarhabib, vcard, resposnive, retina, resume, jquery, css3, bootstrap, Unique, portfolio"/>
-    <meta name="author" content="lmtheme"/>
+    <meta name="keywords" content="ammarhabib, resposnive, retina, resume, jquery, css3, bootstrap, portfolio"/>
+    <meta name="author" content="ammar habib"/>
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
-    <!--    <link rel="shortcut icon" href="favicon.ico">-->
 
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
@@ -24,14 +23,20 @@
     <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
     <link rel="stylesheet" href="css/main-red.css" type="text/css">
 
-    <!-- This styles needs for demo -->
-    <link rel="stylesheet" href="preview/lmpixels-demo-panel.css" type="text/css">
-    <!-- /This styles needs for demo -->
-
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Oxygen:300,400,700" rel="stylesheet">
     <script src="js/jquery-2.1.3.min.js"></script>
     <script src="js/modernizr.custom.js"></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J4D7EZJVDP"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-J4D7EZJVDP');
+    </script>
 </head>
 
 <body>
@@ -149,7 +154,7 @@
                             </div>
 
                             <div class="col-sm-6 col-md-6 col-lg-4">
-                                <h3 class="text-capitalize">I am Frontend developer <br/> @ TechMate Technologies LLC</h3>
+                                <h3 class="text-capitalize">I am Frontend developer <br/> @ TechMate Technologies LLC  </h3>
                                 <p class="text-capitalize">
                                     Front-end developer with more than 3.5 years of
                                     experience and a track record in transforming web

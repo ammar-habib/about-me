@@ -134,7 +134,6 @@ input[type=submit], input[type=button], button, a.button {
   margin-bottom: .25em;
   font-size: 0.875em;
   line-height: 1.2;
-  border: 0;
   outline: 0;
   border: 2px solid #ff724c;
   color: #222;

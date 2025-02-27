@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 10px;
 }
 
-p {
+p, .text-ul {
   font-size: 0.875em;
   margin: 0 0 10px;
   font-weight: 300;
@@ -459,7 +459,7 @@ textarea.form-control, textarea.form-control:focus {
   width: 100%;
   height: 100%;
   margin: 0 auto;
-  max-width: 1240px;
+  max-width: 1440px;
   -webkit-perspective: 1500px;
   -moz-perspective: 1500px;
   perspective: 1500px;
@@ -670,7 +670,10 @@ ul.social-links li a i {
 ul.social-links li:last-child a {
   margin-right: 0;
 }
+
 /* /Social links */
+
+
 
 .menu-toggle {
   display: block;
@@ -2048,7 +2051,7 @@ ul.social-links li:last-child a {
   color: #fff;
 }
 
-.template-style-dark p {
+.template-style-dark :is(p, .text-ul) {
   color: #e5e5e5;
 }
 
@@ -2207,6 +2210,12 @@ ul.social-links li:last-child a {
   background-color: #fff;
 }
 /* /Header Main Color BG */
+.my-photo-block {
+    position: relative;
+    top: -50px;
+    right: 30px;
+    text-align: center;
+}
 .my-photo-block:after,
 .my-photo-block:before {
     content: '';

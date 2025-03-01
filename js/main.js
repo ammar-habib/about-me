@@ -1,12 +1,12 @@
 
 (function($) {
 "use strict";
-    
+
     // Portfolio subpage filters
     function portfolio_init() {
         var portfolio_grid = $('#portfolio_grid'),
             portfolio_filter = $('#portfolio_filters');
-            
+
         if (portfolio_grid) {
 
             portfolio_grid.shuffle({
@@ -70,7 +70,7 @@
         }
     }
     // /Hide Mobile menu
-    
+
     // Custom scroll
     function customScroll() {
         var windowWidth = $(window).width();
@@ -110,7 +110,7 @@
         })
         .on('resize', function() { //Resize
             mobileMenuHide();
-             
+
             customScroll();
         });
 
@@ -149,6 +149,8 @@
             loop: false, // Infinity loop. Duplicate last and first items to get loop illusion.
             navText: false,
             margin: 10,
+            autoplay: true,
+            speed: 1000,
             responsive : {
                 // breakpoint from 0 up
                 0 : {

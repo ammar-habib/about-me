@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13bca8e3-7d92-4835-95d6-f6364e800119" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmmarHabib_FrontEnd_Developer_CV.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/testimonials/carlosagudelov.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/testimonials/mikeloiselle.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/testimonials/stephengatheru.jpg" afterDir="false" />
+    <list default="true" id="13bca8e3-7d92-4835-95d6-f6364e800119" name="Changes" comment="update cv.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ammar_Habib_Resume.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,22 +33,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "pro",
-    "last_opened_file_path": "D:/project/about-me",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;pro&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/xampp/htdocs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\about-me\demo\assets" />
       <recent name="D:\project\about-me" />
       <recent name="D:\project\about-me\images\testimonials" />
       <recent name="D:\project\about-me\images\portfolio" />
@@ -95,7 +89,12 @@
       <workItem from="1740735768693" duration="167000" />
       <workItem from="1740759890827" duration="2092000" />
       <workItem from="1740833006781" duration="2176000" />
-      <workItem from="1740838908051" duration="1766000" />
+      <workItem from="1740838908051" duration="4287000" />
+      <workItem from="1741009616618" duration="1089000" />
+      <workItem from="1741244943178" duration="5250000" />
+      <workItem from="1744384564717" duration="939000" />
+      <workItem from="1744656457828" duration="585000" />
+      <workItem from="1753208761053" duration="364000" />
     </task>
     <task id="LOCAL-00001" summary="convert into html.">
       <option name="closed" value="true" />
@@ -129,7 +128,55 @@
       <option name="project" value="LOCAL" />
       <updated>1740760454372</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update cv.">
+      <option name="closed" value="true" />
+      <created>1740840737833</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740840737833</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update cv.">
+      <option name="closed" value="true" />
+      <created>1740840833151</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740840833151</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add 777 assets.">
+      <option name="closed" value="true" />
+      <created>1741009820009</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741009820009</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update the email templates links">
+      <option name="closed" value="true" />
+      <created>1741245115382</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741245115382</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update cv.">
+      <option name="closed" value="true" />
+      <created>1741251584536</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741251584536</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update cv.">
+      <option name="closed" value="true" />
+      <created>1744384621376</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744384621376</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +199,9 @@
     <MESSAGE value="convert into html." />
     <MESSAGE value="add testimonials." />
     <MESSAGE value="add readme file." />
-    <option name="LAST_COMMIT_MESSAGE" value="add readme file." />
+    <MESSAGE value="add 777 assets." />
+    <MESSAGE value="update the email templates links" />
+    <MESSAGE value="update cv." />
+    <option name="LAST_COMMIT_MESSAGE" value="update cv." />
   </component>
 </project>

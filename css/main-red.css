@@ -937,6 +937,7 @@ ul.social-links li:last-child a {
   font-weight: 200;
   text-align: center;
   z-index: 2;
+    line-height: 1.5em;
 }
 
 .block-title h3 {
@@ -1505,7 +1506,14 @@ ul.social-links li:last-child a {
 .ci-text {
   position: relative;
   padding-left: 50px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 0.83em;
+    line-height: 1.5em;
 }
+/*.ci-text a {*/
+/*    color: #FFFFFF;*/
+/*}*/
 
 .contact-info-block h5 {
   margin: 5px 0;

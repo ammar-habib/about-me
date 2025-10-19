@@ -2245,3 +2245,30 @@ ul.social-links li:last-child a {
     transform: translatex(100%) skewy(45deg);
     top: 10px;
 }
+
+.webFloatBtn {
+    position: absolute;
+    bottom: 30px;
+    right: 40px;
+    z-index: 2;
+    border-radius: 50px;
+    animation: floatGlow 3s ease-in-out infinite;
+}
+@keyframes pulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+}
+@keyframes floatGlow {
+    0%, 100% {
+        transform: translateY(0);
+        box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    }
+    50% {
+        transform: translateY(-10px);
+        box-shadow: 0 0 20px rgba(255, 255, 255, 0.6);
+    }
+}

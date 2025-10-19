@@ -44,16 +44,24 @@
                     type: "POST",
                     url: url,
                     data: $(this).serialize(),
-                    success: function (data)
-                    {
-                        var messageAlert = 'alert-' + data.type;
-                        var messageText = data.message;
-
-                        var alertBox = '<div class="alert ' + messageAlert + ' alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>' + messageText + '</div>';
-                        if (messageAlert && messageText) {
-                            $('#contact-form').find('.messages').html(alertBox);
-                            $('#contact-form')[0].reset();
-                        }
+                    success: function (data) {
+                        // Show success message
+                        var alertBox = `
+                              <div class="alert alert-success alert-dismissable">
+                                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                                Thank you! Your message has been sent successfully.
+                              </div>`;
+                        $('#contact-form').find('.messages').html(alertBox);
+                        $('#contact-form')[0].reset();
+                    },
+                    error: function () {
+                        // Show error message
+                        var alertBox = `
+                              <div class="alert alert-danger alert-dismissable">
+                                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                                  Oops! Something went wrong. Please try again later.
+                              </div>`;
+                        $('#contact-form').find('.messages').html(alertBox);
                     }
                 });
                 return false;

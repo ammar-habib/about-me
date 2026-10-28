@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-28",
+  "branch": "portfolio-redesign",
+  "build": "passed",
+  "lint": "passed",
+  "typecheck": "passed",
+  "format": "passed",
+  "staticRoutes": 37,
+  "legacyAliases": 32,
+  "windowsRscAliases": 37,
+  "internalReferences": 1221,
+  "browser": {
+    "status": "passed",
+    "responsivePageChecks": 42,
+    "widths": [
+      320,
+      375,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "routes": [
+      "/",
+      "/about/",
+      "/projects/",
+      "/experience/",
+      "/contact/",
+      "/projects/dicta/"
+    ],
+    "interactions": [
+      "filters",
+      "mobile navigation",
+      "Escape focus return",
+      "keyboard skip link",
+      "reduced motion",
+      "legacy HTML navigation",
+      "legacy hash navigation"
+    ],
+    "browserErrors": []
+  },
+  "accessibilityRoutes": 6,
+  "accessibilityViolations": 0,
+  "lighthouse": {
+    "version": "13.6.0",
+    "formFactor": "mobile",
+    "scores": {
+      "performance": 90,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "LCP": "1.5 s",
+      "CLS": "0.006",
+      "TBT": "400 ms"
+    }
+  },
+  "deployed": false
+}

@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-10-28T13:27:49.304Z",
+  "records": [
+    {
+      "url": "https://www.crucialappconcepts.com/",
+      "status": 200,
+      "finalUrl": "https://www.crucialappconcepts.com/",
+      "title": "Loading https://cf.silobase.site/middle.html (tracking query omitted)"
+    },
+    {
+      "url": "https://solelinks.com/",
+      "status": 200,
+      "finalUrl": "https://solelinks.com/",
+      "title": "Solelinks",
+      "identity": "Sneaker releases and restocks"
+    },
+    {
+      "url": "https://shipm8.com/",
+      "status": 200,
+      "finalUrl": "https://shipm8.com/en/",
+      "title": "SHIPM8 — All-in-one software for port agents and maritime service providers"
+    }
+  ]
+}

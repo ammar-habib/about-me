@@ -1,0 +1,264 @@
+{
+  "checkedAt": "2026-10-28T13:24:18.673Z",
+  "records": [
+    {
+      "url": "https://www.alfanarrestaurant.com/uae/",
+      "slugs": [
+        "alfanar"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.alfanarrestaurant.com/",
+      "title": "Al Fanar | Authentic Emirati Restaurant in Dubai, Abu Dhabi &amp; Al Ain"
+    },
+    {
+      "url": "https://ammar-habib.github.io/email-templates/alqen-email/welcome-email.html",
+      "slugs": [
+        "alqen-email"
+      ],
+      "status": 200,
+      "finalUrl": "https://ammar-habib.github.io/email-templates/alqen-email/welcome-email.html",
+      "title": "Account Change"
+    },
+    {
+      "url": "https://ammar-habib.github.io/email-templates/betten-ritter/index.html",
+      "slugs": [
+        "betten-ritter-email"
+      ],
+      "status": 200,
+      "finalUrl": "https://ammar-habib.github.io/email-templates/betten-ritter/index.html",
+      "title": "Betten Ritter"
+    },
+    {
+      "url": "https://ammar-habib.github.io/bouwman/",
+      "slugs": [
+        "bouwman"
+      ],
+      "status": 200,
+      "finalUrl": "https://ammar-habib.github.io/bouwman/",
+      "title": "Bouwman"
+    },
+    {
+      "url": "https://ammar-habib.github.io/bugbyte-landing-page/",
+      "slugs": [
+        "bugbyte"
+      ],
+      "status": 200,
+      "finalUrl": "https://ammar-habib.github.io/bugbyte-landing-page/",
+      "title": "BugByte Studio"
+    },
+    {
+      "url": "https://www.crucialappconcepts.com/",
+      "slugs": [
+        "cac"
+      ],
+      "error": "UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "message": "fetch failed"
+    },
+    {
+      "url": "https://www.churchbase.com/",
+      "slugs": [
+        "churchbase"
+      ],
+      "error": "EAI_AGAIN",
+      "message": "fetch failed"
+    },
+    {
+      "url": "https://dicta.org.il/",
+      "slugs": [
+        "dicta"
+      ],
+      "status": 200,
+      "finalUrl": "https://dicta.org.il/",
+      "title": "DICTA"
+    },
+    {
+      "url": "https://ammar-habib.github.io/esco/",
+      "slugs": [
+        "engineeringsupplies"
+      ],
+      "status": 200,
+      "finalUrl": "https://ammar-habib.github.io/esco/",
+      "title": "Home"
+    },
+    {
+      "url": "https://exosecure.com/",
+      "slugs": [
+        "exosecure"
+      ],
+      "status": 200,
+      "finalUrl": "https://exosecure.com/",
+      "title": "Palo Alto Networks Cybersecurity For SMBs &amp; Homes | EXOsecure"
+    },
+    {
+      "url": "https://fantaztech.com/",
+      "slugs": [
+        "fantaztech"
+      ],
+      "status": 200,
+      "finalUrl": "https://fantaztech.com/",
+      "title": "Free Business Security Scan · Blindspot by FanTazTech"
+    },
+    {
+      "url": "https://dev.greenectus.com/",
+      "slugs": [
+        "greenectus"
+      ],
+      "status": 401,
+      "finalUrl": "https://dev.greenectus.com/",
+      "title": "401 Unauthorized"
+    },
+    {
+      "url": "https://ammar-habib.github.io/daycare-web-app/daycare-app-final/login-signup/login.html",
+      "slugs": [
+        "hoppingin"
+      ],
+      "status": 200,
+      "finalUrl": "https://ammar-habib.github.io/daycare-web-app/daycare-app-final/login-signup/login.html",
+      "title": "Daycare-app"
+    },
+    {
+      "url": "https://ammar-habib.github.io/email-templates/mobility-business/day1.html",
+      "slugs": [
+        "mobilitybusiness-email"
+      ],
+      "status": 200,
+      "finalUrl": "https://ammar-habib.github.io/email-templates/mobility-business/day1.html",
+      "title": "Welcome"
+    },
+    {
+      "url": "https://www.noisymay.com/",
+      "slugs": [
+        "noisymay-email"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.noisymay.com/",
+      "title": "NOISY MAY® UK | Women&#x27;s clothing &amp; fashion | Official online store"
+    },
+    {
+      "url": "https://shipm8.com/",
+      "slugs": [
+        "portfolio-1",
+        "shipm8"
+      ],
+      "status": 200,
+      "finalUrl": "https://shipm8.com/",
+      "title": "SHIPM8 — Alles-in-één software voor havenagenten en maritieme dienstverleners"
+    },
+    {
+      "url": "https://www.relevic.com/",
+      "slugs": [
+        "relevic"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.relevic.com/",
+      "title": "Relevic - Smarter websites. Better results."
+    },
+    {
+      "url": "https://roserevenue.com/",
+      "slugs": [
+        "roserevenue"
+      ],
+      "status": 200,
+      "finalUrl": "https://roserevenue.com/",
+      "title": "Powered by Rose Revenue"
+    },
+    {
+      "url": "https://sharpbrains.co.uk/",
+      "slugs": [
+        "sharp-brains"
+      ],
+      "status": 200,
+      "finalUrl": "https://sharpbrains.co.uk/",
+      "title": "Sharp Brains - Global IT Services &amp; Solutions Provider"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.app.shoutoutapp",
+      "slugs": [
+        "shout-out"
+      ],
+      "status": 404,
+      "finalUrl": "https://play.google.com/store/apps/details?id=com.app.shoutoutapp",
+      "title": "Not Found"
+    },
+    {
+      "url": "https://solelinks.com/",
+      "slugs": [
+        "solelinks"
+      ],
+      "status": 200,
+      "finalUrl": "https://solelinks.com/",
+      "title": "Solelinks"
+    },
+    {
+      "url": "https://techmatetech.com/",
+      "slugs": [
+        "techmatetech"
+      ],
+      "status": 200,
+      "finalUrl": "https://techmatetech.com/",
+      "title": "TechmateTech | AI-Driven Software Development &amp; Digital Solutions​"
+    },
+    {
+      "url": "https://www.termmate.com/",
+      "slugs": [
+        "termmate"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.hugedomains.com/domain_profile.cfm?d=termmate.com",
+      "title": "TermMate.com is for sale | HugeDomains"
+    },
+    {
+      "url": "https://greenectus.com/",
+      "slugs": [
+        "greenectus"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.greenectus.com/",
+      "title": "Greenectus® | Finally - Everything renewable energy all in one place!"
+    },
+    {
+      "url": "https://www.greenectus.com/",
+      "slugs": [
+        "greenectus"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.greenectus.com/",
+      "title": "Greenectus® | Finally - Everything renewable energy all in one place!"
+    },
+    {
+      "url": "https://churchbase.com/",
+      "slugs": [
+        "churchbase"
+      ],
+      "error": "EAI_AGAIN",
+      "message": "fetch failed"
+    },
+    {
+      "url": "https://www.sharpbrains.co.uk/",
+      "slugs": [
+        "sharp-brains"
+      ],
+      "status": 200,
+      "finalUrl": "https://sharpbrains.co.uk/",
+      "title": "Sharp Brains - Global IT Services &amp; Solutions Provider"
+    },
+    {
+      "url": "https://eshipsol.com/",
+      "slugs": [
+        "eshipsol"
+      ],
+      "status": 200,
+      "finalUrl": "https://eshipsol.com/",
+      "title": "Tektok77 | Cari Tahu Peran Karakter Mobile Legend"
+    },
+    {
+      "url": "https://www.solelinks.com/",
+      "slugs": [
+        "solelinks"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.solelinks.com/",
+      "title": "Solelinks"
+    }
+  ]
+}

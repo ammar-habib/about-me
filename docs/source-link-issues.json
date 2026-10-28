@@ -1,0 +1,58 @@
+[
+  {
+    "file": "b2b.html",
+    "target": "leonpublicis.php"
+  },
+  {
+    "file": "b2b.html",
+    "target": "b2b.php"
+  },
+  {
+    "file": "b2b.html",
+    "target": "images/portfolio/b2b.jpg"
+  },
+  {
+    "file": "cac.html",
+    "target": "solelinks.php"
+  },
+  {
+    "file": "cac.html",
+    "target": "termmate.php"
+  },
+  {
+    "file": "cac.html",
+    "target": "images/portfolio/cac/caa1.png"
+  },
+  {
+    "file": "cac.html",
+    "target": "images/portfolio/cac/cac2.png"
+  },
+  {
+    "file": "cac.html",
+    "target": "images/portfolio/cac/cac3.png"
+  },
+  {
+    "file": "leonpublicis.html",
+    "target": "techmatetech.php"
+  },
+  {
+    "file": "leonpublicis.html",
+    "target": "b2b.php"
+  },
+  {
+    "file": "leonpublicis.html",
+    "target": "images/portfolio/leonpublicis.jpg"
+  },
+  {
+    "file": "portfolio-1.html",
+    "target": "portfolio-5.html"
+  },
+  {
+    "file": "portfolio-1.html",
+    "target": "portfolio-2.html"
+  },
+  {
+    "file": "portfolio-1.html",
+    "target": "images/portfolio/shipm8.png"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "file": "css/animate.css",
+    "bytes": 75599,
+    "header": "@charset \"UTF-8\";\r\n\r\n/*!\r\n * animate.css -http://daneden.me/animate\r\n * Version - 3.5.1\r\n * Licensed under the MIT license - http://opensource.org/licenses/MIT\r\n *\r\n * Copyright (c) 2016 Daniel Eden\r\n */\r\n\r\n.animated {\r\n  -webkit-",
+    "remoteReferences": [
+      "http://daneden.me/animate",
+      "http://opensource.org/licenses/MIT",
+      "https://github.com/nickpettit/glide",
+      "https://github.com/nickpettit/glide",
+      "https://github.com/nickpettit/glide",
+      "https://github.com/nickpettit/glide"
+    ]
+  },
+  {
+    "file": "css/bootstrap.min.css",
+    "bytes": 121205,
+    "header": "/*!\r\n * Bootstrap v3.3.7 (http://getbootstrap.com)\r\n * Copyright 2011-2016 Twitter, Inc.\r\n * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)\r\n *//*! normalize.css v3.0.3 | MIT License | github.com/necola",
+    "remoteReferences": [
+      "http://getbootstrap.com",
+      "https://github.com/twbs/bootstrap/blob/master/LICENSE",
+      "https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css"
+    ]
+  },
+  {
+    "file": "css/font-awesome.min.css",
+    "bytes": 31004,
+    "header": "/*!\r\n *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome\r\n *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)\r\n */@font-face{font-family:'FontAwesome';src:url('../fonts/fontawe",
+    "remoteReferences": [
+      "http://fontawesome.io",
+      "http://fontawesome.io/license"
+    ]
+  },
+  {
+    "file": "css/jquery.mCustomScrollbar.min.css",
+    "bytes": 42840,
+    "header": ".mCustomScrollbar{-ms-touch-action:pinch-zoom;touch-action:pinch-zoom}.mCustomScrollbar.mCS_no_scrollbar,.mCustomScrollbar.mCS_touch_action{-ms-touch-action:auto;touch-action:auto}.mCustomScrollBox{position:relative;overflow:hidde",
+    "remoteReferences": []
+  },
+  {
+    "file": "css/magnific-popup.css",
+    "bytes": 8179,
+    "header": "/* Magnific Popup CSS */\r\n.mfp-bg {\r\n  top: 0;\r\n  left: 0;\r\n  width: 100%;\r\n  height: 100%;\r\n  z-index: 1042;\r\n  overflow: hidden;\r\n  position: fixed;\r\n  background: #0b0b0b;\r\n  opacity: 0.8; }\r\n\r\n.mfp-wrap {\r\n  top: 0;\r\n  left: 0",
+    "remoteReferences": []
+  },
+  {
+    "file": "css/main-red.css",
+    "bytes": 44478,
+    "header": "/*\r\n* Template Name: Unique - Responsive vCard Template\r\n* Author: lmpixels\r\n* Author URL: http://themeforest.net/user/lmpixels\r\n* Version: 1.0\r\n*/\r\n\r\n/* ============================================================================",
+    "remoteReferences": [
+      "http://themeforest.net/user/lmpixels",
+      "http://themes-pixeden.com/font-demos/7-stroke/index.html",
+      "http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Oxygen:300,400,700"
+    ]
+  },
+  {
+    "file": "css/normalize.css",
+    "bytes": 9562,
+    "header": "/*! normalize.css 2012-03-11T12:53 UTC - http://github.com/necolas/normalize.css */\r\n\r\n/* =============================================================================\r\n   HTML5 display definitions\r\n   ============================",
+    "remoteReferences": [
+      "http://github.com/necolas/normalize.css",
+      "http://clagnut.com/blog/348/#c790"
+    ]
+  },
+  {
+    "file": "css/owl.carousel.min.css",
+    "bytes": 2941,
+    "header": "/**\r\n * Owl Carousel v2.2.1\r\n * Copyright 2013-2017 David Deutsch\r\n * Licensed under  ()\r\n */\r\n.owl-carousel,.owl-carousel .owl-item{-webkit-tap-highlight-color:transparent;position:relative}.owl-carousel{display:none;width:100%;z",
+    "remoteReferences": []
+  },
+  {
+    "file": "css/pe-icon-7-stroke.css",
+    "bytes": 10394,
+    "header": "@font-face {\r\n\tfont-family: 'Pe-icon-7-stroke';\r\n\tsrc:url('../fonts/Pe-icon-7-strokebb1d.eot?d7yf1v');\r\n\tsrc:url('../fonts/Pe-icon-7-stroked41d.eot?#iefixd7yf1v') format('embedded-opentype'),\r\n\t\turl('../fonts/Pe-icon-7-strokebb1d.",
+    "remoteReferences": []
+  },
+  {
+    "file": "css/transition-animations.css",
+    "bytes": 43431,
+    "header": "/* animation sets */\r\n\r\n/* move from / to  */\r\n\r\n.pt-page-moveToLeft {\r\n\t-webkit-animation: moveToLeft .6s ease both;\r\n\tanimation: moveToLeft .6s ease both;\r\n}\r\n\r\n.pt-page-moveFromLeft {\r\n\t-webkit-animation: moveFromLeft .6s ease ",
+    "remoteReferences": []
+  },
+  {
+    "file": "js/bootstrap.min.js",
+    "bytes": 37051,
+    "header": "/*!\r\n * Bootstrap v3.3.7 (http://getbootstrap.com)\r\n * Copyright 2011-2016 Twitter, Inc.\r\n * Licensed under the MIT license\r\n */\r\nif(\"undefined\"==typeof jQuery)throw new Error(\"Bootstrap's JavaScript requires jQuery\");+function(a)",
+    "remoteReferences": [
+      "http://getbootstrap.com"
+    ]
+  },
+  {
+    "file": "js/imagesloaded.pkgd.min.js",
+    "bytes": 5447,
+    "header": "/*!\r\n * imagesLoaded PACKAGED v4.1.1\r\n * JavaScript is all like \"You images are done yet or what?\"\r\n * MIT License\r\n */\r\n\r\n!function(t,e){\"function\"==typeof define&&define.amd?define(\"ev-emitter/ev-emitter\",e):\"object\"==typeof mod",
+    "remoteReferences": []
+  },
+  {
+    "file": "js/jquery-2.1.3.min.js",
+    "bytes": 84328,
+    "header": "/*! jQuery v2.1.3 | (c) 2005, 2014 jQuery Foundation, Inc. | jquery.org/license */\r\n!function(a,b){\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Err",
+    "remoteReferences": []
+  },
+  {
+    "file": "js/jquery.hoverdir.js",
+    "bytes": 5527,
+    "header": "/**\r\n * jquery.hoverdir.js v1.1.0\r\n * http://www.codrops.com\r\n *\r\n * Licensed under the MIT license.\r\n * http://www.opensource.org/licenses/mit-license.php\r\n * \r\n * Copyright 2012, Codrops\r\n * http://www.codrops.com\r\n */\r\n;( funct",
+    "remoteReferences": [
+      "http://www.codrops.com",
+      "http://www.opensource.org/licenses/mit-license.php",
+      "http://www.codrops.com",
+      "http://stackoverflow.com/a/3647634"
+    ]
+  },
+  {
+    "file": "js/jquery.magnific-popup.min.js",
+    "bytes": 20219,
+    "header": "/*! Magnific Popup - v1.1.0 - 2016-02-20\r\n* http://dimsemenov.com/plugins/magnific-popup/\r\n* Copyright (c) 2016 Dmitry Semenov; */\r\n!function(a){\"function\"==typeof define&&define.amd?define([\"jquery\"],a):a(\"object\"==typeof exports",
+    "remoteReferences": [
+      "http://dimsemenov.com/plugins/magnific-popup/"
+    ]
+  },
+  {
+    "file": "js/jquery.mCustomScrollbar.concat.min.js",
+    "bytes": 45483,
+    "header": "/* == jquery mousewheel plugin == Version: 3.1.13, License: MIT License (MIT) */\r\n!function(a){\"function\"==typeof define&&define.amd?define([\"jquery\"],a):\"object\"==typeof exports?module.exports=a:a(jQuery)}(function(a){function b(",
+    "remoteReferences": []
+  },
+  {
+    "file": "js/jquery.shuffle.min.js",
+    "bytes": 14469,
+    "header": "/*!\r\n * Shuffle.js by @Vestride\r\n * Categorize, sort, and filter a responsive grid of items.\r\n * Dependencies: jQuery 1.9+, Modernizr 2.6.2+\r\n * @license MIT license\r\n * @version 3.1.1\r\n */\r\n!function(a){\"function\"==typeof define&",
+    "remoteReferences": [
+      "http://vestride.github.io/Shuffle/#dependencies"
+    ]
+  },
+  {
+    "file": "js/main.js",
+    "bytes": 8925,
+    "header": "\r\n(function($) {\r\n\"use strict\";\r\n\r\n    // Portfolio subpage filters\r\n    function portfolio_init() {\r\n        var portfolio_grid = $('#portfolio_grid'),\r\n            portfolio_filter = $('#portfolio_filters');\r\n\r\n        if (portf",
+    "remoteReferences": [
+      "https://formsubmit.co/ammar.habib.mughal@gmail.com"
+    ]
+  },
+  {
+    "file": "js/masonry.pkgd.min.js",
+    "bytes": 23609,
+    "header": "/*!\r\n * Masonry PACKAGED v4.1.1\r\n * Cascading grid layout library\r\n * http://masonry.desandro.com\r\n * MIT License\r\n * by David DeSandro\r\n */\r\n\r\n!function(t,e){\"function\"==typeof define&&define.amd?define(\"jquery-bridget/jquery-bri",
+    "remoteReferences": [
+      "http://masonry.desandro.com",
+      "http://bit.ly/getsizebug1"
+    ]
+  },
+  {
+    "file": "js/modernizr.custom.js",
+    "bytes": 9602,
+    "header": "/* Modernizr 2.8.3 (Custom Build) | MIT & BSD\r\n * Build: http://modernizr.com/download/#-cssanimations-csstransforms-csstransforms3d-csstransitions-touch-shiv-cssclasses-prefixed-teststyles-testprop-testallprops-prefixes-domprefix",
+    "remoteReferences": [
+      "http://modernizr.com/download/#-cssanimations-csstransforms-csstransforms3d-csstransitions-touch-shiv-cssclasses-prefixed-teststyles-testprop-testallprops-prefixes-domprefixes-load"
+    ]
+  },
+  {
+    "file": "js/owl.carousel.min.js",
+    "bytes": 42772,
+    "header": "/**\r\n * Owl Carousel v2.2.1\r\n * Copyright 2013-2017 David Deutsch\r\n * Licensed under  ()\r\n */\r\n!function(a,b,c,d){function e(b,c){this.settings=null,this.options=a.extend({},e.Defaults,c),this.$element=a(b),this._handlers={},this.",
+    "remoteReferences": []
+  },
+  {
+    "file": "js/pages-switcher.js",
+    "bytes": 19438,
+    "header": "/*\r\n* Template Name: Unique - Responsive vCard Template\r\n* Author: lmpixels\r\n* Author URL: http://themeforest.net/user/lmpixels\r\n* Version: 1.0\r\n*/\r\n\r\nvar PageTransitions = (function ($, options) {\r\n\"use strict\";\r\n    var defaultS",
+    "remoteReferences": [
+      "http://themeforest.net/user/lmpixels"
+    ]
+  },
+  {
+    "file": "js/tilt.jquery.min.js",
+    "bytes": 4487,
+    "header": "\"use strict\";!function(t){t.fn.tilt=function(s){var i=function(){this.ticking||(requestAnimationFrame(g.bind(this)),this.ticking=!0)},e=function(){t(this).on(\"mousemove\",r),t(this).on(\"mouseenter\",n),this.settings.reset&&t(this).o",
+    "remoteReferences": []
+  },
+  {
+    "file": "js/validator.js",
+    "bytes": 11969,
+    "header": "/*!\r\n * Validator v0.11.5 for Bootstrap 3, by @1000hz\r\n * Copyright 2016 Cina Saffary\r\n * Licensed under http://opensource.org/licenses/MIT\r\n *\r\n * https://github.com/1000hz/bootstrap-validator\r\n */\r\n\r\n+function ($) {\r\n  'use stri",
+    "remoteReferences": [
+      "http://opensource.org/licenses/MIT",
+      "https://github.com/1000hz/bootstrap-validator"
+    ]
+  },
+  {
+    "file": "preview/lmpixels-demo-panel.css",
+    "bytes": 5938,
+    "header": "/*\r\n* lmpixels templates demo panel\r\n* Author: lmpixels\r\n* Author URL: http://themeforest.net/user/lmpixels\r\n* Version: 1.0\r\n*/\r\n\r\na.lm-demo-panel-switcher {\r\n\tposition: fixed;\r\n\tbackground-color: #fff;\r\n\tfont-size: 18px;\r\n\tline-h",
+    "remoteReferences": [
+      "http://themeforest.net/user/lmpixels"
+    ]
+  },
+  {
+    "file": "preview/lmpixels-demo-panel.js",
+    "bytes": 2893,
+    "header": "/*\r\n* lmpixels templates demo panel\r\n* Author: lmpixels\r\n* Author URL: http://themeforest.net/user/lmpixels\r\n* Version: 1.0\r\n*/\r\n\r\nvar demoPanel = (function($) {\r\n\"use strict\";\r\n\r\n    var demoPanel = $(\"#lm_demo_panel\"),\r\n        ",
+    "remoteReferences": [
+      "http://themeforest.net/user/lmpixels"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+qa-results/
+
+# Local tools, backups and credentials
+.idea/
+*.iml
+.local-archive/
+.release/
+.env*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db

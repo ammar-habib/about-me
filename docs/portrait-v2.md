@@ -1,0 +1,10 @@
+# Professional portrait v2
+
+Created with the built-in image generation tool as an identity-preserving edit. The original color portrait in images/profile-transBig.png supplied the identity. The user's second attached image supplied only the professional wardrobe, soft daylight and blurred outdoor backdrop reference. Original assets were retained.
+
+Master: public/images/ammar-professional-portrait-v2.png
+Website asset: public/images/ammar-professional-portrait-v2.webp (1000 × 1250; WebP conversion only)
+Consumer: About page; full-color 4:5 presentation on desktop and mobile.
+
+## Final generation prompt
+Use case: identity-preserve. Edit target and sole identity reference: image 1, the original color cutout portrait of Ammar Habib. Image 2 is wardrobe, lighting and background reference ONLY, never a face or identity reference. Produce one photorealistic professional portfolio portrait, vertical 4:5 composition, waist-up. Keep the original man's face, facial proportions, eyes, eyebrows, nose, lips, natural friendly smile, hairline, hairstyle, full beard and moustache, skin tone, apparent age and head orientation unchanged. Preserve his own recognisable identity precisely; do not beautify, slim, de-age, retouch facial geometry or copy any facial features or hairstyle from the second man. Keep the relaxed crossed-arm pose and realistic original build. Change only his black branded polo into a well-tailored charcoal/navy blazer over an open-collar pale blue business shirt, inspired by reference image 2. Remove all clothing logos. Replace the transparent background with softly defocused greenery and neutral architectural tones inspired by image 2, with soft natural daylight, tasteful shallow depth of field and realistic skin texture. Face must retain the source expression and beard; keep it faithful rather than generating an idealized substitute. Center subject with comfortable headroom, natural hands and believable jacket sleeves. Finished high-quality editorial business photograph, understated and approachable, color, sharp subject and softly blurred backdrop. No lettering, labels, UI, borders, watermarks, collage or added objects.

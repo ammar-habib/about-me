@@ -1,0 +1,992 @@
+[
+  {
+    "file": "images/03-new.png",
+    "bytes": 365546,
+    "duplicate": ""
+  },
+  {
+    "file": "images/clients/client_1.png",
+    "bytes": 7335,
+    "duplicate": ""
+  },
+  {
+    "file": "images/clients/client_2.png",
+    "bytes": 21174,
+    "duplicate": ""
+  },
+  {
+    "file": "images/clients/client_3.png",
+    "bytes": 9830,
+    "duplicate": ""
+  },
+  {
+    "file": "images/clients/client_4.png",
+    "bytes": 10438,
+    "duplicate": ""
+  },
+  {
+    "file": "images/clients/client_5.png",
+    "bytes": 9667,
+    "duplicate": ""
+  },
+  {
+    "file": "images/clients/client_6.png",
+    "bytes": 10327,
+    "duplicate": ""
+  },
+  {
+    "file": "images/main_bg_light.jpg",
+    "bytes": 232628,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/alFanarAll.webp",
+    "bytes": 43478,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/app/hoppingin.webp",
+    "bytes": 68700,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/app/husl2.png",
+    "bytes": 665400,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/app/mashNetwork.webp",
+    "bytes": 50946,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/app/property-360App.webp",
+    "bytes": 60218,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/app/shortout.webp",
+    "bytes": 63536,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/app/StarBerry2.png",
+    "bytes": 1045785,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/app/stressless2.png",
+    "bytes": 544106,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/app/wheel.jpg",
+    "bytes": 208150,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/aqel-all-1.webp",
+    "bytes": 50244,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/betten-ritter.webp",
+    "bytes": 126742,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/bouwmanAll.webp",
+    "bytes": 67882,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/bugbyteAll.png",
+    "bytes": 183479,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/bugbyteAll.webp",
+    "bytes": 63598,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/cac (2).jpg",
+    "bytes": 1391948,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/ChurchBase_All-min.webp",
+    "bytes": 57548,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/coc-2.png",
+    "bytes": 2779126,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/Dicta_All-min.webp",
+    "bytes": 39762,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/emails/aqel-all.png",
+    "bytes": 176219,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/emails/betten-ritter.png",
+    "bytes": 226127,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/emails/mobility-business.png",
+    "bytes": 168027,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/emails/noisy-may.png",
+    "bytes": 352263,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/engineeringsuppliesAl.webp",
+    "bytes": 48730,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/exoAll.webp",
+    "bytes": 41982,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/Fantaztech_All-min.webp",
+    "bytes": 45504,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/full/11.jpg",
+    "bytes": 124499,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/greenAll.webp",
+    "bytes": 47538,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/h2uAll.webp",
+    "bytes": 46054,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/mobility-business-1.webp",
+    "bytes": 71506,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/noisy-may.webp",
+    "bytes": 64500,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/12.jpg",
+    "bytes": 41040,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/3.jpg",
+    "bytes": 85875,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/ayestudy2.jpg",
+    "bytes": 120151,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/b2b.jpg",
+    "bytes": 635483,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/barber.jpg",
+    "bytes": 1460281,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/bugdevstudio.jpg",
+    "bytes": 869665,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/cac (2).jpg",
+    "bytes": 1391948,
+    "duplicate": "images/portfolio/cac (2).jpg"
+  },
+  {
+    "file": "images/portfolio/old/cac.jpg",
+    "bytes": 709621,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/coc-2.png",
+    "bytes": 2779126,
+    "duplicate": "images/portfolio/coc-2.png"
+  },
+  {
+    "file": "images/portfolio/old/coc.jpg",
+    "bytes": 1729285,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/engineeringsupplies.jpg",
+    "bytes": 569524,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/eshipsol.com.jpg",
+    "bytes": 1733401,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/green.jpg",
+    "bytes": 341964,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/h2u.jpg",
+    "bytes": 1042787,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/iPhone-8.webp",
+    "bytes": 158328,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/leonprint.jpg",
+    "bytes": 684935,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/leonpublicis.jpg",
+    "bytes": 5143291,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/mysafe.jpg",
+    "bytes": 123910,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/p1.svg",
+    "bytes": 3664764,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/ParkingApp2.jpg",
+    "bytes": 184300,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/punjab.jpg",
+    "bytes": 533683,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/Sharp-Brains-min.jpg",
+    "bytes": 594756,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/shipm8.jpg",
+    "bytes": 181372,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/shs.jpg",
+    "bytes": 1063268,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/old/wheel2.jpg",
+    "bytes": 31821,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/pngpAll.webp",
+    "bytes": 42738,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/propetymockup.png",
+    "bytes": 158824,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/propetymockup.webp",
+    "bytes": 44512,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/relevicAll.png",
+    "bytes": 95007,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/relevicAll.webp",
+    "bytes": 45356,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/roserevenueAll.webp",
+    "bytes": 43190,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/sharpbrainsAll.webp",
+    "bytes": 58334,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/shipm8All.webp",
+    "bytes": 65902,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/Solelink_All-min.webp",
+    "bytes": 43516,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/techmateAll-1.webp",
+    "bytes": 133894,
+    "duplicate": ""
+  },
+  {
+    "file": "images/portfolio/techmateAll.webp",
+    "bytes": 133894,
+    "duplicate": "images/portfolio/techmateAll-1.webp"
+  },
+  {
+    "file": "images/portfolio/termmateAll.webp",
+    "bytes": 37884,
+    "duplicate": ""
+  },
+  {
+    "file": "images/profile-edit.png",
+    "bytes": 339629,
+    "duplicate": ""
+  },
+  {
+    "file": "images/profile-half.png",
+    "bytes": 269839,
+    "duplicate": ""
+  },
+  {
+    "file": "images/profile-transBig.png",
+    "bytes": 177830,
+    "duplicate": ""
+  },
+  {
+    "file": "images/profile-transBig.webp",
+    "bytes": 11278,
+    "duplicate": ""
+  },
+  {
+    "file": "images/profile.png",
+    "bytes": 365546,
+    "duplicate": "images/03-new.png"
+  },
+  {
+    "file": "images/service/advetising_icon.png",
+    "bytes": 7273,
+    "duplicate": ""
+  },
+  {
+    "file": "images/service/creativity_icon.png",
+    "bytes": 6384,
+    "duplicate": ""
+  },
+  {
+    "file": "images/service/desktop-mobile.svg",
+    "bytes": 1358,
+    "duplicate": ""
+  },
+  {
+    "file": "images/service/envelope-line.svg",
+    "bytes": 1030,
+    "duplicate": ""
+  },
+  {
+    "file": "images/service/mobile-app-design.svg",
+    "bytes": 1347,
+    "duplicate": ""
+  },
+  {
+    "file": "images/service/photography_icon.png",
+    "bytes": 6308,
+    "duplicate": ""
+  },
+  {
+    "file": "images/service/programmer-computer.svg",
+    "bytes": 1765,
+    "duplicate": ""
+  },
+  {
+    "file": "images/service/programmer.svg",
+    "bytes": 2436,
+    "duplicate": ""
+  },
+  {
+    "file": "images/service/website-ui-ux.svg",
+    "bytes": 2561,
+    "duplicate": ""
+  },
+  {
+    "file": "images/service/web_design_icon.png",
+    "bytes": 2624,
+    "duplicate": ""
+  },
+  {
+    "file": "images/testimonials/appsuiteco.webp",
+    "bytes": 3980,
+    "duplicate": ""
+  },
+  {
+    "file": "images/testimonials/carlosagudelov.webp",
+    "bytes": 700,
+    "duplicate": ""
+  },
+  {
+    "file": "images/testimonials/clarie.jpg",
+    "bytes": 27744,
+    "duplicate": ""
+  },
+  {
+    "file": "images/testimonials/dgonor.jpeg",
+    "bytes": 32258,
+    "duplicate": ""
+  },
+  {
+    "file": "images/testimonials/kriss.jpeg",
+    "bytes": 23599,
+    "duplicate": ""
+  },
+  {
+    "file": "images/testimonials/lisa-onkes.webp",
+    "bytes": 21356,
+    "duplicate": ""
+  },
+  {
+    "file": "images/testimonials/mikeloiselle.webp",
+    "bytes": 1578,
+    "duplicate": ""
+  },
+  {
+    "file": "images/testimonials/stephengatheru.jpg",
+    "bytes": 14880,
+    "duplicate": ""
+  },
+  {
+    "file": "images/testimonials/testimonial_photo_1.jpg",
+    "bytes": 11753,
+    "duplicate": ""
+  },
+  {
+    "file": "images/testimonials/testimonial_photo_2.jpg",
+    "bytes": 16743,
+    "duplicate": ""
+  },
+  {
+    "file": "images/testimonials/testimonial_photo_3.jpg",
+    "bytes": 10614,
+    "duplicate": ""
+  },
+  {
+    "file": "images/testimonials/zoranjuric.webp",
+    "bytes": 934,
+    "duplicate": ""
+  },
+  {
+    "file": "images/whatsappIcon.png",
+    "bytes": 47505,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/fontawesome-webfont.eot",
+    "bytes": 165742,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/fontawesome-webfont.svg",
+    "bytes": 447050,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/fontawesome-webfont.ttf",
+    "bytes": 165548,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/fontawesome-webfont.woff",
+    "bytes": 98024,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/fontawesome-webfont.woff2",
+    "bytes": 77160,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/fontawesome-webfont3e6e.eot",
+    "bytes": 165742,
+    "duplicate": "fonts/fontawesome-webfont.eot"
+  },
+  {
+    "file": "fonts/fontawesome-webfont3e6e.html",
+    "bytes": 77160,
+    "duplicate": "fonts/fontawesome-webfont.woff2"
+  },
+  {
+    "file": "fonts/fontawesome-webfont3e6e.svg",
+    "bytes": 447050,
+    "duplicate": "fonts/fontawesome-webfont.svg"
+  },
+  {
+    "file": "fonts/fontawesome-webfont3e6e.ttf",
+    "bytes": 165548,
+    "duplicate": "fonts/fontawesome-webfont.ttf"
+  },
+  {
+    "file": "fonts/fontawesome-webfont3e6e.woff",
+    "bytes": 98024,
+    "duplicate": "fonts/fontawesome-webfont.woff"
+  },
+  {
+    "file": "fonts/fontawesome-webfontd41d.eot",
+    "bytes": 165742,
+    "duplicate": "fonts/fontawesome-webfont3e6e.eot"
+  },
+  {
+    "file": "fonts/FontAwesome.otf",
+    "bytes": 134808,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/glyphicons-halflings-regular-2.html",
+    "bytes": 270,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/glyphicons-halflings-regular-3.html",
+    "bytes": 269,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/glyphicons-halflings-regular-4.html",
+    "bytes": 268,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/glyphicons-halflings-regular-5.html",
+    "bytes": 268,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/glyphicons-halflings-regular.html",
+    "bytes": 268,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/glyphicons-halflings-regulard41d.html",
+    "bytes": 268,
+    "duplicate": "fonts/glyphicons-halflings-regular.html"
+  },
+  {
+    "file": "fonts/Oxygen/OFL.txt",
+    "bytes": 4491,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/Oxygen/Oxygen-Bold.ttf",
+    "bytes": 48708,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/Oxygen/Oxygen-Light.ttf",
+    "bytes": 43788,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/Oxygen/Oxygen-Regular.ttf",
+    "bytes": 47988,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/Oxygen-Regular.ttf",
+    "bytes": 47988,
+    "duplicate": "fonts/Oxygen/Oxygen-Regular.ttf"
+  },
+  {
+    "file": "fonts/Pe-icon-7-strokebb1d.eot",
+    "bytes": 58680,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/Pe-icon-7-strokebb1d.svg",
+    "bytes": 164231,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/Pe-icon-7-strokebb1d.ttf",
+    "bytes": 58480,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/Pe-icon-7-strokebb1d.woff",
+    "bytes": 58556,
+    "duplicate": ""
+  },
+  {
+    "file": "fonts/Pe-icon-7-stroked41d.eot",
+    "bytes": 58680,
+    "duplicate": "fonts/Pe-icon-7-strokebb1d.eot"
+  },
+  {
+    "file": "fonts/PT_Sans-Web-Regular.ttf",
+    "bytes": 442960,
+    "duplicate": ""
+  },
+  {
+    "file": "css/animate.css",
+    "bytes": 75599,
+    "duplicate": ""
+  },
+  {
+    "file": "css/bootstrap.min.css",
+    "bytes": 121205,
+    "duplicate": ""
+  },
+  {
+    "file": "css/font-awesome.min.css",
+    "bytes": 31004,
+    "duplicate": ""
+  },
+  {
+    "file": "css/jquery.mCustomScrollbar.min.css",
+    "bytes": 42840,
+    "duplicate": ""
+  },
+  {
+    "file": "css/magnific-popup.css",
+    "bytes": 8179,
+    "duplicate": ""
+  },
+  {
+    "file": "css/main-red.css",
+    "bytes": 44478,
+    "duplicate": ""
+  },
+  {
+    "file": "css/mCSB_buttons.html",
+    "bytes": 250,
+    "duplicate": ""
+  },
+  {
+    "file": "css/normalize.css",
+    "bytes": 9562,
+    "duplicate": ""
+  },
+  {
+    "file": "css/owl.carousel.min.css",
+    "bytes": 2941,
+    "duplicate": ""
+  },
+  {
+    "file": "css/owl.video.play.html",
+    "bytes": 252,
+    "duplicate": ""
+  },
+  {
+    "file": "css/pe-icon-7-stroke.css",
+    "bytes": 10394,
+    "duplicate": ""
+  },
+  {
+    "file": "css/transition-animations.css",
+    "bytes": 43431,
+    "duplicate": ""
+  },
+  {
+    "file": "js/bootstrap.min.js",
+    "bytes": 37051,
+    "duplicate": ""
+  },
+  {
+    "file": "js/imagesloaded.pkgd.min.js",
+    "bytes": 5447,
+    "duplicate": ""
+  },
+  {
+    "file": "js/jquery-2.1.3.min.js",
+    "bytes": 84328,
+    "duplicate": ""
+  },
+  {
+    "file": "js/jquery.hoverdir.js",
+    "bytes": 5527,
+    "duplicate": ""
+  },
+  {
+    "file": "js/jquery.magnific-popup.min.js",
+    "bytes": 20219,
+    "duplicate": ""
+  },
+  {
+    "file": "js/jquery.mCustomScrollbar.concat.min.js",
+    "bytes": 45483,
+    "duplicate": ""
+  },
+  {
+    "file": "js/jquery.shuffle.min.js",
+    "bytes": 14469,
+    "duplicate": ""
+  },
+  {
+    "file": "js/main.js",
+    "bytes": 8925,
+    "duplicate": ""
+  },
+  {
+    "file": "js/masonry.pkgd.min.js",
+    "bytes": 23609,
+    "duplicate": ""
+  },
+  {
+    "file": "js/modernizr.custom.js",
+    "bytes": 9602,
+    "duplicate": ""
+  },
+  {
+    "file": "js/owl.carousel.min.js",
+    "bytes": 42772,
+    "duplicate": ""
+  },
+  {
+    "file": "js/pages-switcher.js",
+    "bytes": 19438,
+    "duplicate": ""
+  },
+  {
+    "file": "js/tilt.jquery.min.js",
+    "bytes": 4487,
+    "duplicate": ""
+  },
+  {
+    "file": "js/validator.js",
+    "bytes": 11969,
+    "duplicate": ""
+  },
+  {
+    "file": "demo/assets/fonts/EuclidFlexBold.ttf",
+    "bytes": 340980,
+    "duplicate": ""
+  },
+  {
+    "file": "demo/assets/fonts/EuclidFlexMedium.ttf",
+    "bytes": 337204,
+    "duplicate": ""
+  },
+  {
+    "file": "demo/assets/fonts/EuclidFlexRegular.ttf",
+    "bytes": 336848,
+    "duplicate": ""
+  },
+  {
+    "file": "demo/assets/fonts/EuclidFlexSemiBold.ttf",
+    "bytes": 339788,
+    "duplicate": ""
+  },
+  {
+    "file": "demo/assets/img/777-logo.png",
+    "bytes": 6327,
+    "duplicate": ""
+  },
+  {
+    "file": "demo/assets/img/bootybay.png",
+    "bytes": 35961,
+    "duplicate": ""
+  },
+  {
+    "file": "demo/assets/img/buffalo.png",
+    "bytes": 32503,
+    "duplicate": ""
+  },
+  {
+    "file": "demo/assets/img/fbIcon.png",
+    "bytes": 670,
+    "duplicate": ""
+  },
+  {
+    "file": "demo/assets/img/get.png",
+    "bytes": 78274,
+    "duplicate": ""
+  },
+  {
+    "file": "demo/assets/img/instaIcon.png",
+    "bytes": 14429,
+    "duplicate": ""
+  },
+  {
+    "file": "demo/assets/img/legal.png",
+    "bytes": 18577,
+    "duplicate": ""
+  },
+  {
+    "file": "demo/assets/img/lobster.png",
+    "bytes": 35635,
+    "duplicate": ""
+  },
+  {
+    "file": "demo/assets/img/newsletter_V2.jpg",
+    "bytes": 209162,
+    "duplicate": ""
+  },
+  {
+    "file": "demo/assets/img/viking.png",
+    "bytes": 35508,
+    "duplicate": ""
+  },
+  {
+    "file": "x/.htaccess",
+    "bytes": 1533,
+    "duplicate": ""
+  },
+  {
+    "file": "preview/lmpixels-demo-panel.css",
+    "bytes": 5938,
+    "duplicate": ""
+  },
+  {
+    "file": "preview/lmpixels-demo-panel.js",
+    "bytes": 2893,
+    "duplicate": ""
+  },
+  {
+    "file": "favicon_io/android-chrome-192x192.png",
+    "bytes": 28636,
+    "duplicate": ""
+  },
+  {
+    "file": "favicon_io/android-chrome-512x512.png",
+    "bytes": 124030,
+    "duplicate": ""
+  },
+  {
+    "file": "favicon_io/apple-touch-icon.png",
+    "bytes": 25693,
+    "duplicate": ""
+  },
+  {
+    "file": "favicon_io/favicon-16x16.png",
+    "bytes": 631,
+    "duplicate": ""
+  },
+  {
+    "file": "favicon_io/favicon-32x32.png",
+    "bytes": 1654,
+    "duplicate": ""
+  },
+  {
+    "file": "favicon_io/favicon.ico",
+    "bytes": 15406,
+    "duplicate": ""
+  },
+  {
+    "file": "favicon_io/favicon_io/android-chrome-192x192.png",
+    "bytes": 7336,
+    "duplicate": ""
+  },
+  {
+    "file": "favicon_io/favicon_io/android-chrome-512x512.png",
+    "bytes": 21536,
+    "duplicate": ""
+  },
+  {
+    "file": "favicon_io/favicon_io/apple-touch-icon.png",
+    "bytes": 6646,
+    "duplicate": ""
+  },
+  {
+    "file": "favicon_io/favicon_io/favicon-16x16.png",
+    "bytes": 459,
+    "duplicate": ""
+  },
+  {
+    "file": "favicon_io/favicon_io/favicon-32x32.png",
+    "bytes": 900,
+    "duplicate": ""
+  },
+  {
+    "file": "favicon_io/favicon_io/favicon.ico",
+    "bytes": 15406,
+    "duplicate": ""
+  },
+  {
+    "file": "favicon_io/favicon_io/site.webmanifest",
+    "bytes": 263,
+    "duplicate": ""
+  },
+  {
+    "file": "favicon_io/favicon_io.zip",
+    "bytes": 53366,
+    "duplicate": ""
+  },
+  {
+    "file": "favicon_io/site.webmanifest",
+    "bytes": 263,
+    "duplicate": "favicon_io/favicon_io/site.webmanifest"
+  },
+  {
+    "file": "AmmarHabib_FrontEnd_Developer_CV.pdf",
+    "bytes": 485786,
+    "duplicate": ""
+  },
+  {
+    "file": "android-chrome-192x192.png",
+    "bytes": 7336,
+    "duplicate": "favicon_io/favicon_io/android-chrome-192x192.png"
+  },
+  {
+    "file": "android-chrome-512x512.png",
+    "bytes": 21536,
+    "duplicate": "favicon_io/favicon_io/android-chrome-512x512.png"
+  },
+  {
+    "file": "apple-touch-icon.png",
+    "bytes": 6646,
+    "duplicate": "favicon_io/favicon_io/apple-touch-icon.png"
+  },
+  {
+    "file": "favicon-16x16.png",
+    "bytes": 459,
+    "duplicate": "favicon_io/favicon_io/favicon-16x16.png"
+  },
+  {
+    "file": "favicon-32x32.png",
+    "bytes": 900,
+    "duplicate": "favicon_io/favicon_io/favicon-32x32.png"
+  },
+  {
+    "file": "favicon.ico",
+    "bytes": 15406,
+    "duplicate": "favicon_io/favicon_io/favicon.ico"
+  },
+  {
+    "file": "site.webmanifest",
+    "bytes": 263,
+    "duplicate": "favicon_io/site.webmanifest"
+  }
+]

@@ -64,9 +64,9 @@ export default function Home() {
           <div className="hero-aside">
             <span className="mono">BUILT WITH INTENTION.</span>
             <span className="mono muted">DESIGNED FOR PEOPLE.</span>
-            <Link href="/contact/" className="text-link">
+            <a href={`mailto:${site.email}`} className="text-link">
               Let’s connect <ArrowUpRight size={15} />
-            </Link>
+            </a>
           </div>
         </div>
         <div className="hero-foot">
@@ -196,7 +196,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <Testimonials featured />
+      <Testimonials />
       <ContactCTA />
     </>
   );

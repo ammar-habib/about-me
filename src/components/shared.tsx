@@ -30,9 +30,9 @@ export function ContactCTA() {
             Open to meaningful frontend engineering opportunities,
             collaborations, and ambitious digital projects.
           </p>
-          <Link className="button primary" href="/contact/">
+          <a className="button primary" href={`mailto:${site.email}`}>
             Let’s connect <ArrowUpRight size={18} />
-          </Link>
+          </a>
         </div>
       </div>
     </section>

@@ -2,10 +2,8 @@ import fs from "node:fs";
 import assert from "node:assert/strict";
 import { chromium, expect } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
-import {
-  testimonials,
-  featuredTestimonialIds,
-} from "../src/data/testimonials.ts";
+import { testimonials } from "../src/data/testimonials.ts";
+import { site } from "../src/data/site.ts";
 
 const base = process.env.TEST_BASE_URL || "http://localhost:3000";
 const browser = await chromium.launch({ channel: "chrome", headless: true });
@@ -38,6 +36,13 @@ try {
     watch(page);
     for (const route of ["/", "/about/"]) {
       await page.goto(base + route, { waitUntil: "networkidle" });
+      const connectLinks = page
+        .locator("a")
+        .filter({ hasText: "Let’s connect" });
+      assert.equal(await connectLinks.count(), route === "/" ? 2 : 1);
+      for (const link of await connectLinks.all()) {
+        assert.equal(await link.getAttribute("href"), `mailto:${site.email}`);
+      }
       const section = page.locator(".testimonials-section");
       const rail = page.locator(".testimonial-rail");
       await section.scrollIntoViewIfNeeded();
@@ -47,12 +52,7 @@ try {
           exact: true,
         })
         .click();
-      const expected =
-        route === "/"
-          ? featuredTestimonialIds.map((id) =>
-              testimonials.find((t) => t.id === id),
-            )
-          : testimonials;
+      const expected = testimonials;
       const perPage = width < 768 ? 1 : 2;
       const last = expected.length - perPage;
       assert.equal(await rail.locator("figure").count(), expected.length);

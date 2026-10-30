@@ -32,6 +32,24 @@ for (const route of routes) {
   assert.match(html, /<title>/);
   assert.match(html, /rel="canonical"/);
   assert.match(html, /name="description"/);
+  assert.match(
+    html,
+    /property="og:image" content="https:\/\/ammarhabib\.me\/social-card\.png\?v=\d{8}"/,
+  );
+  assert.match(
+    html,
+    /name="twitter:image" content="https:\/\/ammarhabib\.me\/social-card\.png\?v=\d{8}"/,
+  );
+  for (const icon of [
+    "favicon.ico",
+    "favicon-32x32.png",
+    "apple-touch-icon.png",
+  ]) {
+    assert.ok(
+      html.includes(`href="/${icon}?v=20261030"`),
+      "Missing versioned icon " + route + ": " + icon,
+    );
+  }
   for (const match of html.matchAll(/(?:href|src)="(\/[^"?#]*)/g)) {
     let url;
     try {
@@ -67,8 +85,36 @@ for (const asset of [
   "404.html",
   site.resume.slice(1),
   "social-card.png",
+  "favicon.ico",
+  "favicon-32x32.png",
+  "apple-touch-icon.png",
 ])
   assert.ok(fs.existsSync("out/" + asset), "Missing " + asset);
+for (const [asset, width, height] of [
+  ["social-card.png", 1200, 630],
+  ["favicon-32x32.png", 32, 32],
+  ["apple-touch-icon.png", 180, 180],
+]) {
+  const bytes = fs.readFileSync("out/" + asset);
+  assert.equal(
+    bytes.subarray(0, 8).toString("hex"),
+    "89504e470d0a1a0a",
+    "Invalid PNG " + asset,
+  );
+  assert.equal(bytes.readUInt32BE(16), width, "Wrong width " + asset);
+  assert.equal(bytes.readUInt32BE(20), height, "Wrong height " + asset);
+}
+const ico = fs.readFileSync("out/favicon.ico");
+assert.equal(ico.readUInt16LE(2), 1);
+assert.equal(ico.readUInt16LE(4), 3);
+assert.deepEqual(
+  [6, 22, 38].map((offset) => [ico[offset], ico[offset + 1]]),
+  [
+    [16, 16],
+    [32, 32],
+    [48, 48],
+  ],
+);
 assert.equal(fs.readFileSync("out/CNAME", "utf8").trim(), "ammarhabib.me");
 assert.ok(
   fs.readFileSync("out/sitemap.xml", "utf8").includes("/projects/dicta/"),

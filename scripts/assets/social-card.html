@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Ammar Habib — social preview source</title>
+    <style>
+      @font-face {
+        font-family: Display;
+        src: url("{{FONT_DISPLAY}}") format("woff2");
+        font-weight: 700;
+        font-display: block;
+      }
+      @font-face {
+        font-family: Body;
+        src: url("{{FONT_BODY}}") format("woff2");
+        font-weight: 400;
+        font-display: block;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        margin: 0;
+        width: 1200px;
+        height: 630px;
+        overflow: hidden;
+      }
+      body {
+        font-family: Body, sans-serif;
+        color: #f5f7fa;
+        background: #0b0f14;
+      }
+      .card {
+        position: relative;
+        width: 1200px;
+        height: 630px;
+        overflow: hidden;
+        background: radial-gradient(
+          ellipse at 86% 32%,
+          #143340 0%,
+          #111820 39%,
+          #0b0f14 77%
+        );
+      }
+      .grid {
+        position: absolute;
+        inset: 0;
+        background-image:
+          linear-gradient(#59d5e809 1px, transparent 1px),
+          linear-gradient(90deg, #59d5e809 1px, transparent 1px);
+        background-size: 48px 48px;
+        mask-image: linear-gradient(90deg, transparent 38%, #000);
+      }
+      .orbit {
+        position: absolute;
+        left: 713px;
+        top: -134px;
+        width: 638px;
+        height: 638px;
+        border: 1px solid #59d5e829;
+        border-radius: 50%;
+      }
+      .orbit:after {
+        content: "";
+        position: absolute;
+        inset: 38px;
+        border: 1px solid #59d5e815;
+        border-radius: 50%;
+      }
+      .brand {
+        position: absolute;
+        top: 42px;
+        left: 62px;
+        display: flex;
+        align-items: center;
+        gap: 14px;
+        font-size: 11px;
+        letter-spacing: 2.4px;
+        color: #9aa8b7;
+      }
+      .brand img {
+        width: 38px;
+        height: 38px;
+        border: 1px solid #36535e;
+        border-radius: 11px;
+      }
+      .brand b {
+        font-family: Display, sans-serif;
+        color: #f5f7fa;
+        font-size: 17px;
+        letter-spacing: -0.5px;
+      }
+      .brand b span {
+        color: #59d5e8;
+      }
+      .brand i {
+        width: 1px;
+        height: 15px;
+        background: #36535e;
+      }
+      .copy {
+        position: absolute;
+        top: 133px;
+        left: 62px;
+        width: 650px;
+      }
+      .role {
+        margin: 0 0 19px;
+        color: #59d5e8;
+        font-size: 12px;
+        letter-spacing: 2.5px;
+        text-transform: uppercase;
+      }
+      h1 {
+        margin: 0;
+        font-family: Display, sans-serif;
+        font-size: 76px;
+        line-height: 1.05;
+        letter-spacing: -4px;
+      }
+      .headline {
+        margin: 27px 0 0;
+        font-family: Display, sans-serif;
+        font-size: 41px;
+        line-height: 1.16;
+        letter-spacing: -1.4px;
+        color: #e3e9ee;
+      }
+      .headline em {
+        color: #59d5e8;
+        font-style: normal;
+      }
+      .stack {
+        display: flex;
+        gap: 9px;
+        margin-top: 28px;
+      }
+      .stack span {
+        font-size: 11px;
+        letter-spacing: 0.35px;
+        padding: 9px 13px;
+        border: 1px solid #2c3d48;
+        border-radius: 7px;
+        background: #111820a0;
+        color: #bbc8d4;
+      }
+      .portrait {
+        position: absolute;
+        left: 754px;
+        top: 34px;
+        width: 391px;
+        height: 510px;
+        border-radius: 24px;
+        overflow: hidden;
+        border: 1px solid #59d5e84a;
+        background: #111820;
+        box-shadow: 0 20px 70px #0005;
+      }
+      .portrait > img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center top;
+      }
+      .portrait:after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        border-radius: 23px;
+        box-shadow: inset 0 0 0 1px #ffffff09;
+        pointer-events: none;
+      }
+      .corner {
+        position: absolute;
+        left: 731px;
+        top: 57px;
+        width: 6px;
+        height: 6px;
+        border-radius: 50%;
+        background: #59d5e8;
+        box-shadow: 0 0 20px #59d5e8;
+      }
+      .footer {
+        position: absolute;
+        left: 62px;
+        right: 55px;
+        top: 568px;
+        padding-top: 18px;
+        border-top: 1px solid #2d404b;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .domain {
+        font-family: Display, sans-serif;
+        font-size: 19px;
+        letter-spacing: -0.4px;
+      }
+      .domain span {
+        color: #59d5e8;
+      }
+      .note {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        color: #9aa8b7;
+        font-size: 10px;
+        letter-spacing: 2px;
+      }
+      .arrow {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 28px;
+        height: 28px;
+        border-radius: 50%;
+        border: 1px solid #36535e;
+        color: #59d5e8;
+        font-size: 20px;
+        letter-spacing: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="card">
+      <div class="grid"></div>
+      <div class="orbit"></div>
+      <div class="brand">
+        <img src="{{ICON}}" alt="" /><b>ammar<span>.</span></b
+        ><i></i><span>SELECTED WORK &amp; EXPERIENCE</span>
+      </div>
+      <div class="copy">
+        <p class="role">Senior Frontend Developer</p>
+        <h1>Ammar Habib</h1>
+        <p class="headline">
+          Engineering digital<br />experiences that<br /><em>stand out.</em>
+        </p>
+        <div class="stack">
+          <span>React</span><span>Next.js</span><span>TypeScript</span>
+        </div>
+      </div>
+      <div class="corner"></div>
+      <div class="portrait"><img src="{{PORTRAIT}}" alt="Ammar Habib" /></div>
+      <div class="footer">
+        <div class="domain">ammarhabib<span>.me</span></div>
+        <div class="note">
+          THOUGHTFUL DESIGN. RELIABLE ENGINEERING.<span class="arrow">↗</span>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

@@ -11,7 +11,17 @@ export const metadata: Metadata = {
   },
   description:
     "Senior Frontend Developer and Frontend UI Engineer with 8+ years of experience crafting responsive, accessible web interfaces.",
-  icons: { icon: "/favicon.ico", apple: "/apple-touch-icon.png" },
+  icons: {
+    icon: [
+      { url: "/favicon.ico?v=20261030", sizes: "16x16 32x32 48x48" },
+      {
+        url: "/favicon-32x32.png?v=20261030",
+        type: "image/png",
+        sizes: "32x32",
+      },
+    ],
+    apple: { url: "/apple-touch-icon.png?v=20261030", sizes: "180x180" },
+  },
 };
 export default function RootLayout({
   children,
